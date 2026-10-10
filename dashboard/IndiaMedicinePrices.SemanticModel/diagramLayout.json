@@ -1,0 +1,191 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1335.6932572449482,
+            "y": 482.03445684034796
+          },
+          "nodeIndex": "availability_studies",
+          "nodeLineageTag": "28101e35-415f-4c6d-9d63-a3d3a10d0ff7",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 552.44798791770268,
+            "y": 910.068913680696
+          },
+          "nodeIndex": "bulk_drug_imports_monthly",
+          "nodeLineageTag": "6d73051a-12af-4a99-a635-ebe99b40e9e9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1060.3795293177918,
+            "y": 155.37574592566853
+          },
+          "nodeIndex": "consumer_price_inflation",
+          "nodeLineageTag": "45365977-cff4-4b1c-992e-0ce1ceb07929",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 520.08172809672828,
+            "y": 499.31041764291035
+          },
+          "nodeIndex": "DimDate",
+          "nodeLineageTag": "4d60f440-14ec-4fbe-8cb8-08ed238fa53b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 266.79404682957227,
+            "y": 860.87264999865965
+          },
+          "nodeIndex": "medicine_events",
+          "nodeLineageTag": "e10d7699-aeec-4810-910a-ab7d78a3d05c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1619.6932572449482,
+            "y": 480.03445684034796
+          },
+          "nodeIndex": "medicine_market_by_molecule",
+          "nodeLineageTag": "89b8262c-3a6a-4205-800e-c4fd7a825694",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1903.6932572449482,
+            "y": 480.03445684034796
+          },
+          "nodeIndex": "medicine_price_change_2022_2025",
+          "nodeLineageTag": "875913d2-dab4-4bf9-90da-919fa7d882e5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 646.0636418159005,
+            "y": -50
+          },
+          "nodeIndex": "nppa_annual_price_revision",
+          "nodeLineageTag": "b9a22918-1ccd-4f34-8a66-91ddff8469a2",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2187.6932572449482,
+            "y": 482.03445684034796
+          },
+          "nodeIndex": "nppa_ceiling_prices",
+          "nodeLineageTag": "4320b22e-2944-465f-b8e2-f5dd0c073e00",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1101.6932572449487,
+            "y": 519.79922970300345
+          },
+          "nodeIndex": "pharma_market_growth_2026",
+          "nodeLineageTag": "7c3ca533-c853-45bb-a021-d5888b31bbe0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 840.915740106228,
+            "y": 883.12524437081515
+          },
+          "nodeIndex": "pharma_production_index",
+          "nodeLineageTag": "2d6d6847-1520-4ba8-a000-e1f2d8f1202f",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 499.2276586057821
+          },
+          "nodeIndex": "pharma_trade_annual",
+          "nodeLineageTag": "0c519713-73e3-4a83-bf9a-13968b72b361",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 308.33464353273916,
+            "y": 134.84356982149825
+          },
+          "nodeIndex": "wholesale_price_index",
+          "nodeLineageTag": "71370de7-5ba5-47f9-824b-ca35bfa76f6b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

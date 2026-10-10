@@ -1,0 +1,99 @@
+table medicine_price_change_2022_2025
+	lineageTag: 875913d2-dab4-4bf9-90da-919fa7d882e5
+
+	/// Medicines found in both the 2022 catalogue and the 2025 scrape.
+	measure 'Medicines Compared' = COUNTROWS('medicine_price_change_2022_2025')
+		formatString: #,0
+		displayFolder: Wholesale prices
+		lineageTag: ad938fc9-4247-5132-b9b2-d28c8518dd3c
+
+	/// Typical change in a medicine's listed price between 2022 and 2025.
+	measure 'Median Price Change' = DIVIDE(MEDIAN('medicine_price_change_2022_2025'[change_pct]), 100)
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: 70540021-e305-5436-923a-9ebded56cb92
+
+	/// Share of compared medicines whose price rose.
+	measure 'Share Increased' = DIVIDE(CALCULATE(COUNTROWS('medicine_price_change_2022_2025'), 'medicine_price_change_2022_2025'[direction] = "Increased"), COUNTROWS('medicine_price_change_2022_2025'))
+		formatString: 0%
+		displayFolder: Wholesale prices
+		lineageTag: d6d1c6f8-08dd-59ce-ae33-62d53ab4578f
+
+	column medicine_id
+		dataType: string
+		isHidden
+		lineageTag: b82e975c-b148-4de3-b368-05be4e69837b
+		summarizeBy: none
+		sourceColumn: medicine_id
+
+	column medicine
+		dataType: string
+		lineageTag: bad24ad5-692a-4e65-8b9a-bfba437b6ca2
+		summarizeBy: none
+		sourceColumn: medicine
+
+	column manufacturer
+		dataType: string
+		lineageTag: f476a518-f355-49a6-91c8-1a00bfd7df07
+		summarizeBy: none
+		sourceColumn: manufacturer
+
+	column molecule
+		dataType: string
+		lineageTag: eeab0fa1-78a8-4abf-a76f-d4bf755060ec
+		summarizeBy: none
+		sourceColumn: molecule
+
+	column therapeutic_class
+		dataType: string
+		lineageTag: 1ed12f38-22c3-4509-bfda-68bf730669ad
+		summarizeBy: none
+		sourceColumn: therapeutic_class
+
+	column dosage_form
+		dataType: string
+		lineageTag: 870084b8-4184-44f9-9e1a-1e7ac6e88f21
+		summarizeBy: none
+		sourceColumn: dosage_form
+
+	column prescription_required
+		dataType: string
+		lineageTag: 7540eec0-87ef-4f54-8050-3635f4d4a9d6
+		summarizeBy: none
+		sourceColumn: prescription_required
+
+	column price_2022_inr
+		dataType: double
+		lineageTag: 07764760-1e4c-4c39-a00a-71d7b14fefd5
+		summarizeBy: none
+		sourceColumn: price_2022_inr
+
+	column mrp_2025_inr
+		dataType: double
+		lineageTag: aa1e5e0b-852a-4a2c-8ff3-710397427335
+		summarizeBy: none
+		sourceColumn: mrp_2025_inr
+
+	column change_pct
+		dataType: double
+		lineageTag: 36d31947-1ef0-4c1b-979d-c700f0656360
+		summarizeBy: none
+		sourceColumn: change_pct
+
+	column direction
+		dataType: string
+		lineageTag: 79792121-9103-4a0f-8086-01af3b75c683
+		summarizeBy: none
+		sourceColumn: direction
+
+	partition medicine_price_change_2022_2025 = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\medicine_price_change_2022_2025.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"medicine_id", "medicine", "manufacturer", "molecule", "therapeutic_class", "dosage_form", "prescription_required", "price_2022_inr", "mrp_2025_inr", "change_pct", "direction"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"medicine_id", type text}, {"medicine", type text}, {"manufacturer", type text}, {"molecule", type text}, {"therapeutic_class", type text}, {"dosage_form", type text}, {"prescription_required", type text}, {"price_2022_inr", type number}, {"mrp_2025_inr", type number}, {"change_pct", type number}, {"direction", type text}}, "en-US")
+				in
+				    Typed
+

@@ -1,0 +1,115 @@
+table consumer_price_inflation
+	lineageTag: 45365977-cff4-4b1c-992e-0ce1ceb07929
+
+	/// Year-on-year change in the consumer price index for the series in context.
+	measure Inflation = DIVIDE(AVERAGE('consumer_price_inflation'[inflation_pct]), 100)
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: d419c3b9-241b-55f8-83b7-4c26d5a7591f
+
+	/// Medicines consumer price inflation from 2015, for the trend line.
+	measure 'Medicines Inflation' = CALCULATE([Inflation], 'consumer_price_inflation'[series] = "Medicines", KEEPFILTERS('DimDate'[Date] >= DATE(2015, 1, 1)))
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: 20f233ed-9a44-5f4a-9c68-89cf0e36159b
+
+	/// Latest published medicines inflation (August 2026, new CPI series).
+	measure 'Medicines Inflation Latest' = VAR d = CALCULATE(MAX('consumer_price_inflation'[month]), 'consumer_price_inflation'[series] = "Medicines", NOT ISBLANK('consumer_price_inflation'[inflation_pct])) RETURN CALCULATE([Inflation], 'consumer_price_inflation'[series] = "Medicines", 'consumer_price_inflation'[month] = d)
+		formatString: 0.00%
+		displayFolder: Consumer prices
+		lineageTag: 48237d84-2c81-5ce3-b899-dba005c6ef8f
+
+	/// Health consumer price inflation from 2015, for the trend line.
+	measure 'Health Inflation' = CALCULATE([Inflation], 'consumer_price_inflation'[series] = "Health", KEEPFILTERS('DimDate'[Date] >= DATE(2015, 1, 1)))
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: 5328f139-7cff-560b-b0e9-fe46276d0da6
+
+	/// Latest published health inflation (August 2026, new CPI series).
+	measure 'Health Inflation Latest' = VAR d = CALCULATE(MAX('consumer_price_inflation'[month]), 'consumer_price_inflation'[series] = "Health", NOT ISBLANK('consumer_price_inflation'[inflation_pct])) RETURN CALCULATE([Inflation], 'consumer_price_inflation'[series] = "Health", 'consumer_price_inflation'[month] = d)
+		formatString: 0.00%
+		displayFolder: Consumer prices
+		lineageTag: e2f47c05-6dcd-5d87-a72c-afb4f8caf6bb
+
+	/// Headline consumer price inflation from 2015, for the trend line.
+	measure 'Headline Inflation' = CALCULATE([Inflation], 'consumer_price_inflation'[series] = "All items (headline CPI)", KEEPFILTERS('DimDate'[Date] >= DATE(2015, 1, 1)))
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: b86adfa9-23ef-59b9-b0ff-5a9e6c25acf1
+
+	/// Latest published headline inflation (August 2026, new CPI series).
+	measure 'Headline Inflation Latest' = VAR d = CALCULATE(MAX('consumer_price_inflation'[month]), 'consumer_price_inflation'[series] = "All items (headline CPI)", NOT ISBLANK('consumer_price_inflation'[inflation_pct])) RETURN CALCULATE([Inflation], 'consumer_price_inflation'[series] = "All items (headline CPI)", 'consumer_price_inflation'[month] = d)
+		formatString: 0.00%
+		displayFolder: Consumer prices
+		lineageTag: 29327c8a-3c49-5f82-8f68-8c5d7f05ca78
+
+	/// Medicine inflation in the last month of the old CPI series, the latest with a full index.
+	measure 'Medicines Inflation Dec 2025' = CALCULATE([Inflation], 'consumer_price_inflation'[series] = "Medicines", 'consumer_price_inflation'[month] = DATE(2025, 12, 1))
+		formatString: 0.00%
+		displayFolder: Consumer prices
+		lineageTag: 542f389b-1e8c-54a5-ba5a-490261f9c2d4
+
+	/// December 2025 inflation for each health item, for the comparison chart.
+	measure 'Inflation Dec 2025' = CALCULATE([Inflation], 'consumer_price_inflation'[month] = DATE(2025, 12, 1))
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: c407ffbd-c7f2-512d-b38f-e109971af85b
+
+	/// Cumulative rise in the medicine price index from January 2014 to December 2025.
+	measure 'Medicine Price Rise Since 2014' = DIVIDE(CALCULATE(AVERAGE('consumer_price_inflation'[index_value]), 'consumer_price_inflation'[series] = "Medicines", 'consumer_price_inflation'[month] = DATE(2025, 12, 1)), CALCULATE(AVERAGE('consumer_price_inflation'[index_value]), 'consumer_price_inflation'[series] = "Medicines", 'consumer_price_inflation'[month] = DATE(2014, 1, 1))) - 1
+		formatString: +0%;-0%
+		displayFolder: Consumer prices
+		lineageTag: d639c99a-e90e-5bdf-806c-acd48c05e9b5
+
+	column month
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 76ffc9da-3848-47ed-a427-8f3f1e859fca
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column series
+		dataType: string
+		lineageTag: e9b8598e-50ed-4971-a4e0-2a1d40cb866c
+		summarizeBy: none
+		sourceColumn: series
+
+	column index_value
+		dataType: double
+		lineageTag: b9624f19-fc14-4294-96c4-c309d6ad09e2
+		summarizeBy: none
+		sourceColumn: index_value
+
+	column inflation_pct
+		dataType: double
+		lineageTag: 0c022f80-c5a8-4ce7-9c38-650787ac9ce0
+		summarizeBy: none
+		sourceColumn: inflation_pct
+
+	column base_year
+		dataType: int64
+		lineageTag: 7e7443be-2b4a-4e4a-b7f5-a6ef52129f0b
+		summarizeBy: none
+		sourceColumn: base_year
+
+	column verification
+		dataType: string
+		lineageTag: d39ccf11-86f1-452e-bb21-4e4193033b4f
+		summarizeBy: none
+		sourceColumn: verification
+
+	partition consumer_price_inflation = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\consumer_price_inflation.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"month", "series", "index_value", "inflation_pct", "base_year", "verification"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"month", type date}, {"series", type text}, {"index_value", type number}, {"inflation_pct", type number}, {"base_year", Int64.Type}, {"verification", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

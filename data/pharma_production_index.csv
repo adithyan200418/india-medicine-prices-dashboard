@@ -1,0 +1,223 @@
+month,series,index_value,growth_pct
+2017-01-01,All industry (general index),123.1,3.5
+2017-02-01,All industry (general index),119.2,1.2
+2017-03-01,All industry (general index),133.2,4.4
+2017-04-01,All industry (general index),117.3,3.2
+2017-05-01,All industry (general index),124.8,2.9
+2017-06-01,All industry (general index),119.3,-0.3
+2017-07-01,All industry (general index),118.0,1.0
+2017-08-01,All industry (general index),122.1,4.8
+2017-09-01,All industry (general index),123.1,4.1
+2017-10-01,All industry (general index),122.5,1.8
+2017-11-01,All industry (general index),125.8,8.5
+2017-12-01,All industry (general index),130.6,7.3
+2018-01-01,All industry (general index),132.3,7.5
+2018-02-01,All industry (general index),127.4,6.9
+2018-03-01,All industry (general index),140.3,5.3
+2018-04-01,All industry (general index),122.6,4.5
+2018-05-01,All industry (general index),129.6,3.8
+2018-06-01,All industry (general index),127.7,7.0
+2018-07-01,All industry (general index),125.7,6.5
+2018-08-01,All industry (general index),128.0,4.8
+2018-09-01,All industry (general index),128.8,4.6
+2018-10-01,All industry (general index),132.8,8.4
+2018-11-01,All industry (general index),126.1,0.2
+2018-12-01,All industry (general index),133.9,2.5
+2019-01-01,All industry (general index),134.4,1.6
+2019-02-01,All industry (general index),127.6,0.2
+2019-03-01,All industry (general index),144.1,2.7
+2019-04-01,All industry (general index),126.5,3.2
+2019-05-01,All industry (general index),135.4,4.5
+2019-06-01,All industry (general index),129.3,1.3
+2019-07-01,All industry (general index),131.8,4.9
+2019-08-01,All industry (general index),126.2,-1.4
+2019-09-01,All industry (general index),122.9,-4.6
+2019-10-01,All industry (general index),124.0,-6.6
+2019-11-01,All industry (general index),128.8,2.1
+2019-12-01,All industry (general index),134.5,0.4
+2020-01-01,All industry (general index),137.4,2.2
+2020-02-01,All industry (general index),134.2,5.2
+2020-03-01,All industry (general index),117.2,-18.7
+2020-04-01,All industry (general index),54.0,-57.3
+2020-05-01,All industry (general index),90.2,-33.4
+2020-06-01,All industry (general index),107.9,-16.6
+2020-07-01,All industry (general index),117.9,-10.5
+2020-08-01,All industry (general index),117.2,-7.1
+2020-09-01,All industry (general index),124.1,1.0
+2020-10-01,All industry (general index),129.6,4.5
+2020-11-01,All industry (general index),126.7,-1.6
+2020-12-01,All industry (general index),137.4,2.2
+2021-01-01,All industry (general index),136.6,-0.6
+2021-02-01,All industry (general index),129.9,-3.2
+2021-03-01,All industry (general index),145.6,24.2
+2021-04-01,All industry (general index),126.1,
+2021-05-01,All industry (general index),115.1,27.6
+2021-06-01,All industry (general index),122.8,13.8
+2021-07-01,All industry (general index),131.5,11.5
+2021-08-01,All industry (general index),132.4,13.0
+2021-09-01,All industry (general index),129.5,4.4
+2021-10-01,All industry (general index),135.0,4.2
+2021-11-01,All industry (general index),128.0,1.0
+2021-12-01,All industry (general index),138.8,1.0
+2022-01-01,All industry (general index),139.3,2.0
+2022-02-01,All industry (general index),131.4,1.2
+2022-03-01,All industry (general index),148.8,2.2
+2022-04-01,All industry (general index),134.5,6.7
+2022-05-01,All industry (general index),137.8,19.7
+2022-06-01,All industry (general index),138.3,12.6
+2022-07-01,All industry (general index),134.4,2.2
+2022-08-01,All industry (general index),131.5,-0.7
+2022-09-01,All industry (general index),133.8,3.3
+2022-10-01,All industry (general index),129.5,-4.1
+2022-11-01,All industry (general index),137.7,7.6
+2022-12-01,All industry (general index),145.9,5.1
+2023-01-01,All industry (general index),147.4,5.8
+2023-02-01,All industry (general index),139.3,6.0
+2023-03-01,All industry (general index),151.7,1.9
+2023-04-01,All industry (general index),140.7,4.6
+2023-05-01,All industry (general index),145.6,5.7
+2023-06-01,All industry (general index),143.9,4.0
+2023-07-01,All industry (general index),142.7,6.2
+2023-08-01,All industry (general index),145.8,10.9
+2023-09-01,All industry (general index),142.3,6.4
+2023-10-01,All industry (general index),144.9,11.9
+2023-11-01,All industry (general index),141.1,2.5
+2023-12-01,All industry (general index),152.3,4.4
+2024-01-01,All industry (general index),153.6,4.2
+2024-02-01,All industry (general index),147.1,5.6
+2024-03-01,All industry (general index),160.0,5.5
+2024-04-01,All industry (general index),148.0,5.2
+2024-05-01,All industry (general index),154.7,6.3
+2024-06-01,All industry (general index),151.0,4.9
+2024-07-01,All industry (general index),149.8,5.0
+2024-08-01,All industry (general index),145.8,0.0
+2024-09-01,All industry (general index),146.9,3.2
+2024-10-01,All industry (general index),150.3,3.7
+2024-11-01,All industry (general index),148.1,5.0
+2024-12-01,All industry (general index),158.0,3.7
+2025-01-01,All industry (general index),161.6,5.2
+2025-02-01,All industry (general index),151.1,2.7
+2025-03-01,All industry (general index),166.3,3.9
+2025-04-01,All industry (general index),151.8,2.6
+2025-05-01,All industry (general index),157.6,1.9
+2025-06-01,All industry (general index),153.3,1.5
+2025-07-01,All industry (general index),156.2,4.3
+2025-08-01,All industry (general index),151.7,4.0
+2025-09-01,All industry (general index),153.7,4.6
+2025-10-01,All industry (general index),151.1,0.5
+2025-11-01,All industry (general index),158.7,7.2
+2025-12-01,All industry (general index),170.7,8.0
+2026-01-01,All industry (general index),169.9,5.1
+2026-02-01,All industry (general index),158.8,5.1
+2026-03-01,All industry (general index),173.2,4.1
+2017-01-01,Pharmaceuticals,189.8,38.7
+2017-02-01,Pharmaceuticals,207.7,55.3
+2017-03-01,Pharmaceuticals,192.8,36.4
+2017-04-01,Pharmaceuticals,182.2,30.7
+2017-05-01,Pharmaceuticals,225.2,27.3
+2017-06-01,Pharmaceuticals,191.0,18.9
+2017-07-01,Pharmaceuticals,200.2,19.7
+2017-08-01,Pharmaceuticals,197.0,16.8
+2017-09-01,Pharmaceuticals,213.1,26.2
+2017-10-01,Pharmaceuticals,199.7,22.6
+2017-11-01,Pharmaceuticals,226.1,40.8
+2017-12-01,Pharmaceuticals,229.6,33.0
+2018-01-01,Pharmaceuticals,231.6,22.0
+2018-02-01,Pharmaceuticals,217.9,4.9
+2018-03-01,Pharmaceuticals,231.5,20.1
+2018-04-01,Pharmaceuticals,194.9,7.0
+2018-05-01,Pharmaceuticals,207.8,-7.7
+2018-06-01,Pharmaceuticals,189.6,-0.7
+2018-07-01,Pharmaceuticals,212.2,6.0
+2018-08-01,Pharmaceuticals,212.9,8.1
+2018-09-01,Pharmaceuticals,226.5,6.3
+2018-10-01,Pharmaceuticals,212.3,6.3
+2018-11-01,Pharmaceuticals,220.9,-2.3
+2018-12-01,Pharmaceuticals,233.1,1.5
+2019-01-01,Pharmaceuticals,226.5,-2.2
+2019-02-01,Pharmaceuticals,222.1,1.9
+2019-03-01,Pharmaceuticals,227.6,-1.7
+2019-04-01,Pharmaceuticals,202.8,4.1
+2019-05-01,Pharmaceuticals,223.6,7.6
+2019-06-01,Pharmaceuticals,201.0,6.0
+2019-07-01,Pharmaceuticals,219.0,3.2
+2019-08-01,Pharmaceuticals,226.6,6.4
+2019-09-01,Pharmaceuticals,221.8,-2.1
+2019-10-01,Pharmaceuticals,211.9,-0.2
+2019-11-01,Pharmaceuticals,228.3,3.3
+2019-12-01,Pharmaceuticals,224.8,-3.6
+2020-01-01,Pharmaceuticals,225.3,-0.5
+2020-02-01,Pharmaceuticals,228.1,2.7
+2020-03-01,Pharmaceuticals,168.6,-25.9
+2020-04-01,Pharmaceuticals,93.6,-53.8
+2020-05-01,Pharmaceuticals,234.3,4.8
+2020-06-01,Pharmaceuticals,237.1,18.0
+2020-07-01,Pharmaceuticals,243.1,11.0
+2020-08-01,Pharmaceuticals,221.9,-2.1
+2020-09-01,Pharmaceuticals,236.0,6.4
+2020-10-01,Pharmaceuticals,239.6,13.1
+2020-11-01,Pharmaceuticals,226.0,-1.0
+2020-12-01,Pharmaceuticals,239.9,6.7
+2021-01-01,Pharmaceuticals,205.4,-8.8
+2021-02-01,Pharmaceuticals,216.8,-5.0
+2021-03-01,Pharmaceuticals,230.7,36.8
+2021-04-01,Pharmaceuticals,202.3,
+2021-05-01,Pharmaceuticals,217.1,-7.3
+2021-06-01,Pharmaceuticals,226.9,-4.3
+2021-07-01,Pharmaceuticals,228.6,-6.0
+2021-08-01,Pharmaceuticals,233.8,5.4
+2021-09-01,Pharmaceuticals,238.5,1.1
+2021-10-01,Pharmaceuticals,236.7,-1.2
+2021-11-01,Pharmaceuticals,227.2,0.5
+2021-12-01,Pharmaceuticals,237.5,-1.0
+2022-01-01,Pharmaceuticals,223.3,8.7
+2022-02-01,Pharmaceuticals,186.3,-14.1
+2022-03-01,Pharmaceuticals,201.0,-12.9
+2022-04-01,Pharmaceuticals,191.1,-5.5
+2022-05-01,Pharmaceuticals,188.0,-13.4
+2022-06-01,Pharmaceuticals,216.5,-4.6
+2022-07-01,Pharmaceuticals,217.9,-4.7
+2022-08-01,Pharmaceuticals,192.7,-17.6
+2022-09-01,Pharmaceuticals,205.0,-14.0
+2022-10-01,Pharmaceuticals,188.1,-20.5
+2022-11-01,Pharmaceuticals,250.5,10.3
+2022-12-01,Pharmaceuticals,276.3,16.3
+2023-01-01,Pharmaceuticals,243.9,9.2
+2023-02-01,Pharmaceuticals,229.3,23.1
+2023-03-01,Pharmaceuticals,194.7,-3.1
+2023-04-01,Pharmaceuticals,237.0,24.0
+2023-05-01,Pharmaceuticals,227.9,21.2
+2023-06-01,Pharmaceuticals,225.3,4.1
+2023-07-01,Pharmaceuticals,244.5,12.2
+2023-08-01,Pharmaceuticals,225.9,17.2
+2023-09-01,Pharmaceuticals,220.1,7.4
+2023-10-01,Pharmaceuticals,212.8,13.1
+2023-11-01,Pharmaceuticals,244.3,-2.5
+2023-12-01,Pharmaceuticals,286.3,3.6
+2024-01-01,Pharmaceuticals,245.6,0.7
+2024-02-01,Pharmaceuticals,205.6,-10.3
+2024-03-01,Pharmaceuticals,228.0,17.1
+2024-04-01,Pharmaceuticals,244.4,3.1
+2024-05-01,Pharmaceuticals,245.0,7.5
+2024-06-01,Pharmaceuticals,218.8,-2.9
+2024-07-01,Pharmaceuticals,224.7,-8.1
+2024-08-01,Pharmaceuticals,212.6,-5.9
+2024-09-01,Pharmaceuticals,222.9,1.3
+2024-10-01,Pharmaceuticals,216.9,1.9
+2024-11-01,Pharmaceuticals,251.4,2.9
+2024-12-01,Pharmaceuticals,259.1,-9.5
+2025-01-01,Pharmaceuticals,246.1,0.2
+2025-02-01,Pharmaceuticals,211.8,3.0
+2025-03-01,Pharmaceuticals,218.3,-4.3
+2025-04-01,Pharmaceuticals,231.5,-5.3
+2025-05-01,Pharmaceuticals,243.5,-0.6
+2025-06-01,Pharmaceuticals,220.8,0.9
+2025-07-01,Pharmaceuticals,232.6,3.5
+2025-08-01,Pharmaceuticals,193.1,-9.2
+2025-09-01,Pharmaceuticals,226.9,1.8
+2025-10-01,Pharmaceuticals,209.8,-3.3
+2025-11-01,Pharmaceuticals,278.9,10.9
+2025-12-01,Pharmaceuticals,285.5,10.2
+2026-01-01,Pharmaceuticals,229.5,-6.7
+2026-02-01,Pharmaceuticals,206.9,-2.3
+2026-03-01,Pharmaceuticals,224.3,2.7

@@ -1,0 +1,301 @@
+month,hs_code,product,product_type,flow,partner,value_usd_million,weight_tonnes,usd_per_kg
+2024-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,17.287,2035.58,8.49
+2024-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,14.058,1166.47,12.05
+2024-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,8.659,1194.86,7.25
+2024-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,7.53,516.64,14.57
+2024-05-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,7.908,453.74,17.43
+2024-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,11.378,581.48,19.57
+2024-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,9.47,513.63,18.44
+2024-08-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,11.029,493.03,22.37
+2024-09-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,10.747,730.41,14.71
+2024-10-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.976,1129.79,12.37
+2024-11-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,16.572,1665.0,9.95
+2024-12-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.32,847.25,15.72
+2025-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,11.441,653.15,17.52
+2025-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,10.72,1104.4,9.71
+2025-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,10.903,1218.96,8.94
+2025-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,12.716,907.08,14.02
+2025-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,11.024,716.26,15.39
+2025-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,16.207,1253.73,12.93
+2025-08-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,15.497,1362.8,11.37
+2025-09-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,9.885,762.07,12.97
+2025-10-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.667,1526.08,8.96
+2025-11-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,10.863,1873.44,5.8
+2025-12-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.025,1234.07,10.55
+2026-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.0,1371.13,9.48
+2026-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,12.958,1266.75,10.23
+2026-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.03,1123.9,11.59
+2026-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,14.781,1289.54,11.46
+2026-05-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,13.901,1265.92,10.98
+2026-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,12.304,1109.63,11.09
+2026-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,China,15.02,1258.99,11.93
+2024-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,25.414,2190.72,11.6
+2024-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,21.131,1469.46,14.38
+2024-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,16.092,1406.49,11.44
+2024-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,13.205,772.48,17.09
+2024-05-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.036,979.58,18.41
+2024-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.33,947.0,19.36
+2024-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,15.32,739.99,20.7
+2024-08-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,19.39,878.24,22.08
+2024-09-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,16.381,949.63,17.25
+2024-10-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,22.376,1451.84,15.41
+2024-11-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,23.98,1966.24,12.2
+2024-12-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,22.351,1104.9,20.23
+2025-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,16.183,854.07,18.95
+2025-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,17.418,1311.29,13.28
+2025-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,16.618,1414.65,11.75
+2025-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,17.007,1041.88,16.32
+2025-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.247,950.47,19.2
+2025-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,24.449,1525.98,16.02
+2025-08-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,27.442,,
+2025-09-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.358,985.62,18.63
+2025-10-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,26.622,1997.92,13.32
+2025-11-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,20.206,2214.97,9.12
+2025-12-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,21.11,1386.54,15.22
+2026-01-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.251,1531.19,11.92
+2026-02-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,19.217,1509.35,12.73
+2026-03-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,17.223,1249.6,13.78
+2026-04-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,21.816,1461.64,14.93
+2026-05-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,18.751,1441.49,13.01
+2026-06-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,21.973,1381.5,15.91
+2026-07-01,2936,Vitamins (bulk),Bulk drug / API,Import,World,23.337,1557.1,14.99
+2024-01-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.512,119.46,196.82
+2024-02-01,2937,Hormones (bulk),Bulk drug / API,Import,China,19.238,156.65,122.81
+2024-03-01,2937,Hormones (bulk),Bulk drug / API,Import,China,16.823,120.13,140.04
+2024-04-01,2937,Hormones (bulk),Bulk drug / API,Import,China,18.578,96.63,192.25
+2024-05-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.58,71.83,328.27
+2024-06-01,2937,Hormones (bulk),Bulk drug / API,Import,China,17.899,88.32,202.66
+2024-07-01,2937,Hormones (bulk),Bulk drug / API,Import,China,22.159,45.73,484.58
+2024-08-01,2937,Hormones (bulk),Bulk drug / API,Import,China,17.636,54.78,321.95
+2024-09-01,2937,Hormones (bulk),Bulk drug / API,Import,China,14.913,54.35,274.4
+2024-10-01,2937,Hormones (bulk),Bulk drug / API,Import,China,19.134,55.75,343.21
+2024-11-01,2937,Hormones (bulk),Bulk drug / API,Import,China,15.983,70.19,227.7
+2024-12-01,2937,Hormones (bulk),Bulk drug / API,Import,China,22.065,81.69,270.1
+2025-01-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.481,122.78,191.25
+2025-02-01,2937,Hormones (bulk),Bulk drug / API,Import,China,11.016,88.93,123.87
+2025-03-01,2937,Hormones (bulk),Bulk drug / API,Import,China,16.086,113.53,141.69
+2025-04-01,2937,Hormones (bulk),Bulk drug / API,Import,China,16.863,84.39,199.81
+2025-06-01,2937,Hormones (bulk),Bulk drug / API,Import,China,20.036,43.22,463.58
+2025-07-01,2937,Hormones (bulk),Bulk drug / API,Import,China,33.181,96.46,343.99
+2025-08-01,2937,Hormones (bulk),Bulk drug / API,Import,China,20.987,55.0,381.57
+2025-09-01,2937,Hormones (bulk),Bulk drug / API,Import,China,18.347,70.54,260.11
+2025-10-01,2937,Hormones (bulk),Bulk drug / API,Import,China,16.334,54.35,300.54
+2025-11-01,2937,Hormones (bulk),Bulk drug / API,Import,China,20.911,58.84,355.4
+2025-12-01,2937,Hormones (bulk),Bulk drug / API,Import,China,24.552,103.39,237.48
+2026-01-01,2937,Hormones (bulk),Bulk drug / API,Import,China,19.927,125.66,158.58
+2026-02-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.548,,
+2026-03-01,2937,Hormones (bulk),Bulk drug / API,Import,China,21.269,99.09,214.64
+2026-04-01,2937,Hormones (bulk),Bulk drug / API,Import,China,27.256,120.65,225.9
+2026-05-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.303,126.94,183.57
+2026-06-01,2937,Hormones (bulk),Bulk drug / API,Import,China,23.008,77.62,296.43
+2026-07-01,2937,Hormones (bulk),Bulk drug / API,Import,China,25.972,106.79,243.21
+2024-01-01,2937,Hormones (bulk),Bulk drug / API,Import,World,34.144,125.7,271.64
+2024-02-01,2937,Hormones (bulk),Bulk drug / API,Import,World,28.699,,
+2024-03-01,2937,Hormones (bulk),Bulk drug / API,Import,World,28.579,124.56,229.44
+2024-04-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.94,103.92,326.58
+2024-05-01,2937,Hormones (bulk),Bulk drug / API,Import,World,43.94,,
+2024-06-01,2937,Hormones (bulk),Bulk drug / API,Import,World,32.755,94.9,345.17
+2024-07-01,2937,Hormones (bulk),Bulk drug / API,Import,World,31.263,49.29,634.33
+2024-08-01,2937,Hormones (bulk),Bulk drug / API,Import,World,26.953,69.68,386.8
+2024-09-01,2937,Hormones (bulk),Bulk drug / API,Import,World,21.978,,
+2024-10-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.58,73.38,457.61
+2024-11-01,2937,Hormones (bulk),Bulk drug / API,Import,World,28.792,,
+2024-12-01,2937,Hormones (bulk),Bulk drug / API,Import,World,49.256,94.42,521.69
+2025-01-01,2937,Hormones (bulk),Bulk drug / API,Import,World,35.085,126.38,277.61
+2025-02-01,2937,Hormones (bulk),Bulk drug / API,Import,World,23.463,92.16,254.6
+2025-03-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.668,120.32,279.81
+2025-04-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.348,,
+2025-06-01,2937,Hormones (bulk),Bulk drug / API,Import,World,32.978,,
+2025-07-01,2937,Hormones (bulk),Bulk drug / API,Import,World,50.05,,
+2025-08-01,2937,Hormones (bulk),Bulk drug / API,Import,World,31.282,,
+2025-09-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.118,,
+2025-10-01,2937,Hormones (bulk),Bulk drug / API,Import,World,24.399,57.77,422.35
+2025-11-01,2937,Hormones (bulk),Bulk drug / API,Import,World,33.746,69.82,483.31
+2025-12-01,2937,Hormones (bulk),Bulk drug / API,Import,World,40.536,107.49,377.12
+2026-01-01,2937,Hormones (bulk),Bulk drug / API,Import,World,26.715,128.32,208.2
+2026-02-01,2937,Hormones (bulk),Bulk drug / API,Import,World,39.599,,
+2026-03-01,2937,Hormones (bulk),Bulk drug / API,Import,World,35.43,108.33,327.05
+2026-04-01,2937,Hormones (bulk),Bulk drug / API,Import,World,40.56,,
+2026-05-01,2937,Hormones (bulk),Bulk drug / API,Import,World,35.321,136.91,258.0
+2026-06-01,2937,Hormones (bulk),Bulk drug / API,Import,World,42.374,,
+2026-07-01,2937,Hormones (bulk),Bulk drug / API,Import,World,36.538,118.63,307.99
+2024-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,136.915,2221.27,61.64
+2024-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,146.477,2448.63,59.82
+2024-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,137.453,2580.83,53.26
+2024-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,153.471,3245.62,47.29
+2024-05-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,138.643,2530.25,54.79
+2024-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,147.002,2763.02,53.2
+2024-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,133.441,2454.82,54.36
+2024-08-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,141.298,2518.87,56.1
+2024-09-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,143.527,2688.73,53.38
+2024-10-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,181.357,3646.0,49.74
+2024-11-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,146.63,2770.75,52.92
+2024-12-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,139.866,2359.8,59.27
+2025-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,182.939,3351.61,54.58
+2025-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,133.824,2565.36,52.17
+2025-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,144.608,2959.42,48.86
+2025-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,128.413,2107.87,60.92
+2025-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,109.848,1712.37,64.15
+2025-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,140.344,2862.69,49.03
+2025-08-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,140.101,2681.39,52.25
+2025-09-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,129.319,3196.23,40.46
+2025-10-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,130.064,3051.17,42.63
+2025-11-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,136.832,3507.83,39.01
+2025-12-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,147.078,3182.82,46.21
+2026-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,164.428,3609.12,45.56
+2026-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,126.123,2514.01,50.17
+2026-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,118.157,2477.36,47.69
+2026-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,120.022,2373.85,50.56
+2026-05-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,100.74,1908.55,52.78
+2026-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,91.539,1669.25,54.84
+2026-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,China,99.894,1934.99,51.62
+2024-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,159.048,2452.06,64.86
+2024-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,167.143,2648.11,63.12
+2024-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,153.988,2702.19,56.99
+2024-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,170.744,3328.28,51.3
+2024-05-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,153.826,2665.93,57.7
+2024-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,159.399,2854.91,55.83
+2024-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,156.555,2698.38,58.02
+2024-08-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,162.744,2787.37,58.39
+2024-09-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,157.87,2795.37,56.48
+2024-10-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,196.758,3792.08,51.89
+2024-11-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,167.557,2924.31,57.3
+2024-12-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,163.536,,
+2025-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,207.559,3559.97,58.3
+2025-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,147.645,2724.97,54.18
+2025-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,163.191,3107.69,52.51
+2025-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,150.057,2385.41,62.91
+2025-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,130.3,1975.02,65.97
+2025-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,163.387,3066.02,53.29
+2025-08-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,168.827,3189.87,52.93
+2025-09-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,147.59,3419.15,43.17
+2025-10-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,142.958,3179.02,44.97
+2025-11-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,154.344,3923.52,39.34
+2025-12-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,180.143,3729.11,48.31
+2026-01-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,187.086,3825.81,48.9
+2026-02-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,142.474,2753.65,51.74
+2026-03-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,134.42,2757.06,48.75
+2026-04-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,135.718,2470.71,54.93
+2026-05-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,121.552,2096.44,57.98
+2026-06-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,110.905,1915.96,57.88
+2026-07-01,2941,Antibiotics (bulk),Bulk drug / API,Import,World,120.759,2031.9,59.43
+2024-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,28.636,705.54,40.59
+2024-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,19.103,942.49,20.27
+2024-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.681,958.52,23.66
+2024-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,26.11,874.3,29.86
+2024-05-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,25.622,972.95,26.33
+2024-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.394,853.18,26.25
+2024-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,25.645,721.58,35.54
+2024-08-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,25.953,1011.91,25.65
+2024-09-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,24.113,577.24,41.77
+2024-10-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,30.248,1134.28,26.67
+2024-11-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,25.658,747.38,34.33
+2024-12-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,29.695,1076.23,27.59
+2025-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,33.178,938.87,35.34
+2025-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,20.812,818.1,25.44
+2025-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,28.2,1111.82,25.36
+2025-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.134,787.39,28.11
+2025-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.32,792.28,28.17
+2025-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,26.841,1020.5,26.3
+2025-08-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,23.207,811.67,28.59
+2025-09-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.23,957.69,23.21
+2025-10-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,21.982,927.4,23.7
+2025-11-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,25.775,1108.87,23.24
+2025-12-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,24.503,1017.38,24.08
+2026-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,22.426,1185.36,18.92
+2026-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,19.571,1027.83,19.04
+2026-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,24.254,1429.69,16.96
+2026-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,21.51,1098.16,19.59
+2026-05-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,20.444,958.28,21.33
+2026-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,21.077,866.69,24.32
+2026-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,China,26.204,968.5,27.06
+2024-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,34.904,744.21,46.9
+2024-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,23.495,983.64,23.89
+2024-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,27.958,1074.9,26.01
+2024-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,30.803,1158.65,26.59
+2024-05-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,31.345,1040.58,30.12
+2024-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,28.989,977.1,29.67
+2024-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,35.763,814.02,43.93
+2024-08-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,29.424,1254.26,23.46
+2024-09-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,29.886,1009.34,29.61
+2024-10-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,35.663,1387.7,25.7
+2024-11-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,30.962,1238.48,25.0
+2024-12-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,37.833,1219.37,31.03
+2025-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,39.304,1195.64,32.87
+2025-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,26.437,865.17,30.56
+2025-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,34.1,1516.85,22.48
+2025-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,30.576,1065.97,28.68
+2025-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,27.463,893.49,30.74
+2025-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,33.984,1194.78,28.44
+2025-08-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,29.462,888.82,33.15
+2025-09-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,28.197,1309.01,21.54
+2025-10-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,29.941,1179.37,25.39
+2025-11-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,34.545,1413.9,24.43
+2025-12-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,34.595,1221.27,28.33
+2026-01-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,28.195,1413.11,19.95
+2026-02-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,24.363,1161.21,20.98
+2026-03-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,32.774,1466.94,22.34
+2026-04-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,29.651,1337.09,22.18
+2026-05-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,28.727,1197.26,23.99
+2026-06-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,32.982,1260.67,26.16
+2026-07-01,2942,Other organic compounds (bulk),Bulk drug / API,Import,World,33.625,1172.11,28.69
+2024-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.678,23.29,72.05
+2024-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.128,39.46,79.28
+2024-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,4.758,15.72,302.72
+2024-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.832,26.51,69.11
+2024-05-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.355,3.03,777.46
+2024-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.364,69.66,48.29
+2024-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.404,30.45,46.09
+2024-08-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.236,45.87,26.94
+2024-09-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.84,28.39,64.83
+2024-10-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.58,41.5,62.17
+2024-11-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.49,18.51,80.47
+2024-12-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.826,39.09,97.89
+2025-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.915,61.13,31.32
+2025-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.646,29.25,90.45
+2025-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.408,91.14,37.39
+2025-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,4.715,18.26,258.25
+2025-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.238,19.65,113.86
+2025-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.821,45.85,61.52
+2025-08-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.294,61.91,37.05
+2025-09-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.744,25.05,109.54
+2025-10-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.577,15.76,163.5
+2025-11-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.696,31.06,119.01
+2025-12-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.762,24.34,154.56
+2026-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.495,32.84,106.41
+2026-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,1.426,45.02,31.69
+2026-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.575,38.95,91.79
+2026-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.208,50.45,43.77
+2026-05-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,2.511,15.47,162.31
+2026-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,3.67,37.75,97.22
+2026-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,China,7.47,87.21,85.66
+2024-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,97.579,549.41,177.61
+2024-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,71.581,495.24,144.54
+2024-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,116.684,844.05,138.24
+2024-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,110.14,848.97,129.73
+2024-05-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,90.082,1116.46,80.69
+2024-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,98.608,1581.31,62.36
+2024-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,99.237,717.34,138.34
+2024-08-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,93.563,,
+2024-09-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,92.361,743.98,124.14
+2024-10-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,124.057,1065.91,116.39
+2024-11-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,113.951,888.26,128.29
+2024-12-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,122.14,1059.51,115.28
+2025-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,107.667,1015.08,106.07
+2025-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,134.22,925.47,145.03
+2025-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,95.282,823.39,115.72
+2025-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,102.55,965.08,106.26
+2025-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,104.477,1174.07,88.99
+2025-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,141.101,1309.21,107.78
+2025-08-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,111.687,1317.06,84.8
+2025-09-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,115.519,1287.14,89.75
+2025-10-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,144.726,998.31,144.97
+2025-11-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,146.944,723.38,203.14
+2025-12-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,163.589,1260.22,129.81
+2026-01-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,147.805,1002.25,147.47
+2026-02-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,179.445,909.46,197.31
+2026-03-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,140.223,644.97,217.41
+2026-04-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,131.489,970.44,135.49
+2026-05-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,145.599,906.42,160.63
+2026-06-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,140.931,1084.52,129.95
+2026-07-01,3004,"Medicines, retail-packed",Finished medicine,Import,World,113.207,996.89,113.56

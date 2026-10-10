@@ -1,0 +1,68 @@
+table nppa_ceiling_prices
+	lineageTag: 4320b22e-2944-465f-b8e2-f5dd0c073e00
+
+	/// Formulations with a government ceiling price in the listed NPPA orders.
+	measure 'Price-Controlled Formulations' = COUNTROWS('nppa_ceiling_prices')
+		formatString: #,0
+		displayFolder: Market
+		lineageTag: 25453067-2463-5f91-a7d8-6d259bb1e88c
+
+	column serial
+		dataType: int64
+		lineageTag: f8c48f8b-4f0b-4234-b345-f45d06c2865c
+		summarizeBy: none
+		sourceColumn: serial
+
+	column list_year
+		dataType: int64
+		lineageTag: c4f28a85-7440-41e7-9c24-0332065395b3
+		summarizeBy: none
+		sourceColumn: list_year
+
+	column drug
+		dataType: string
+		lineageTag: ae47d9e9-98a8-4024-983b-d808c16c5194
+		summarizeBy: none
+		sourceColumn: drug
+
+	column form_and_strength
+		dataType: string
+		lineageTag: c79fa61e-bb23-475d-b9b4-adbae7f9bf2d
+		summarizeBy: none
+		sourceColumn: form_and_strength
+
+	column dosage_form
+		dataType: string
+		lineageTag: 78a14430-32e5-49a7-82f1-c69cd578596d
+		summarizeBy: none
+		sourceColumn: dosage_form
+
+	column ceiling_price_inr
+		dataType: double
+		lineageTag: 3e196c46-b63d-493f-af3e-e01825bbc089
+		summarizeBy: none
+		sourceColumn: ceiling_price_inr
+
+	column price_unit
+		dataType: string
+		lineageTag: e2c19ed8-888a-43e3-8267-fb2ecb46a4f9
+		summarizeBy: none
+		sourceColumn: price_unit
+
+	column order_number
+		dataType: string
+		lineageTag: 605ccd33-a387-4033-a4d0-5ccd2f3bbb8b
+		summarizeBy: none
+		sourceColumn: order_number
+
+	partition nppa_ceiling_prices = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\nppa_ceiling_prices.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"serial", "list_year", "drug", "form_and_strength", "dosage_form", "ceiling_price_inr", "price_unit", "order_number"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"serial", Int64.Type}, {"list_year", Int64.Type}, {"drug", type text}, {"form_and_strength", type text}, {"dosage_form", type text}, {"ceiling_price_inr", type number}, {"price_unit", type text}, {"order_number", type text}}, "en-US")
+				in
+				    Typed
+

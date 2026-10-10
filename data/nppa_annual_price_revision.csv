@@ -1,0 +1,7 @@
+effective_year,computed_revision_pct,notified_revision_pct,effective_date,basis
+2021,0.536,,2021-04-01,Average WPI of 2020 over 2019
+2022,10.766,,2022-04-01,Average WPI of 2021 over 2020
+2023,12.122,,2023-04-01,Average WPI of 2022 over 2021
+2024,0.006,0.00551,2024-04-01,Average WPI of 2023 over 2022
+2025,1.74,1.74028,2025-04-01,Average WPI of 2024 over 2023
+2026,0.65,0.64956,2026-04-01,Average WPI of 2025 over 2024

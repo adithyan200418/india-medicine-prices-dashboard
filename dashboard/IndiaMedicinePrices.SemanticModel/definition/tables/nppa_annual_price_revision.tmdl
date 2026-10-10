@@ -1,0 +1,69 @@
+table nppa_annual_price_revision
+	lineageTag: b9a22918-1ccd-4f34-8a66-91ddff8469a2
+
+	/// Annual increase allowed on price-controlled medicines, computed from average WPI as the rule prescribes.
+	measure 'NPPA Revision' = DIVIDE(AVERAGE('nppa_annual_price_revision'[computed_revision_pct]), 100)
+		formatString: 0.0%
+		displayFolder: Consumer prices
+		lineageTag: 8252d4e8-7f66-56bd-b505-39d5158df158
+
+	/// Increase allowed on price-controlled medicines from 1 April 2026.
+	measure 'NPPA Revision 2026' = CALCULATE([NPPA Revision], 'nppa_annual_price_revision'[effective_year] = 2026)
+		formatString: 0.00%
+		displayFolder: Consumer prices
+		lineageTag: f6be0a3c-c34d-5dbd-ad61-edb2e1effd2c
+
+	column effective_year
+		dataType: int64
+		lineageTag: 5310c927-5856-41b1-900c-5116d1118a01
+		summarizeBy: none
+		sourceColumn: effective_year
+
+	column computed_revision_pct
+		dataType: double
+		lineageTag: 87e95911-c1cd-422e-80a5-a49883f2824d
+		summarizeBy: none
+		sourceColumn: computed_revision_pct
+
+	column notified_revision_pct
+		dataType: double
+		lineageTag: caffbbe6-3453-47cc-b038-16bb16473ce3
+		summarizeBy: none
+		sourceColumn: notified_revision_pct
+
+	column effective_date
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 5c98a2f9-0bf3-46c0-8adf-d77ec02edaf4
+		summarizeBy: none
+		sourceColumn: effective_date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column basis
+		dataType: string
+		lineageTag: 2c0ff094-702c-43a2-a0bb-dc1a12ceeaf8
+		summarizeBy: none
+		sourceColumn: basis
+
+	column year_label
+		dataType: string
+		lineageTag: a8c83873-72d1-4305-accf-a1a62cbb8238
+		summarizeBy: none
+		sourceColumn: year_label
+		sortByColumn: effective_year
+
+	partition nppa_annual_price_revision = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\nppa_annual_price_revision.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"effective_year", "computed_revision_pct", "notified_revision_pct", "effective_date", "basis"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"effective_year", Int64.Type}, {"computed_revision_pct", type number}, {"notified_revision_pct", type number}, {"effective_date", type date}, {"basis", type text}}, "en-US"),
+				    YearLabel = Table.AddColumn(Typed, "year_label", each "Apr " & Text.From([effective_year]), type text)
+				in
+				    YearLabel
+
+	annotation PBI_ResultType = Table
+

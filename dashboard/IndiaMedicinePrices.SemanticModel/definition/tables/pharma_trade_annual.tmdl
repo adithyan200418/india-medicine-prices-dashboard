@@ -1,0 +1,133 @@
+table pharma_trade_annual
+	lineageTag: 0c519713-73e3-4a83-bf9a-13968b72b361
+
+	/// Value of imports from China, USD million.
+	measure 'Imports from China USD M' = CALCULATE(SUM('pharma_trade_annual'[value_usd_million]), 'pharma_trade_annual'[flow] = "Import", 'pharma_trade_annual'[partner] = "China")
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: 86b13a87-ed9d-54cd-8979-98fee2f44940
+
+	/// Value of imports from all countries, USD million.
+	measure 'Imports Total USD M' = CALCULATE(SUM('pharma_trade_annual'[value_usd_million]), 'pharma_trade_annual'[flow] = "Import", 'pharma_trade_annual'[partner] = "World")
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: 8fc5969d-8b1f-5a28-9899-bc589af26b7b
+
+	/// Imports from everywhere except China.
+	measure 'Imports from Other Countries USD M' = [Imports Total USD M] - [Imports from China USD M]
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: 37625bc9-a4b4-5ef3-8104-9aecd5257dba
+
+	/// Share of import value that comes from China; the dependence measure.
+	measure 'China Share of Imports' = DIVIDE([Imports from China USD M], [Imports Total USD M])
+		formatString: 0%
+		displayFolder: Supply
+		lineageTag: 5004e2cf-73a6-5c84-ab9b-aecd23233546
+
+	/// Bulk drug (API) imports from China.
+	measure 'Bulk Drug Imports from China USD M' = CALCULATE([Imports from China USD M], 'pharma_trade_annual'[product_type] = "Bulk drug / API")
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: ae224172-f834-5476-93cf-20fdc6a3f0a7
+
+	/// Bulk drug (API) imports from all other countries.
+	measure 'Bulk Drug Imports from Others USD M' = CALCULATE([Imports from Other Countries USD M], 'pharma_trade_annual'[product_type] = "Bulk drug / API")
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: 72c52712-5172-5c0d-a032-84b9adc4fdea
+
+	/// China's share of India's bulk drug imports in 2025.
+	measure 'China Share Bulk Drugs 2025' = CALCULATE([China Share of Imports], 'pharma_trade_annual'[product_type] = "Bulk drug / API", 'pharma_trade_annual'[year_start] = DATE(2025, 1, 1))
+		formatString: 0.0%
+		displayFolder: Supply
+		lineageTag: 3eab1a9e-e2cf-5d1c-ad85-b1ada3c52b6b
+
+	/// China's share of India's bulk antibiotic imports in 2025.
+	measure 'China Share Antibiotics 2025' = CALCULATE([China Share of Imports], 'pharma_trade_annual'[product] = "Antibiotics (bulk)", 'pharma_trade_annual'[year_start] = DATE(2025, 1, 1))
+		formatString: 0.0%
+		displayFolder: Supply
+		lineageTag: 1145dfb0-b476-5925-99b5-33627d236f8b
+
+	/// Total bulk drug imports in 2025, USD million.
+	measure 'Bulk Drug Imports 2025 USD M' = CALCULATE([Imports Total USD M], 'pharma_trade_annual'[product_type] = "Bulk drug / API", 'pharma_trade_annual'[year_start] = DATE(2025, 1, 1))
+		formatString: $#,0
+		displayFolder: Supply
+		lineageTag: f4519a2d-ac52-59e8-a491-ddf448c919b0
+
+	/// China's 2025 import share for each product group.
+	measure 'China Share by Product 2025' = CALCULATE([China Share of Imports], 'pharma_trade_annual'[year_start] = DATE(2025, 1, 1))
+		formatString: 0%
+		displayFolder: Supply
+		lineageTag: b5407a13-499b-5c96-bea7-f46c85f74c20
+
+	column year_start
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 57aa3e96-37ec-4573-92c4-fc84c2db2fa6
+		summarizeBy: none
+		sourceColumn: year_start
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column hs_code
+		dataType: int64
+		lineageTag: 32c7f7ff-c8ed-46f6-babb-ccb26e373f8a
+		summarizeBy: none
+		sourceColumn: hs_code
+
+	column product
+		dataType: string
+		lineageTag: 27824c6a-e63d-4c43-a136-718d67d1e6c1
+		summarizeBy: none
+		sourceColumn: product
+
+	column product_type
+		dataType: string
+		lineageTag: 8f403799-c8ea-45e3-b55d-b8a404e6d8e5
+		summarizeBy: none
+		sourceColumn: product_type
+
+	column flow
+		dataType: string
+		lineageTag: c385fd72-b548-4533-85a1-5b8aa80fdc1c
+		summarizeBy: none
+		sourceColumn: flow
+
+	column partner
+		dataType: string
+		lineageTag: c821659b-405b-4818-b248-33afd8e4ff3e
+		summarizeBy: none
+		sourceColumn: partner
+
+	column value_usd_million
+		dataType: double
+		lineageTag: bb11cc34-d1b2-4026-9b16-5b958b2756a5
+		summarizeBy: none
+		sourceColumn: value_usd_million
+
+	column weight_tonnes
+		dataType: double
+		lineageTag: f3d43e87-f330-4028-af9e-3cbc2296fff4
+		summarizeBy: none
+		sourceColumn: weight_tonnes
+
+	column usd_per_kg
+		dataType: string
+		lineageTag: acba74ab-6028-4d68-b8b3-4ec4bf7b5513
+		summarizeBy: none
+		sourceColumn: usd_per_kg
+
+	partition pharma_trade_annual = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\pharma_trade_annual.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"year_start", "hs_code", "product", "product_type", "flow", "partner", "value_usd_million", "weight_tonnes", "usd_per_kg"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"year_start", type date}, {"hs_code", Int64.Type}, {"product", type text}, {"product_type", type text}, {"flow", type text}, {"partner", type text}, {"value_usd_million", type number}, {"weight_tonnes", type number}, {"usd_per_kg", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

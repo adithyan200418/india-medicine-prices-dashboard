@@ -1,0 +1,32 @@
+relationship 86abaaa9d91450e2402e
+	fromColumn: bulk_drug_imports_monthly.month
+	toColumn: DimDate.Date
+
+relationship c992e30f7545efbd98b5
+	fromColumn: consumer_price_inflation.month
+	toColumn: DimDate.Date
+
+relationship 9e6094d00621aebc92f6
+	fromColumn: medicine_events.event_date
+	toColumn: DimDate.Date
+
+relationship 2a0b12f4ffb664cc2ab6
+	fromColumn: nppa_annual_price_revision.effective_date
+	toColumn: DimDate.Date
+
+relationship ccaa820c77ec70db102e
+	fromColumn: pharma_market_growth_2026.period
+	toColumn: DimDate.Date
+
+relationship 44a91b83744992e0b31a
+	fromColumn: pharma_production_index.month
+	toColumn: DimDate.Date
+
+relationship ea257c30dca4dd2fe6e3
+	fromColumn: pharma_trade_annual.year_start
+	toColumn: DimDate.Date
+
+relationship c90e95db7197e773e470
+	fromColumn: wholesale_price_index.month
+	toColumn: DimDate.Date
+

@@ -1,0 +1,85 @@
+table wholesale_price_index
+	lineageTag: 71370de7-5ba5-47f9-824b-ca35bfa76f6b
+
+	/// Year-on-year change in the wholesale price index for the series in context.
+	measure 'Wholesale YoY' = DIVIDE(AVERAGE('wholesale_price_index'[yoy_pct]), 100)
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: adc04dfc-8fd2-5b63-9271-69952c623226
+
+	/// Latest wholesale price change for each pharmaceutical item (April 2026).
+	measure 'Wholesale YoY Latest' = VAR d = CALCULATE(MAX('wholesale_price_index'[month]), ALL('wholesale_price_index')) RETURN CALCULATE([Wholesale YoY], 'wholesale_price_index'[month] = d, KEEPFILTERS('wholesale_price_index'[level] = "Item"))
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: 4ac2add3-e2c8-5c81-9270-b334c6259e22
+
+	/// Wholesale price change over time: Pharma.
+	measure 'Pharma Wholesale YoY' = CALCULATE([Wholesale YoY], 'wholesale_price_index'[series] = "Manufacture of pharmaceuticals, medicinal chemical and botanical products")
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: 1ba649cc-1031-5644-97e3-d2b3f572e73b
+
+	/// Latest wholesale price change: Pharma.
+	measure 'Pharma Wholesale YoY Latest' = VAR d = CALCULATE(MAX('wholesale_price_index'[month]), ALL('wholesale_price_index')) RETURN CALCULATE([Wholesale YoY], 'wholesale_price_index'[series] = "Manufacture of pharmaceuticals, medicinal chemical and botanical products", 'wholesale_price_index'[month] = d)
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: 4ddfb590-e9e6-5c9f-8aa1-ab062e050f73
+
+	/// Wholesale price change over time: All Commodities.
+	measure 'All Commodities Wholesale YoY' = CALCULATE([Wholesale YoY], 'wholesale_price_index'[series] = "All commodities (headline WPI)")
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: 046e859b-d728-505e-b848-cffd7499476d
+
+	/// Latest wholesale price change: All Commodities.
+	measure 'All Commodities Wholesale YoY Latest' = VAR d = CALCULATE(MAX('wholesale_price_index'[month]), ALL('wholesale_price_index')) RETURN CALCULATE([Wholesale YoY], 'wholesale_price_index'[series] = "All commodities (headline WPI)", 'wholesale_price_index'[month] = d)
+		formatString: +0.0%;-0.0%
+		displayFolder: Wholesale prices
+		lineageTag: f6d63f7f-ce66-59ff-8d55-9f6cdebce53a
+
+	column month
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 97852149-107a-4d04-b887-b4897284319a
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column series
+		dataType: string
+		lineageTag: ee32c92a-df91-4f02-b939-bf67a570f533
+		summarizeBy: none
+		sourceColumn: series
+
+	column level
+		dataType: string
+		lineageTag: bd874ffd-8100-491e-9167-104f06d4d8e5
+		summarizeBy: none
+		sourceColumn: level
+
+	column index_value
+		dataType: double
+		lineageTag: c43d5793-5a24-40d1-a34c-7d504686a913
+		summarizeBy: none
+		sourceColumn: index_value
+
+	column yoy_pct
+		dataType: double
+		lineageTag: e07c8eb6-2e73-4d90-8723-f282bd130665
+		summarizeBy: none
+		sourceColumn: yoy_pct
+
+	partition wholesale_price_index = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\wholesale_price_index.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"month", "series", "level", "index_value", "yoy_pct"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"month", type date}, {"series", type text}, {"level", type text}, {"index_value", type number}, {"yoy_pct", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

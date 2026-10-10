@@ -1,0 +1,79 @@
+table pharma_market_growth_2026
+	lineageTag: 7c3ca533-c853-45bb-a021-d5888b31bbe0
+
+	/// Retail pharma market growth in the quarter to January 2026, split by cause.
+	measure 'Market Growth Jan 2026' = DIVIDE(CALCULATE(AVERAGE('pharma_market_growth_2026'[value_pct]), 'pharma_market_growth_2026'[basis] = "Quarter ending Jan 2026"), 100)
+		formatString: 0.0%
+		displayFolder: Availability
+		lineageTag: cbb610a1-60e6-585c-bb48-ee0b805f3ea0
+
+	/// Part of market growth that came from higher prices.
+	measure 'Market Price Growth' = CALCULATE([Market Growth Jan 2026], 'pharma_market_growth_2026'[metric] = "Price growth")
+		formatString: 0.0%
+		displayFolder: Availability
+		lineageTag: e265bc9e-9d13-5d22-9f98-bc21264874d0
+
+	/// Part of market growth that came from more units sold.
+	measure 'Market Volume Growth' = CALCULATE([Market Growth Jan 2026], 'pharma_market_growth_2026'[metric] = "Volume growth")
+		formatString: 0.0%
+		displayFolder: Availability
+		lineageTag: edce57d6-cfcb-55a5-bfcf-1ef5319f1806
+
+	column period
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 55d8092c-83c9-47ca-b192-50b54ec1d3de
+		summarizeBy: none
+		sourceColumn: period
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column basis
+		dataType: string
+		lineageTag: 8223f5f8-afe2-495d-814f-8b48cb4f7a5c
+		summarizeBy: none
+		sourceColumn: basis
+
+	column metric
+		dataType: string
+		lineageTag: 38cf8727-5d3d-4b53-a9a4-29b6f45983a8
+		summarizeBy: none
+		sourceColumn: metric
+
+	column value_pct
+		dataType: double
+		lineageTag: 2f12807c-aadc-4576-9027-70d98d689af2
+		summarizeBy: none
+		sourceColumn: value_pct
+
+	column data_provider
+		dataType: string
+		lineageTag: 5c25ce75-bc82-40ee-bcad-0b14956a741d
+		summarizeBy: none
+		sourceColumn: data_provider
+
+	column verification
+		dataType: string
+		lineageTag: 98b791e4-caba-45ab-9df0-e35447ef7c6d
+		summarizeBy: none
+		sourceColumn: verification
+
+	column source_url
+		dataType: string
+		lineageTag: 6d968d72-c80d-4486-afd1-7ae5f361e76d
+		summarizeBy: none
+		sourceColumn: source_url
+
+	partition pharma_market_growth_2026 = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\pharma_market_growth_2026.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"period", "basis", "metric", "value_pct", "data_provider", "verification", "source_url"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"period", type date}, {"basis", type text}, {"metric", type text}, {"value_pct", type number}, {"data_provider", type text}, {"verification", type text}, {"source_url", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

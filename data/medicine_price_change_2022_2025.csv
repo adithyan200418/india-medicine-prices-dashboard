@@ -1,0 +1,591 @@
+medicine_id,medicine,manufacturer,molecule,therapeutic_class,dosage_form,prescription_required,price_2022_inr,mrp_2025_inr,change_pct,direction
+1,Aciloc 150 Tablet,Cadila Pharmaceuticals Ltd,Ranitidine,Antacid,tablet,Yes,40.94,50.44,23.2,Increased
+2,Actorise 100 Injection,Cipla Ltd,Darbepoetin alfa,Other,injection,Yes,6655.0,7549.0,13.43,Increased
+3,Actorise 200 Injection,Cipla Ltd,Darbepoetin alfa,Other,injection,Yes,12402.5,14069.0,13.44,Increased
+4,Alex Syrup,Glenmark Pharmaceuticals Ltd,Phenylephrine,Antihistamine,syrup,Yes,129.0,144.84,12.28,Increased
+5,Allegra 120mg Tablet,Sanofi India Ltd,Fexofenadine,Antihistamine,tablet,Yes,218.81,248.18,13.42,Increased
+6,Allegra-M Tablet,Sanofi India Ltd,Montelukast,Antihistamine,tablet,Yes,241.48,273.61,13.31,Increased
+7,Amoxyclav 625 Tablet,Abbott,Amoxycillin,Antibiotic,tablet,Yes,223.27,195.4,-12.48,Decreased
+8,Aricep 5 Tablet,Eisai Pharmaceuticals India Pvt Ltd,Donepezil,Other,tablet,Yes,138.0,128.91,-6.59,Decreased
+9,Arkamin Tablet,Torrent Pharmaceuticals Ltd,Clonidine,Other,tablet,Yes,72.65,90.35,24.36,Increased
+10,Armotraz Tablet,Cipla Ltd,Anastrozole,Other,tablet,Yes,691.77,713.38,3.12,Increased
+11,Aromasin 25mg Tablet,Pfizer Ltd,Exemestane,Other,tablet,Yes,5340.0,5506.38,3.12,Increased
+12,Ascoril D Plus Syrup Sugar Free,Glenmark Pharmaceuticals Ltd,Phenylephrine,Antihistamine,syrup,Yes,129.0,158.4,22.79,Increased
+13,Ascoril LS Syrup,Glenmark Pharmaceuticals Ltd,Ambroxol,Bronchodilator,syrup,Yes,118.0,144.84,22.75,Increased
+14,Atarax 25mg Tablet,Dr Reddy's Laboratories Ltd,Hydroxyzine,Other,tablet,Yes,85.5,106.41,24.46,Increased
+15,Augmentin 625 Duo Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Amoxycillin,Antibiotic,tablet,Yes,223.42,195.3,-12.59,Decreased
+16,Augmentin Duo Oral Suspension,Glaxo SmithKline Pharmaceuticals Ltd,Amoxycillin,Antibiotic,suspension,Yes,67.2,64.42,-4.14,Decreased
+17,Avastin 100mg Injection,Roche Products India Pvt Ltd,Bevacizumab,Other,injection,Yes,32250.0,33863.0,5.0,Increased
+18,Avastin 400mg Injection,Roche Products India Pvt Ltd,Bevacizumab,Other,injection,Yes,117625.0,123506.0,5.0,Increased
+19,Avil 25 Tablet,Sanofi India Ltd,Pheniramine,Other,tablet,Yes,10.96,12.42,13.32,Increased
+20,Azacytin Injection,Dr Reddy's Laboratories Ltd,Azacitidine,Other,injection,Yes,5079.5,5761.17,13.42,Increased
+21,Azee 500 Tablet,Cipla Ltd,Azithromycin,Antibiotic,tablet,Yes,132.38,125.89,-4.9,Decreased
+22,Azel 40mg Capsule,Dr Reddy's Laboratories Ltd,Enzalutamide,Other,capsule,Yes,8700.0,8156.25,-6.25,Decreased
+23,Azel 80 Capsule,Dr Reddy's Laboratories Ltd,Enzalutamide,Other,capsule,Yes,8700.0,8156.25,-6.25,Decreased
+24,Azithral 500 Tablet,Alembic Pharmaceuticals Ltd,Azithromycin,Antibiotic,tablet,Yes,132.36,125.89,-4.89,Decreased
+25,Baclof 10 Tablet,Intas Pharmaceuticals Ltd,Baclofen,Other,tablet,Yes,125.37,127.09,1.37,Increased
+26,Bandy-Plus Chewable Tablet,Mankind Pharma Ltd,Ivermectin,Other,tablet,Yes,27.0,31.73,17.52,Increased
+27,Bandy-Plus Suspension,Mankind Pharma Ltd,Ivermectin,Other,suspension,Yes,35.0,42.27,20.77,Increased
+28,Banocide Forte Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Diethylcarbamazine,Other,tablet,Yes,51.95,52.61,1.27,Increased
+29,Benadryl Syrup,Johnson & Johnson Ltd,Diphenhydramine,Other,syrup,Yes,129.0,159.0,23.26,Increased
+30,Betacap TR 40 Capsule,Sun Pharmaceutical Industries Ltd,Propranolol,Other,capsule,Yes,47.25,45.28,-4.17,Decreased
+31,Betadine 10% Solution,Win-Medicare Pvt Ltd,Povidone Iodine,Other,solution,Yes,115.36,102.9,-10.8,Decreased
+32,Betnesol Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Betamethasone,Other,tablet,Yes,14.1,17.0,20.57,Increased
+33,Betnovate-C Cream,Glaxo SmithKline Pharmaceuticals Ltd,Betamethasone,Other,cream,Yes,58.6,73.03,24.62,Increased
+34,Betnovate Cream,Glaxo SmithKline Pharmaceuticals Ltd,Betamethasone,Other,cream,Yes,20.81,22.22,6.78,Increased
+35,Betnovate-GM Cream,Glaxo SmithKline Pharmaceuticals Ltd,Betamethasone,Other,cream,Yes,37.45,42.42,13.27,Increased
+36,Bilasure M 20mg/10mg Tablet,Sun Pharmaceutical Industries Ltd,Bilastine,Other,tablet,Yes,172.0,212.81,23.73,Increased
+37,Bilypsa Tablet,Zydus Cadila,Saroglitazar,Other,tablet,Yes,1808.0,2050.0,13.38,Increased
+38,Botroclot Topical Solution,Juggat Pharma,Hemocoagulase,Other,solution,Yes,153.0,185.6,21.31,Increased
+39,Brilinta 90mg Tablet,AstraZeneca,Ticagrelor,Other,tablet,Yes,450.0,554.0,23.11,Increased
+40,Bro-Zedex Syrup,Dr Reddy's Laboratories Ltd,Bromhexine,Other,syrup,Yes,142.5,177.42,24.51,Increased
+41,Broclear Tablet,Intas Pharmaceuticals Ltd,Acebrophylline,Other,tablet,Yes,209.0,245.63,17.53,Increased
+42,Brufen 400 Tablet,Abbott,Ibuprofen,Other,tablet,Yes,19.32,18.88,-2.28,Decreased
+43,Budamate 200 Transhaler,Lupin Ltd,Formoterol,Other,other,Yes,351.36,375.7,6.93,Increased
+44,Cabotres 20 Tablet,Cipla Ltd,Cabozantinib,Other,tablet,Yes,8500.0,8765.62,3.12,Increased
+45,Cabotres 40 Tablet,Cipla Ltd,Cabozantinib,Other,tablet,Yes,14000.0,14437.5,3.12,Increased
+46,Candid-B Cream,Glenmark Pharmaceuticals Ltd,Beclometasone,Corticosteroid,cream,Yes,139.0,170.6,22.73,Increased
+47,Capegard 500 Tablet,Cipla Ltd,Capecitabine,Other,tablet,Yes,798.56,854.0,6.94,Increased
+48,Castophene Tablet,Technopharm Pvt Ltd,Phenolphthalein,Other,tablet,Yes,28.0,26.25,-6.25,Decreased
+49,Ceftum 500mg Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Cefuroxime,Other,tablet,Yes,474.05,216.0,-54.44,Decreased
+50,Chymoral Forte Tablet,Torrent Pharmaceuticals Ltd,Trypsin Chymotrypsin,Other,tablet,Yes,423.4,467.8,10.49,Increased
+51,Cilacar 10 Tablet,J B Chemicals and Pharmaceuticals Ltd,Cilnidipine,Other,tablet,Yes,176.13,219.45,24.6,Increased
+52,Ciplox Eye/Ear Drops,Cipla Ltd,Ciprofloxacin,Antibiotic,drops,Yes,18.88,16.48,-12.71,Decreased
+53,Clavam 625 Tablet,Alkem Laboratories Ltd,Amoxycillin,Antibiotic,tablet,Yes,223.32,195.47,-12.47,Decreased
+54,Combiflam Tablet,Sanofi India Ltd,Ibuprofen,Analgesic,tablet,Yes,46.05,52.23,13.42,Increased
+55,Cresemba 100mg Capsule,Pfizer Ltd,Isavuconazole,Other,capsule,Yes,43139.0,40442.46,-6.25,Decreased
+56,Cresp 500 Injection,Dr Reddy's Laboratories Ltd,Darbepoetin alfa,Other,injection,Yes,26425.0,29975.86,13.44,Increased
+57,Cyclopam Tablet,Indoco Remedies Ltd,Dicyclomine,Analgesic,tablet,Yes,51.2,59.44,16.09,Increased
+58,Cyra-D Capsule,Systopic Laboratories Pvt Ltd,Domperidone,Antacid,capsule,Yes,47.0,47.81,1.72,Increased
+59,Cytogem 1000mg Injection,Dr Reddy's Laboratories Ltd,Gemcitabine,Other,injection,Yes,6836.0,5973.93,-12.61,Decreased
+60,Cytogem 200mg Injection,Dr Reddy's Laboratories Ltd,Gemcitabine,Other,injection,Yes,1456.0,1364.63,-6.28,Decreased
+61,Cytotam 20 Tablet,Cipla Ltd,Tamoxifen,Other,tablet,Yes,26.69,25.02,-6.26,Decreased
+62,Dacoplice 15mg Tablet,Pfizer Ltd,Dacomitinib,Other,tablet,Yes,44500.0,43804.69,-1.56,Decreased
+63,Dacoplice 30mg Tablet,Pfizer Ltd,Dacomitinib,Other,tablet,Yes,61000.0,60046.88,-1.56,Decreased
+64,Dacoplice 45mg Tablet,Pfizer Ltd,Dacomitinib,Other,tablet,Yes,65000.0,63984.38,-1.56,Decreased
+65,Dacotin RTU 50 Injection,Dr Reddy's Laboratories Ltd,Oxaliplatin,Other,injection,Yes,2852.11,2345.4,-17.77,Decreased
+66,Daflon 500 MG Tablet,Serdia Pharmaceuticals India Pvt Ltd,Diosmin,Other,tablet,Yes,151.25,188.7,24.76,Increased
+67,Darzalex 400mg Injection,Janssen Pharmaceuticals,Daratumumab,Other,injection,Yes,75500.0,75500.0,0.0,Unchanged
+68,Darzalex Injection,Janssen Pharmaceuticals,Daratumumab,Other,injection,Yes,18900.0,18900.0,0.0,Unchanged
+69,Dasatrue 70mg Tablet,Cipla Ltd,Dasatinib,Other,tablet,Yes,8500.0,8765.62,3.12,Increased
+70,Defcort 6 Tablet,Macleods Pharmaceuticals Pvt Ltd,Deflazacort,Other,tablet,Yes,136.4,140.63,3.1,Increased
+71,Deriphyllin Tablet,Zydus Cadila,Etofylline,Other,tablet,Yes,20.55,25.63,24.72,Increased
+72,Deviry 10mg Tablet,Torrent Pharmaceuticals Ltd,Medroxyprogesterone acetate,Other,tablet,Yes,60.25,66.7,10.71,Increased
+73,Docetere 20mg Injection,Dr Reddy's Laboratories Ltd,Docetaxel,Other,injection,Yes,3840.8,3064.03,-20.22,Decreased
+74,Docetere 80mg Injection,Dr Reddy's Laboratories Ltd,Docetaxel,Other,injection,Yes,11760.8,11038.41,-6.14,Decreased
+75,Dolo 650 Tablet,Micro Labs Ltd,Paracetamol,Analgesic,tablet,Yes,34.27,32.13,-6.24,Decreased
+76,Dolonex DT 20mg Tablet,Pfizer Ltd,Piroxicam,Other,tablet,Yes,215.82,268.79,24.54,Increased
+77,Doxinate Tablet,Maneesh Pharmaceuticals Ltd,Doxylamine,Other,tablet,Yes,229.15,285.8,24.72,Increased
+78,Drotin-M Tablet,Walter Bushnell,Drotaverine,Other,tablet,Yes,193.69,241.4,24.63,Increased
+79,Duolin 3 Respules 3ml,Cipla Ltd,Levosalbutamol,Bronchodilator,respules,Yes,103.1,128.5,24.64,Increased
+80,Duphalac Oral Solution Lemon,Abbott,Lactulose,Other,solution,Yes,573.52,590.62,2.98,Increased
+81,Duphaston 10mg Tablet,Abbott,Dydrogesterone,Other,tablet,Yes,754.38,901.8,19.54,Increased
+82,Dytor 10 Tablet,Cipla Ltd,Torasemide,Other,tablet,Yes,84.9,105.93,24.77,Increased
+83,Dytor Plus 10 Tablet,Cipla Ltd,Spironolactone,Diuretic,tablet,Yes,89.3,111.42,24.77,Increased
+84,Ecosprin 150 Tablet,USV Ltd,Aspirin,Other,tablet,Yes,9.74,10.58,8.62,Increased
+85,Ecosprin 75 Tablet,USV Ltd,Aspirin,Other,tablet,Yes,5.33,5.29,-0.75,Decreased
+86,Ecosprin AV 75/20 Capsule,USV Ltd,Atorvastatin,Other,capsule,Yes,39.3,44.53,13.31,Increased
+87,Ecosprin-AV 75 Capsule,USV Ltd,Atorvastatin,Other,capsule,Yes,60.65,61.22,0.94,Increased
+88,Eliquis 2.5mg Tablet,Pfizer Ltd,Apixaban,Other,tablet,Yes,435.0,407.81,-6.25,Decreased
+89,Emzumab 150mg Injection,Cipla Ltd,Omalizumab,Other,injection,Yes,11550.0,12705.0,10.0,Increased
+90,Enzoflam Tablet,Alkem Laboratories Ltd,Diclofenac,Analgesic,tablet,Yes,152.0,172.0,13.16,Increased
+91,Enzomac Plus Tablet,Macleods Pharmaceuticals Pvt Ltd,Trypsin,Other,tablet,Yes,281.5,290.1,3.06,Increased
+92,Espogen 10000IU Injection,LG Lifesciences,Recombinant Human Erythropoietin Alfa,Other,injection,Yes,2450.0,2067.44,-15.61,Decreased
+93,Espogen 20000IU Injection,LG Lifesciences,Recombinant Human Erythropoietin Alfa,Other,injection,Yes,5670.0,5315.63,-6.25,Decreased
+94,Espogen 3000IU Injection,LG Lifesciences,Recombinant Human Erythropoietin Alfa,Other,injection,Yes,1360.0,1275.0,-6.25,Decreased
+95,Espogen 8000IU Injection,LG Lifesciences,Recombinant Human Erythropoietin Alfa,Other,injection,Yes,2180.0,2043.75,-6.25,Decreased
+96,Etacept 25mg Injection,Cipla Ltd,Etanercept,Other,injection,Yes,3500.0,3092.72,-11.64,Decreased
+97,Etacept PFS Injection,Cipla Ltd,Etanercept,Other,injection,Yes,7000.0,7218.75,3.12,Increased
+98,Etoshine MR Tablet,Sun Pharmaceutical Industries Ltd,Etoricoxib,Other,tablet,Yes,274.0,307.5,12.23,Increased
+99,Evion LC Tablet,Merck Ltd,Levo-carnitine,Other,tablet,Yes,51.8,64.54,24.59,Increased
+100,Exelon 1.5mg Capsule,Novartis India Ltd,Rivastigmine,Other,capsule,Yes,1092.5,744.8,-31.83,Decreased
+101,Exelon 3mg Capsule,Novartis India Ltd,Rivastigmine,Other,capsule,Yes,1092.5,849.3,-22.26,Decreased
+102,Exelon 4.5mg Capsule,Novartis India Ltd,Rivastigmine,Other,capsule,Yes,73.81,69.2,-6.25,Decreased
+103,Exelon 6mg Capsule,Novartis India Ltd,Rivastigmine,Other,capsule,Yes,937.5,1255.0,33.87,Increased
+104,Exelon Patch 15,Novartis India Ltd,Rivastigmine,Other,other,Yes,5544.0,5711.0,3.01,Increased
+105,Exelon Transdermal Patch 5,Novartis India Ltd,Rivastigmine,Other,other,Yes,763.75,716.0,-6.25,Decreased
+106,Faronem 200 Tablet,Sun Pharmaceutical Industries Ltd,Faropenem,Other,tablet,Yes,990.0,1096.88,10.8,Increased
+107,Fas 3 Kit,Hetero Healthcare Limited,Fluconazole,Antibiotic,other,Yes,115.5,142.97,23.78,Increased
+108,Faslodex 250mg Injection,AstraZeneca,Fulvestrant,Other,injection,Yes,25573.0,39562.0,54.7,Increased
+109,Febrex Plus Tablet,Indoco Remedies Ltd,Chlorpheniramine Maleate,Antihistamine,tablet,Yes,83.85,101.25,20.75,Increased
+110,Febustat 40 Tablet,Abbott,Febuxostat,Other,tablet,Yes,270.55,337.5,24.75,Increased
+111,Febutaz 40 Tablet,Sun Pharmaceutical Industries Ltd,Febuxostat,Other,tablet,Yes,190.0,230.63,21.38,Increased
+112,Femilon Tablet,Organon (India) Ltd,Ethinyl Estradiol,Other,tablet,Yes,300.0,361.0,20.33,Increased
+113,Fempro Tablet,Cipla Ltd,Letrozole,Other,tablet,Yes,79.82,85.35,6.93,Increased
+114,Finax Tablet,Dr Reddy's Laboratories Ltd,Finasteride,Other,tablet,Yes,285.25,355.78,24.73,Increased
+115,Flagyl 400 Tablet,Abbott,Metronidazole,Other,tablet,Yes,23.74,24.35,2.57,Increased
+116,Flavedon MR Tablet,Serdia Pharmaceuticals India Pvt Ltd,Trimetazidine,Other,tablet,Yes,143.99,179.6,24.73,Increased
+117,Flexon MR Tablet,Aristo Pharmaceuticals Pvt Ltd,Ibuprofen,Analgesic,tablet,Yes,24.0,29.44,22.67,Increased
+118,Flexon Tablet,Aristo Pharmaceuticals Pvt Ltd,Ibuprofen,Analgesic,tablet,Yes,26.3,32.2,22.43,Increased
+119,Flexura D Tablet,Sun Pharmaceutical Industries Ltd,Diclofenac,Analgesic,tablet,Yes,200.0,225.0,12.5,Increased
+120,Flomist Nasal Spray,Cipla Ltd,Fluticasone Propionate,Other,spray,Yes,425.16,482.2,13.42,Increased
+121,Fludac Capsule,Cadila Pharmaceuticals Ltd,Fluoxetine,Other,capsule,Yes,67.97,63.93,-5.94,Decreased
+122,Fluka 150 Tablet,Cipla Ltd,Fluconazole,Other,tablet,Yes,20.81,12.87,-38.15,Decreased
+123,Fluvir 75mg Capsule,Hetero Drugs Ltd,Oseltamivir Phosphate,Other,capsule,Yes,539.0,505.3,-6.25,Decreased
+124,Folvite 5mg Tablet,Pfizer Ltd,Folic Acid,Other,tablet,Yes,76.54,72.58,-5.17,Decreased
+125,Foracort 200 Rotacap,Cipla Ltd,Formoterol,Other,capsule,Yes,187.82,183.3,-2.41,Decreased
+126,Foracort Inhaler 200,Cipla Ltd,Formoterol,Other,inhaler,Yes,399.16,379.2,-5.0,Decreased
+127,Foracort Inhaler 400,Cipla Ltd,Formoterol,Other,inhaler,Yes,455.61,432.1,-5.16,Decreased
+128,Forxiga 10mg Tablet,AstraZeneca,Dapagliflozin,Other,tablet,Yes,462.0,519.3,12.4,Increased
+129,Fucibet Cream,Sun Pharmaceutical Industries Ltd,Betamethasone,Other,cream,Yes,80.0,97.5,21.88,Increased
+130,Fucidin Cream,Sun Pharmaceutical Industries Ltd,Fusidic Acid,Other,cream,Yes,56.65,52.49,-7.34,Decreased
+131,Fycompa 2mg Tablet,Eisai Pharmaceuticals India Pvt Ltd,Perampanel,Other,tablet,Yes,538.0,553.1,2.81,Increased
+132,Gabapin 100 Tablet,Intas Pharmaceuticals Ltd,Gabapentin,Other,tablet,Yes,130.0,153.75,18.27,Increased
+133,Gabapin NT 100 Tablet,Intas Pharmaceuticals Ltd,Gabapentin,Other,tablet,Yes,175.0,217.97,24.55,Increased
+134,Gabapin NT Tablet,Intas Pharmaceuticals Ltd,Gabapentin,Other,tablet,Yes,450.0,515.63,14.58,Increased
+135,Galvus Met 50mg/500mg Tablet,Novartis India Ltd,Metformin,Antidiabetic,tablet,Yes,328.5,372.4,13.36,Increased
+136,Ganaton Tablet,Abbott,Itopride,Other,tablet,Yes,167.39,208.8,24.74,Increased
+137,Ganaton Total Capsule SR,Abbott,Pantoprazole,Antacid,capsule,Yes,384.6,479.9,24.78,Increased
+138,Gefticip Tablet,Cipla Ltd,Gefitinib,Other,tablet,Yes,4897.73,5238.0,6.95,Increased
+139,Gemer 2 Tablet PR,Sun Pharmaceutical Industries Ltd,Glimepiride,Antidiabetic,tablet,Yes,211.0,237.18,12.41,Increased
+140,Gliozolamide 100mg Tablet,Biochem Pharmaceutical Industries,Temozolomide,Other,tablet,Yes,7323.07,6865.38,-6.25,Decreased
+141,Gliozolamide 250mg Tablet,Biochem Pharmaceutical Industries,Temozolomide,Other,tablet,Yes,17575.8,16477.31,-6.25,Decreased
+142,Glyciphage SR 500mg Tablet,Franco-Indian Pharmaceuticals Pvt Ltd,Metformin,Antidiabetic,tablet,Yes,23.55,24.23,2.89,Increased
+143,Glycomet 500 SR Tablet,USV Ltd,Metformin,Antidiabetic,tablet,Yes,47.71,41.97,-12.03,Decreased
+144,Glycomet-GP 1 Tablet PR,USV Ltd,Glimepiride,Antidiabetic,tablet,Yes,116.5,123.28,5.82,Increased
+145,Glycomet-GP 2 Tablet PR,USV Ltd,Glimepiride,Antidiabetic,tablet,Yes,170.75,180.0,5.42,Increased
+146,Glycomet Trio 2 Tablet SR,USV Ltd,Glimepiride,Antidiabetic,tablet,Yes,205.14,211.5,3.1,Increased
+147,Glynase-MF Tablet,USV Ltd,Glipizide,Antidiabetic,tablet,Yes,20.35,20.81,2.26,Increased
+148,Granicip 1 DT Tablet,Cipla Ltd,Granisetron,Other,tablet,Yes,111.32,114.79,3.12,Increased
+149,Granicip Injection,Cipla Ltd,Granisetron,Other,injection,Yes,79.86,86.47,8.28,Increased
+150,Grastim Injection,Dr Reddy's Laboratories Ltd,Filgrastim,Other,injection,Yes,1541.0,1239.0,-19.6,Decreased
+151,Grenil Tablet,Karnataka Antibiotics & Pharmaceuticals Ltd,Domperidone,Analgesic,tablet,Yes,51.15,48.75,-4.69,Decreased
+152,Grilinctus-BM Syrup,Franco-Indian Pharmaceuticals Pvt Ltd,Terbutaline,Bronchodilator,syrup,Yes,106.0,120.0,13.21,Increased
+153,Grilinctus-L Oral Suspension,Franco-Indian Pharmaceuticals Pvt Ltd,Levocloperastine,Other,suspension,Yes,129.5,146.63,13.23,Increased
+154,Grilinctus-LS Syrup,Wardex Pharmaceutical Pvt. Ltd.,Ambroxol,Bronchodilator,syrup,Yes,115.0,124.59,8.34,Increased
+155,Gudcef 200 Tablet,Mankind Pharma Ltd,Cefpodoxime Proxetil,Other,tablet,Yes,163.9,204.37,24.69,Increased
+156,Gudcef-CV 200 Tablet,Mankind Pharma Ltd,Cefpodoxime Proxetil,Other,tablet,Yes,290.4,344.99,18.8,Increased
+157,Hadensa Ointment,Dollar,Lanolin,Other,ointment,Yes,145.0,140.63,-3.01,Decreased
+158,Halaven 1mg Injection,Eisai Pharmaceuticals India Pvt Ltd,Eribulin Mesylate,Other,injection,Yes,31885.0,29887.0,-6.27,Decreased
+159,Happi-D Capsule SR,Zydus Cadila,Domperidone,Antacid,capsule,Yes,314.35,381.51,21.36,Increased
+160,HCQS 200 Tablet,Ipca Laboratories Ltd,Hydroxychloroquine,Other,tablet,Yes,110.52,101.91,-7.79,Decreased
+161,Headset Tablet,Lupin Ltd,Sumatriptan,Other,tablet,Yes,126.8,158.0,24.61,Increased
+162,Hepamerz Tablet,Win-Medicare Pvt Ltd,L-Ornithine L-Aspartate,Other,tablet,Yes,221.0,274.68,24.29,Increased
+163,Heptral 400mg Tablet,Abbott,Ademetionine,Other,tablet,Yes,1168.07,1457.0,24.74,Increased
+164,Herclon 150mg Injection,Cipla Ltd,Trastuzumab,Other,injection,Yes,17390.0,17851.87,2.66,Increased
+165,Herclon Injection,Roche Products India Pvt Ltd,Trastuzumab,Other,injection,Yes,66156.25,57440.0,-13.18,Decreased
+166,Hervycta 150 + Injection,Dr Reddy's Laboratories Ltd,Trastuzumab,Other,injection,Yes,20300.0,19031.0,-6.25,Decreased
+167,Hervycta 440 + Injection,Dr Reddy's Laboratories Ltd,Trastuzumab,Other,injection,Yes,63233.0,57440.0,-9.16,Decreased
+168,Hetrazan 100 Tablet,Pfizer Ltd,Diethylcarbamazine,Other,tablet,Yes,49.14,53.1,8.06,Increased
+169,Hexigel Mouth Gel,Icpa Health Products Ltd,Chlorhexidine Gluconate,Other,other,Yes,62.5,70.9,13.44,Increased
+170,Hicope Syrup,Mankind Pharma Ltd,Hydroxyzine,Other,solution,Yes,71.5,89.2,24.76,Increased
+171,Hifenac-MR Tablet,Intas Pharmaceuticals Ltd,Aceclofenac,Analgesic,tablet,Yes,85.0,105.0,23.53,Increased
+172,Histafree-M Tablet,Mankind Pharma Ltd,Montelukast,Antihistamine,tablet,Yes,139.9,144.27,3.12,Increased
+173,HP Kit,Sun Pharmaceutical Industries Ltd,Omeprazole,Antacid,other,Yes,135.0,151.88,12.5,Increased
+174,HUCOG 5000 HP Injection,Bharat Serums & Vaccines Ltd,Human chorionic gonadotropin,Other,injection,Yes,486.58,445.95,-8.35,Decreased
+175,Human Actrapid 40IU/ml Solution for Injection,Novo Nordisk India Pvt Ltd,Human insulin,Other,injection,Yes,158.42,181.39,14.5,Increased
+176,Hydrocort 100mg Injection,Abbott,Hydrocortisone,Other,injection,Yes,45.33,47.0,3.68,Increased
+177,Hyocimax-S Tablet,Zydus Cadila,Hyoscyamine,Other,other,Yes,54.4,63.63,16.97,Increased
+178,Hyponat-O 15 Tablet,Zydus Cadila,Tolvaptan,Other,tablet,Yes,618.14,771.27,24.77,Increased
+179,Ibugesic Oral Suspension Orange,Cipla Ltd,Ibuprofen,Other,suspension,Yes,23.52,23.1,-1.79,Decreased
+180,Ibugesic Plus Oral Suspension Orange,Cipla Ltd,Ibuprofen,Analgesic,suspension,Yes,35.86,44.73,24.74,Increased
+181,Ibugesic Plus Tablet,Cipla Ltd,Ibuprofen,Analgesic,tablet,Yes,17.05,37.73,121.29,Increased
+182,Ikgdar 100mg Injection,Cipla Ltd,Rituximab,Other,solution,Yes,7971.0,7133.44,-10.51,Decreased
+183,Ikgdar 500mg Injection,Cipla Ltd,Rituximab,Other,solution,Yes,39865.0,35667.19,-10.53,Decreased
+184,Imatib 100 Tablet,Cipla Ltd,Imatinib mesylate,Other,tablet,Yes,488.83,522.7,6.93,Increased
+185,Imatib 400 Tablet,Cipla Ltd,Imatinib mesylate,Other,tablet,Yes,1700.32,1818.0,6.92,Increased
+186,Imdur 30mg Tablet PR,AstraZeneca,Isosorbide Mononitrate,Other,tablet,Yes,174.3,195.0,11.88,Increased
+187,Imodium Capsule,Janssen Pharmaceuticals,Loperamide,Other,capsule,Yes,17.5,15.92,-9.03,Decreased
+188,Imol Plus Tablet,Zydus Cadila,Ibuprofen,Analgesic,tablet,Yes,17.85,22.22,24.48,Increased
+189,Inderal 10 Tablet,Abbott,Propranolol,Other,tablet,Yes,21.45,20.94,-2.38,Decreased
+190,Inderal 40 Tablet,Abbott,Propranolol,Other,tablet,Yes,51.35,51.55,0.39,Unchanged
+191,Indocap SR Capsule,Jagsonpal Pharmaceuticals Ltd,Indomethacin,Other,capsule,Yes,135.0,152.9,13.26,Increased
+192,Intagesic-MR Tablet,Intas Pharmaceuticals Ltd,Chlorzoxazone,Analgesic,tablet,Yes,103.0,116.25,12.86,Increased
+193,Invega Sustenna 100mg Injection,Janssen Pharmaceuticals,Paliperidone,Other,injection,Yes,10300.0,5793.0,-43.76,Decreased
+194,Invega Sustenna 150mg Injection,Janssen Pharmaceuticals,Paliperidone,Other,injection,Yes,10300.0,5793.0,-43.76,Decreased
+195,Invega Sustenna 75mg Injection,Janssen Pharmaceuticals,Paliperidone,Other,injection,Yes,10300.0,5793.0,-43.76,Decreased
+196,IPCA MMF 500 Tablet,Ipca Laboratories Ltd,Mycophenolate mofetil,Other,tablet,Yes,741.62,783.2,5.61,Increased
+197,Isofit 10mg Tablet,Alembic Pharmaceuticals Ltd,Dydrogesterone,Other,tablet,Yes,499.0,561.56,12.54,Increased
+198,Istamet 50mg/500mg Tablet,Sun Pharmaceutical Industries Ltd,Sitagliptin,Antidiabetic,tablet,Yes,142.5,176.25,23.68,Increased
+199,Istamet XR Tablet,Sun Pharmaceutical Industries Ltd,Sitagliptin,Antidiabetic,tablet,Yes,145.0,163.13,12.5,Increased
+200,Istavel D 10/100 Tablet,Sun Pharmaceutical Industries Ltd,Dapagliflozin,Antidiabetic,tablet,Yes,270.0,300.94,11.46,Increased
+201,Itralase 200 Capsule,Cipla Ltd,Itraconazole,Other,capsule,Yes,250.0,232.25,-7.1,Decreased
+202,Ivabrad 5 Tablet,Lupin Ltd,Ivabradine,Other,tablet,Yes,372.2,463.9,24.64,Increased
+203,Jakavi 15mg Tablet,Novartis India Ltd,Ruxolitinib,Other,tablet,Yes,56547.62,47193.0,-16.54,Decreased
+204,Jakavi 20mg Tablet,Novartis India Ltd,Ruxolitinib,Other,tablet,Yes,61367.0,52980.0,-13.67,Decreased
+205,Jakavi 5mg Tablet,Novartis India Ltd,Ruxolitinib,Other,tablet,Yes,30084.0,24346.0,-19.07,Decreased
+206,Jakura 5mg Tablet,Hetero Drugs Ltd,Tofacitinib,Other,tablet,Yes,2700.0,2531.0,-6.26,Decreased
+207,Jalra 50mg Tablet,USV Ltd,Vildagliptin,Other,tablet,Yes,330.0,331.4,0.42,Unchanged
+208,Jalra-DP Tablet SR,USV Ltd,Dapagliflozin,Other,tablet,Yes,250.0,195.9,-21.64,Decreased
+209,Janumet 50mg/500mg Tablet,MSD Pharmaceuticals Pvt Ltd,Sitagliptin,Antidiabetic,tablet,Yes,345.0,351.57,1.9,Increased
+210,Janumet XR CP Tablet,MSD Pharmaceuticals Pvt Ltd,Sitagliptin,Antidiabetic,tablet,Yes,289.0,290.6,0.55,Increased
+211,Januvia 100mg Tablet,MSD Pharmaceuticals Pvt Ltd,Sitagliptin,Antidiabetic,tablet,Yes,270.0,276.56,2.43,Increased
+212,Januvia 50mg Tablet,MSD Pharmaceuticals Pvt Ltd,Sitagliptin,Antidiabetic,tablet,Yes,265.0,271.88,2.6,Increased
+213,Jardiance 10mg Tablet,Boehringer Ingelheim,Empagliflozin,Other,tablet,Yes,513.0,384.3,-25.09,Decreased
+214,Jardiance 25mg Tablet,Boehringer Ingelheim,Empagliflozin,Other,tablet,Yes,622.0,459.3,-26.16,Decreased
+215,Jardiance Met 12.5mg/1000mg Tablet,Boehringer Ingelheim,Empagliflozin,Antidiabetic,tablet,Yes,420.0,450.0,7.14,Increased
+216,Jardiance Met 12.5mg/500mg Tablet,Boehringer Ingelheim,Empagliflozin,Antidiabetic,tablet,Yes,400.0,428.4,7.1,Increased
+217,Jointace DN Tablet,Meyer Organics Pvt Ltd,Glucosamine,Other,tablet,Yes,370.0,431.0,16.49,Increased
+218,Josh In 50mg Tablet,Auspi Medicaments,Sildenafil,Other,tablet,Yes,159.0,149.06,-6.25,Decreased
+219,Junior Lanzol 15mg Tablet DT,Cipla Ltd,Lansoprazole,Other,tablet,Yes,162.65,184.5,13.43,Increased
+220,Junior Lanzol 30mg Tablet DT,Cipla Ltd,Lansoprazole,Other,tablet,Yes,174.21,217.3,24.73,Increased
+221,Jupiros 10 Tablet,Alkem Laboratories Ltd,Rosuvastatin,Other,tablet,Yes,188.0,233.4,24.15,Increased
+222,Jupiros-A Capsule,Alkem Laboratories Ltd,Rosuvastatin,Other,capsule,Yes,92.5,104.5,12.97,Increased
+223,Just Tears Eye Drop,Sunways India Pvt Ltd,Carboxymethylcellulose,Other,drops,Yes,107.01,124.69,16.52,Increased
+224,Justin 100mg Suppository,Neon Laboratories Ltd,Diclofenac,Analgesic,other,Yes,75.5,93.75,24.17,Increased
+225,Justoza 10 Tablet,Mankind Pharma Ltd,Dapagliflozin,Other,tablet,Yes,99.0,168.44,70.14,Increased
+226,Juvobin 40 Injection,La Renon Healthcare Pvt Ltd,Darbepoetin alfa,Other,injection,Yes,2299.0,2370.0,3.09,Increased
+227,K-Bind Powder,Zydus Cadila,Calcium Polystyrene Sulphonate,Other,powder,Yes,159.0,149.06,-6.25,Decreased
+228,K-Cit Oral Solution,Dr Reddy's Laboratories Ltd,Citric Acid,Other,solution,Yes,208.5,259.69,24.55,Increased
+229,K-Cor 5 Tablet,Macleods Pharmaceuticals Pvt Ltd,Nicorandil,Other,tablet,Yes,363.0,374.3,3.11,Increased
+230,Kadcyla 100mg Injection,Roche Products India Pvt Ltd,Ado-trastuzumab emtansine,Other,injection,Yes,155585.0,161215.0,3.62,Increased
+231,Kadcyla 160mg Injection,Roche Products India Pvt Ltd,Ado-trastuzumab emtansine,Other,injection,Yes,248937.0,233378.0,-6.25,Decreased
+232,Kamagra 50mg Tablet,Ajanta Pharma Ltd,Sildenafil,Other,tablet,Yes,73.86,69.24,-6.26,Decreased
+233,Kenacort 40mg Injection,Abbott,Triamcinolone,Other,injection,Yes,169.95,212.0,24.74,Increased
+234,Kenz-Sal Lotion,KLM Laboratories Pvt Ltd,Ketoconazole,Other,other,Yes,239.0,273.7,14.52,Increased
+235,Kera-FM 5% Topical Solution,Ipca Laboratories Ltd,Minoxidil,Other,solution,Yes,729.95,717.1,-1.76,Decreased
+236,Keto Soap,Med Manor Organics Pvt Ltd,Ketoconazole,Other,other,Yes,126.0,133.47,5.93,Increased
+237,Ketocip 2% Shampoo,Cipla Ltd,Ketoconazole,Other,other,Yes,305.8,315.3,3.11,Increased
+238,Ketoford 10mg Tablet DT,Leeford Healthcare Ltd,Ketorolac,Other,tablet,Yes,65.0,60.94,-6.25,Decreased
+239,Ketomac Shampoo,Torque Pharmaceuticals Pvt Ltd,Ketoconazole,Other,other,Yes,234.0,225.0,-3.85,Decreased
+240,Ketorol-DT Tablet,Dr Reddy's Laboratories Ltd,Ketorolac,Other,tablet,Yes,146.75,166.17,13.23,Increased
+241,Keytruda Injection,MSD Pharmaceuticals Pvt Ltd,Pembrolizumab,Other,injection,Yes,236500.0,216500.0,-8.46,Decreased
+242,Korandil 5 Tablet,Sun Pharmaceutical Industries Ltd,Nicorandil,Other,tablet,Yes,164.0,202.5,23.48,Increased
+243,Krimson 35 Tablet,Sun Pharmaceutical Industries Ltd,Cyproterone,Other,tablet,Yes,393.0,458.44,16.65,Increased
+244,Kryxana 200mg Tablet,Novartis India Ltd,Ribociclib,Other,tablet,Yes,22500.0,24356.0,8.25,Increased
+245,Kufril LS Drop,Med Manor Organics Pvt Ltd,Ambroxol,Bronchodilator,drops,Yes,66.0,79.69,20.74,Increased
+246,Kufril LS Syrup,Med Manor Organics Pvt Ltd,Ambroxol,Bronchodilator,syrup,Yes,108.0,125.63,16.32,Increased
+247,Kutub 30 X Tablet,Hetero Drugs Ltd,Sildenafil,Other,tablet,Yes,220.0,206.2,-6.27,Decreased
+248,KZ Cream,Hegde and Hegde Pharmaceutical LLP,Ketoconazole,Other,cream,Yes,235.0,229.6,-2.3,Decreased
+249,KZ Lotion,Hegde and Hegde Pharmaceutical LLP,Ketoconazole,Other,other,Yes,290.0,285.9,-1.41,Decreased
+250,Lanol ER Tablet,Hetero Drugs Ltd,Paracetamol,Analgesic,tablet,Yes,21.75,21.33,-1.93,Decreased
+251,Lasix Tablet,Sanofi India Ltd,Furosemide,Diuretic,tablet,Yes,13.94,14.18,1.72,Increased
+252,Lenangio 10 Capsule,Dr Reddy's Laboratories Ltd,Lenalidomide,Other,capsule,Yes,1013.0,1044.61,3.12,Increased
+253,Lenvatol 10mg Capsule,Cipla Ltd,Lenvatinib,Other,capsule,Yes,3995.0,4531.0,13.42,Increased
+254,Lenvatol 4mg Capsule,Cipla Ltd,Lenvatinib,Other,capsule,Yes,1695.0,1922.0,13.39,Increased
+255,Lenvima 10mg Capsule,Eisai Pharmaceuticals India Pvt Ltd,Lenvatinib,Other,capsule,Yes,29426.0,27586.0,-6.25,Decreased
+256,Lenvima 4mg Capsule,Eisai Pharmaceuticals India Pvt Ltd,Lenvatinib,Other,capsule,Yes,11770.0,11034.0,-6.25,Decreased
+257,Letroz Tablet,Sun Pharmaceutical Industries Ltd,Letrozole,Other,tablet,Yes,228.85,156.54,-31.6,Decreased
+258,Levera 500 Tablet,Intas Pharmaceuticals Ltd,Levetiracetam,Other,tablet,Yes,199.08,208.06,4.51,Increased
+259,Levocet M Tablet,Hetero Drugs Ltd,Levocetirizine,Antihistamine,tablet,Yes,99.0,112.03,13.16,Increased
+260,Levocet Tablet,Hetero Healthcare Limited,Levocetirizine,Antihistamine,tablet,Yes,47.0,52.97,12.7,Increased
+261,Levoflox 500 Tablet,Cipla Ltd,Levofloxacin,Other,tablet,Yes,100.24,96.07,-4.16,Decreased
+262,Levolin 0.63mg Respules,Cipla Ltd,Levosalbutamol,Bronchodilator,respules,Yes,32.55,36.89,13.33,Increased
+263,Liofen 10 Tablet,Sun Pharmaceutical Industries Ltd,Baclofen,Other,tablet,Yes,125.2,127.01,1.45,Increased
+264,Lipaglyn Tablet,Zydus Cadila,Saroglitazar,Other,tablet,Yes,402.15,455.58,13.29,Increased
+265,Lizolid 600 Tablet,Integrace Pvt Ltd,Linezolid,Other,tablet,Yes,370.5,380.5,2.7,Increased
+266,Lorbriqua 100mg Tablet,Pfizer Ltd,Lorlatinib,Other,tablet,Yes,312000.0,292500.0,-6.25,Decreased
+267,Lorbriqua 25mg Tablet,Pfizer Ltd,Lorlatinib,Other,tablet,Yes,102000.0,95625.0,-6.25,Decreased
+268,Lox 2% Jelly,Neon Laboratories Ltd,Lidocaine,Other,gel,Yes,39.3,34.59,-11.98,Decreased
+269,Manforce 100mg Tablet,Mankind Pharma Ltd,Sildenafil,Other,tablet,Yes,255.0,243.7,-4.43,Decreased
+270,Manforce 50mg Tablet,Mankind Pharma Ltd,Sildenafil,Other,tablet,Yes,297.0,281.2,-5.32,Decreased
+271,Manforce Staylong Tablet,Mankind Pharma Ltd,Sildenafil,Other,tablet,Yes,264.0,281.2,6.52,Increased
+272,Maxtra Syrup,Zuventus Healthcare Ltd,Chlorpheniramine Maleate,Antihistamine,syrup,Yes,96.05,119.48,24.39,Increased
+273,Meftal-Forte Tablet,Blue Cross Laboratories Ltd,Mefenamic Acid,Analgesic,tablet,Yes,44.0,43.13,-1.98,Decreased
+274,Meftal-P Suspension,Blue Cross Laboratories Ltd,Mefenamic Acid,Other,suspension,Yes,36.5,34.69,-4.96,Decreased
+275,Meftal-Spas Tablet,Blue Cross Laboratories Ltd,Dicyclomine,Other,tablet,Yes,50.0,51.56,3.12,Increased
+276,Megalis 20 Tablet,Macleods Pharmaceuticals Pvt Ltd,Tadalafil,Other,tablet,Yes,391.0,487.7,24.73,Increased
+277,Meganeuron OD Plus Capsule,Aristo Pharmaceuticals Pvt Ltd,Methylcobalamin,Other,capsule,Yes,140.0,164.0,17.14,Increased
+278,Meprate 10mg Tablet,Serum Institute Of India Ltd,Medroxyprogesterone acetate,Other,tablet,Yes,66.79,65.48,-1.96,Decreased
+279,Met XL 25 Tablet,Ajanta Pharma Ltd,Metoprolol Succinate,Other,tablet,Yes,100.12,90.71,-9.4,Decreased
+280,Metrogyl 400 Tablet,J B Chemicals and Pharmaceuticals Ltd,Metronidazole,Other,tablet,Yes,23.85,23.93,0.34,Unchanged
+281,Mitotax 100mg Injection,Dr Reddy's Laboratories Ltd,Paclitaxel,Other,injection,Yes,3856.0,3843.21,-0.33,Unchanged
+282,Mobizox Tablet,Sun Pharmaceutical Industries Ltd,Chlorzoxazone,Analgesic,tablet,Yes,216.0,262.5,21.53,Increased
+283,Monocef-O 200 Tablet,Aristo Pharmaceuticals Pvt Ltd,Cefpodoxime Proxetil,Other,tablet,Yes,185.0,215.6,16.54,Increased
+284,Montair FX Tablet,Cipla Ltd,Montelukast,Antihistamine,tablet,Yes,333.8,416.5,24.78,Increased
+285,Montair LC Kid Syrup,Cipla Ltd,Levocetirizine,Antihistamine,syrup,Yes,127.17,158.6,24.71,Increased
+286,Montair-LC Tablet,Cipla Ltd,Levocetirizine,Antihistamine,tablet,Yes,336.0,381.6,13.57,Increased
+287,Monticope Tablet,Mankind Pharma Ltd,Levocetirizine,Antihistamine,tablet,Yes,99.9,103.01,3.11,Increased
+288,Montina-L Tablet,Aristo Pharmaceuticals Pvt Ltd,Levocetirizine,Antihistamine,tablet,Yes,70.0,84.38,20.54,Increased
+289,Moxikind-CV 625 Tablet,Mankind Pharma Ltd,Amoxycillin,Antibiotic,tablet,Yes,171.1,182.96,6.93,Increased
+290,Mucaine Gel Mint Sugar Free,Pfizer Ltd,Oxetacaine,Other,gel,Yes,201.25,250.64,24.54,Increased
+291,Mucinac 600 Effervescent Tablet Orange Sugar Free,Cipla Ltd,Acetylcysteine,Other,tablet,Yes,293.48,366.2,24.78,Increased
+292,Myospaz Forte Tablet,Win-Medicare Pvt Ltd,Chlorzoxazone,Analgesic,tablet,Yes,307.0,381.09,24.13,Increased
+293,Myvajra Tablet,Laurus Labs Limited,Emtricitabine,Other,tablet,Yes,2499.0,2342.81,-6.25,Decreased
+294,Napra D 500 Tablet,Intas Pharmaceuticals Ltd,Naproxen,Other,tablet,Yes,98.0,120.94,23.41,Increased
+295,Naxdom 500 Tablet,Sun Pharmaceutical Industries Ltd,Naproxen,Other,tablet,Yes,142.0,176.2,24.08,Increased
+296,Nefrosave Tablet,Fourrts India Laboratories Pvt Ltd,Taurine,Other,tablet,Yes,217.0,239.0,10.14,Increased
+297,Neosporin Dusting Powder,Glaxo SmithKline Pharmaceuticals Ltd,Bacitracin,Other,powder,Yes,86.0,107.16,24.6,Increased
+298,Neosporin Skin Ointment,Glaxo SmithKline Pharmaceuticals Ltd,Bacitracin,Other,ointment,Yes,175.05,218.2,24.65,Increased
+299,Neurobion RF Forte Injection,Procter & Gamble Hygiene and Health Care Ltd,Methylcobalamin,Other,injection,Yes,16.4,20.42,24.51,Increased
+300,Nexito 10 Tablet,Sun Pharmaceutical Industries Ltd,Escitalopram Oxalate,Antidepressant,tablet,Yes,100.65,96.14,-4.48,Decreased
+301,Nexito 5 Tablet,Sun Pharmaceutical Industries Ltd,Escitalopram Oxalate,Antidepressant,tablet,Yes,56.65,53.62,-5.35,Decreased
+302,Nexpro 40 Tablet,Torrent Pharmaceuticals Ltd,Esomeprazole,Antacid,tablet,Yes,163.9,187.5,14.4,Increased
+303,Nicardia Retard 20 Tablet SR,J B Chemicals and Pharmaceuticals Ltd,Nifedipine,Other,tablet,Yes,64.07,72.6,13.31,Increased
+304,Nicip Plus Tablet,Cipla Ltd,Nimesulide,Analgesic,tablet,Yes,65.1,61.03,-6.25,Decreased
+305,Nicip Tablet,Cipla Ltd,Nimesulide,Analgesic,tablet,Yes,43.45,40.73,-6.26,Decreased
+306,Nikoran 5 Tablet,Torrent Pharmaceuticals Ltd,Nicorandil,Other,tablet,Yes,365.0,450.2,23.34,Increased
+307,Nise Tablet,Dr Reddy's Laboratories Ltd,Nimesulide,Analgesic,tablet,Yes,108.0,134.53,24.56,Increased
+308,Nodosis Tablet,Steadfast Medishield Pvt Ltd,Sodium Bicarbonate,Other,tablet,Yes,54.0,53.44,-1.04,Decreased
+309,Norflox 400 Tablet,Cipla Ltd,Norfloxacin,Other,tablet,Yes,78.06,88.54,13.43,Increased
+310,Norflox-TZ RF Tablet,Cipla Ltd,Norfloxacin,Other,tablet,Yes,107.48,121.91,13.43,Increased
+311,Novelon Tablet,Organon (India) Ltd,Ethinyl Estradiol,Other,tablet,Yes,262.0,316.0,20.61,Increased
+312,Nucala 100mg Injection,Glaxo SmithKline Pharmaceuticals Ltd,Mepolizumab,Other,injection,Yes,79853.0,79853.0,0.0,Unchanged
+313,Nucala Injection,Glaxo SmithKline Pharmaceuticals Ltd,Mepolizumab,Other,injection,Yes,79852.0,79852.0,0.0,Unchanged
+314,Nucoxia 90 Tablet,Zydus Cadila,Etoricoxib,Other,tablet,Yes,274.65,317.53,15.61,Increased
+315,Nucoxia MR Tablet,Zydus Cadila,Etoricoxib,Other,tablet,Yes,289.75,345.26,19.16,Increased
+316,Nurokind-Plus RF Capsule,Mankind Pharma Ltd,Methylcobalamin,Other,capsule,Yes,105.0,121.77,15.97,Increased
+317,O2 Tablet,Medley Pharmaceuticals,Ofloxacin,Other,tablet,Yes,164.5,194.7,18.36,Increased
+318,Oflox 200 Tablet,Cipla Ltd,Ofloxacin,Other,tablet,Yes,88.57,100.46,13.42,Increased
+319,Oflox OZ Tablet,Cipla Ltd,Ofloxacin,Other,tablet,Yes,165.41,187.6,13.42,Increased
+320,Omee Capsule,Alkem Laboratories Ltd,Omeprazole,Antacid,capsule,Yes,61.87,61.32,-0.89,Decreased
+321,Omez Capsule,Dr Reddy's Laboratories Ltd,Omeprazole,Antacid,capsule,Yes,61.48,61.23,-0.41,Unchanged
+322,Omnacortil 10 Tablet DT,Macleods Pharmaceuticals Pvt Ltd,Prednisolone,Corticosteroid,tablet,Yes,12.06,12.81,6.22,Increased
+323,Omnacortil 5 Tablet DT,Macleods Pharmaceuticals Pvt Ltd,Prednisolone,Corticosteroid,tablet,Yes,6.94,7.24,4.32,Increased
+324,Omnacortil Oral Solution,Macleods Pharmaceuticals Pvt Ltd,Prednisolone,Corticosteroid,solution,Yes,32.0,31.4,-1.88,Decreased
+325,Onabet 2% Cream,Glenmark Pharmaceuticals Ltd,Sertaconazole,Other,cream,Yes,364.0,453.99,24.72,Increased
+326,Ondem 4 Tablet,Alkem Laboratories Ltd,Ondansetron,Other,tablet,Yes,58.27,54.85,-5.87,Decreased
+327,Ondem -MD 4 Tablet,Alkem Laboratories Ltd,Ondansetron,Other,tablet,Yes,58.27,54.85,-5.87,Decreased
+328,Ondem Syrup,Alkem Laboratories Ltd,Ondansetron,Other,solution,Yes,41.72,40.23,-3.57,Decreased
+329,Ondero 5mg Tablet,Lupin Ltd,Linagliptin,Antidiabetic,tablet,Yes,309.0,180.3,-41.65,Decreased
+330,Opdyta 100mg Injection,BMS India Pvt Ltd,Nivolumab,Other,injection,Yes,99500.0,99500.0,0.0,Unchanged
+331,Opdyta 40mg Injection,BMS India Pvt Ltd,Nivolumab,Other,injection,Yes,39800.0,39800.0,0.0,Unchanged
+332,Optineuron Injection,Lupin Ltd,Thiamine,Other,injection,Yes,10.9,13.03,19.54,Increased
+333,Ornof Tablet,Aristo Pharmaceuticals Pvt Ltd,Ofloxacin,Other,tablet,Yes,130.5,154.6,18.47,Increased
+334,Otogesic Ear Drop,Eris Lifesciences Ltd,Dibucaine,Other,drops,Yes,165.04,187.03,13.32,Increased
+335,Ovral G Tablet,Pfizer Ltd,Norgestrel,Other,tablet,Yes,258.8,322.12,24.47,Increased
+336,Ovral L Tablet,Pfizer Ltd,Ethinyl Estradiol,Other,tablet,Yes,80.36,67.65,-15.82,Decreased
+337,Oxra 10mg Tablet,Sun Pharmaceutical Industries Ltd,Dapagliflozin,Other,tablet,Yes,180.6,223.1,23.53,Increased
+338,Paclitax 260mg Injection,Cipla Ltd,Paclitaxel,Other,injection,Yes,11528.13,9343.67,-18.95,Decreased
+339,Paclitax Nab 100mg Injection,Cipla Ltd,Paclitaxel,Other,injection,Yes,8232.68,9338.93,13.44,Increased
+340,Pamorelin LA 11.25mg Powder for Injection,Dr Reddy's Laboratories Ltd,Triptorelin,Other,injection,Yes,17876.5,16759.22,-6.25,Decreased
+341,Pamorelin LA 22.5mg Injection,Dr Reddy's Laboratories Ltd,Triptorelin,Other,injection,Yes,36409.0,34133.44,-6.25,Decreased
+342,Pegfeel Injection,Dr Reddy's Laboratories Ltd,Granulocyte Colony Stimulating Factor,Other,injection,Yes,3010.0,3414.38,13.43,Increased
+343,Peggrafeel 6mg Injection,Dr Reddy's Laboratories Ltd,Pegfilgrastim,Other,injection,Yes,3010.0,3414.0,13.42,Increased
+344,Pemgem 100mg Injection,Dr Reddy's Laboratories Ltd,Pemetrexed,Other,injection,Yes,1378.5,1292.0,-6.27,Decreased
+345,Pemgem 500mg Injection,Dr Reddy's Laboratories Ltd,Pemetrexed,Other,injection,Yes,5123.5,5283.0,3.11,Increased
+346,Preservgest SR 200 Tablet,Abbott,Progesterone,Other,tablet,Yes,498.0,513.56,3.12,Increased
+347,Preservgest SR 300 Tablet,Abbott,Progesterone,Other,tablet,Yes,733.05,687.23,-6.25,Decreased
+348,Prevenar 13 Vaccine,Pfizer Ltd,Pneumococcal 13 valent Conjugate Vaccine,Other,injection,Yes,3991.05,3991.05,0.0,Unchanged
+349,Primcyv 100mg Capsule,Dr Reddy's Laboratories Ltd,Palbociclib,Other,capsule,Yes,95000.0,89062.0,-6.25,Decreased
+350,Purplz 100mg Injection,Dr Reddy's Laboratories Ltd,Bendamustine,Other,injection,Yes,3981.0,4257.35,6.94,Increased
+351,Q C Nac 600mg Tablet,H2H India Biotech Private Limited,Acetylcysteine,Other,tablet,Yes,225.0,210.94,-6.25,Decreased
+352,Q-Car Tablet,Nexgen Pharma,Coenzyme Q10,Other,tablet,Yes,330.0,328.1,-0.58,Decreased
+353,Q-Mind 25 Tablet,Torrent Pharmaceuticals Ltd,Quetiapine,Other,tablet,Yes,45.7,51.7,13.13,Increased
+354,Qmax 200mg Tablet,Alkem Laboratories Ltd,Ofloxacin,Other,tablet,Yes,79.0,80.63,2.06,Increased
+355,Qmax OZ 200 mg/500 mg Tablet,Alkem Laboratories Ltd,Ofloxacin,Other,tablet,Yes,157.0,147.15,-6.27,Decreased
+356,Quadriderm RF Cream,Abbott,Beclometasone,Corticosteroid,cream,Yes,151.0,163.1,8.01,Increased
+357,Quadrovax PFS Vaccine,Serum Institute Of India Ltd,Diphtheria Toxoid,Other,injection,Yes,642.85,642.85,0.0,Unchanged
+358,Quard Cream,Laborate Pharmaceuticals India Ltd,Beclometasone,Corticosteroid,cream,Yes,49.0,45.94,-6.24,Decreased
+359,Quel 25mg Tablet,Ipca Laboratories Ltd,Quetiapine,Other,tablet,Yes,52.3,59.25,13.29,Increased
+360,Quel 50 Tablet,Ipca Laboratories Ltd,Quetiapine,Other,tablet,Yes,74.55,87.84,17.83,Increased
+361,Quicnac 600 Effervescent Tablet Orange Sugar Free,Alkem Laboratories Ltd,Acetylcysteine,Other,tablet,Yes,220.0,273.75,24.43,Increased
+362,Quicnac AB Tablet,Alkem Laboratories Ltd,Acebrophylline,Other,tablet,Yes,135.0,166.85,23.59,Increased
+363,Quikhale FB 200 Capsule,Intas Pharmaceuticals Ltd,Formoterol,Other,capsule,Yes,187.82,183.33,-2.39,Decreased
+364,Qure 500 Tablet,Aristo Pharmaceuticals Pvt Ltd,Levofloxacin,Other,tablet,Yes,90.05,94.4,4.83,Increased
+365,Qutan 100 Tablet,Intas Pharmaceuticals Ltd,Quetiapine,Other,tablet,Yes,110.0,135.94,23.58,Increased
+366,Qutan 25 Tablet,Intas Pharmaceuticals Ltd,Quetiapine,Other,tablet,Yes,55.0,67.97,23.58,Increased
+367,Qutan 50 Tablet,Intas Pharmaceuticals Ltd,Quetiapine,Other,tablet,Yes,82.5,102.19,23.87,Increased
+368,Qutan SR 50 Tablet,Intas Pharmaceuticals Ltd,Quetiapine,Other,tablet,Yes,76.5,94.69,23.78,Increased
+369,Qutipin 100 Tablet,Sun Pharmaceutical Industries Ltd,Quetiapine,Other,tablet,Yes,97.0,119.06,22.74,Increased
+370,Qutipin 200 Tablet,Sun Pharmaceutical Industries Ltd,Quetiapine,Other,tablet,Yes,166.0,191.25,15.21,Increased
+371,Qutipin 25 Tablet,Sun Pharmaceutical Industries Ltd,Quetiapine,Other,tablet,Yes,63.0,75.0,19.05,Increased
+372,Qutipin 50 Tablet,Sun Pharmaceutical Industries Ltd,Quetiapine,Other,tablet,Yes,80.0,93.75,17.19,Increased
+373,Qutipin SR 50 Tablet,Sun Pharmaceutical Industries Ltd,Quetiapine,Other,tablet,Yes,80.0,87.19,8.99,Increased
+374,Rabekind-DSR Capsule,Mankind Pharma Ltd,Domperidone,Antacid,capsule,Yes,93.5,116.26,24.34,Increased
+375,Rantac 150 Tablet,J B Chemicals and Pharmaceuticals Ltd,Ranitidine,Antacid,tablet,Yes,40.75,50.76,24.56,Increased
+376,Rantac Syrup Mint,J B Chemicals and Pharmaceuticals Ltd,Ranitidine,Antacid,solution,Yes,134.4,166.97,24.23,Increased
+377,Razo-D Capsule SR,Dr Reddy's Laboratories Ltd,Domperidone,Antacid,capsule,Yes,298.5,338.44,13.38,Increased
+378,Rebagen Tablet,Macleods Pharmaceuticals Pvt Ltd,Rebamipide,Other,tablet,Yes,125.4,141.56,12.89,Increased
+379,Reditux 600mg Injection,Dr Reddy's Laboratories Ltd,Rituximab,Other,injection,Yes,42657.3,42802.78,0.34,Unchanged
+380,Reditux RA Injection,Dr Reddy's Laboratories Ltd,Rituximab,Other,injection,Yes,77082.88,39992.34,-48.12,Decreased
+381,Redotil 100mg Capsule,Dr Reddy's Laboratories Ltd,Racecadotril,Other,capsule,Yes,353.25,440.39,24.67,Increased
+382,Refresh Tears Eye Drop,Allergan India Pvt Ltd,Carboxymethylcellulose,Other,drops,Yes,158.78,131.28,-17.32,Decreased
+383,Regestrone 5mg Tablet,Torrent Pharmaceuticals Ltd,Norethisterone,Other,tablet,Yes,57.3,57.5,0.35,Unchanged
+384,Relent Plus Syrup,Dr Reddy's Laboratories Ltd,Cetirizine,Antihistamine,syrup,Yes,108.0,134.53,24.56,Increased
+385,Relent Tablet,Dr Reddy's Laboratories Ltd,Cetirizine,Antihistamine,tablet,Yes,118.25,147.42,24.67,Increased
+386,Remicade Injection,Janssen Pharmaceuticals,Infliximab,Other,injection,Yes,20519.0,19236.0,-6.25,Decreased
+387,Rexcof DX Syrup,Cipla Ltd,Chlorpheniramine Maleate,Antihistamine,syrup,Yes,116.55,132.21,13.44,Increased
+388,Rexidin-M Forte Gel,Indoco Remedies Ltd,Lidocaine,Other,gel,Yes,75.5,92.72,22.81,Increased
+389,Rifagut 400 Tablet,Sun Pharmaceutical Industries Ltd,Rifaximin,Other,tablet,Yes,379.0,410.6,8.34,Increased
+390,Rifagut 550 Tablet,Sun Pharmaceutical Industries Ltd,Rifaximin,Other,tablet,Yes,455.0,530.63,16.62,Increased
+391,Ristova 100mg Injection,Roche Products India Pvt Ltd,Rituximab,Other,injection,Yes,7971.0,7996.87,0.32,Unchanged
+392,Ristova 500mg Injection,Roche Products India Pvt Ltd,Rituximab,Other,injection,Yes,39865.0,39984.37,0.3,Unchanged
+393,ROKO Capsule,Cipla Ltd,Loperamide,Other,capsule,Yes,22.96,24.3,5.84,Increased
+394,Rolimus 10 Tablet,Cipla Ltd,Everolimus,Other,tablet,Yes,9900.0,11434.5,15.5,Increased
+395,Rolimus 5 Tablet,Cipla Ltd,Everolimus,Other,tablet,Yes,6670.12,8070.84,21.0,Increased
+396,Roseday 10 Tablet,USV Ltd,Rosuvastatin,Other,tablet,Yes,189.45,212.8,12.33,Increased
+397,Rosuvas 10 Tablet,Sun Pharmaceutical Industries Ltd,Rosuvastatin,Other,tablet,Yes,292.0,345.94,18.47,Increased
+398,Rosuvas F 10 Tablet,Sun Pharmaceutical Industries Ltd,Fenofibrate,Other,tablet,Yes,387.0,419.06,8.28,Increased
+399,Rozavel 10 Tablet,Sun Pharmaceutical Industries Ltd,Rosuvastatin,Other,tablet,Yes,194.0,211.88,9.22,Increased
+400,Rybelsus 14mg Tablet,Novo Nordisk India Pvt Ltd,Semaglutide,Other,tablet,Yes,3870.0,3628.13,-6.25,Decreased
+401,Scapho 150mg Injection,Novartis India Ltd,Secukinumab,Other,injection,Yes,20000.0,18750.0,-6.25,Decreased
+402,Seroflo 250 Inhaler,Cipla Ltd,Salmeterol,Other,inhaler,Yes,733.09,914.7,24.77,Increased
+403,Sibelium 10mg Tablet,Janssen Pharmaceuticals,Flunarizine,Other,tablet,Yes,176.0,151.6,-13.86,Decreased
+404,Signoflam Tablet,Lupin Ltd,Aceclofenac,Analgesic,tablet,Yes,122.3,148.22,21.19,Increased
+405,Sinarest New Tablet,Centaur Pharmaceuticals Pvt Ltd,Chlorpheniramine Maleate,Antihistamine,tablet,Yes,99.98,123.64,23.66,Increased
+406,Skinlite Cream,Zydus Cadila,Hydroquinone,Other,cream,Yes,255.0,293.91,15.26,Increased
+407,Smuth Cream,Aristo Pharmaceuticals Pvt Ltd,Lidocaine,Other,cream,Yes,127.75,156.0,22.11,Increased
+408,Solvin Cold Tablet,Ipca Laboratories Ltd,Chlorpheniramine Maleate,Antihistamine,tablet,Yes,56.15,69.94,24.56,Increased
+409,Sompraz 40 Tablet,Sun Pharmaceutical Industries Ltd,Esomeprazole,Antacid,tablet,Yes,139.0,168.75,21.4,Increased
+410,Sompraz D 40 Capsule SR,Sun Pharmaceutical Industries Ltd,Domperidone,Antacid,capsule,Yes,230.0,262.5,14.13,Increased
+411,Soranib Tablet,Cipla Ltd,Sorafenib,Other,tablet,Yes,2276.01,2503.61,10.0,Increased
+412,Sorbitrate 5 Tablet,Abbott,Isosorbide Dinitrate,Other,tablet,Yes,46.48,43.58,-6.24,Decreased
+413,Spexib Capsule,Novartis India Ltd,Ceritinib,Other,capsule,Yes,8698.0,5662.0,-34.9,Decreased
+414,Sprycel 70mg Tablet,BMS India Pvt Ltd,Dasatinib,Other,tablet,Yes,211538.51,198317.35,-6.25,Decreased
+415,Stemetil MD Tablet,Abbott,Prochlorperazine,Other,tablet,Yes,142.73,178.1,24.78,Increased
+416,Stugeron Tablet,Janssen Pharmaceuticals,Cinnarizine,Other,tablet,Yes,217.0,269.0,23.96,Increased
+417,Sucral-O Suspension,Strassenburg Pharmaceuticals.Ltd,Sucralfate,Other,suspension,Yes,265.0,312.1,17.77,Increased
+418,Suhagra 100 Tablet,Cipla Ltd,Sildenafil,Other,tablet,Yes,192.0,217.8,13.44,Increased
+419,Sumo Tablet,Alkem Laboratories Ltd,Nimesulide,Analgesic,tablet,Yes,136.0,167.8,23.38,Increased
+420,Surfaz-SN Cream,Franco-Indian Pharmaceuticals Pvt Ltd,Beclometasone,Corticosteroid,cream,Yes,96.3,99.19,3.0,Increased
+421,Sutent 12.5mg Capsule,Pfizer Ltd,Sunitinib,Other,capsule,Yes,14786.42,14786.42,0.0,Unchanged
+422,Sutent 25mg Capsule,Pfizer Ltd,Sunitinib,Other,capsule,Yes,29204.51,29204.51,0.0,Unchanged
+423,Sutent 50mg Capsule,Pfizer Ltd,Sunitinib,Other,capsule,Yes,61003.44,61003.44,0.0,Unchanged
+424,T-Bact 2% Ointment,Glaxo SmithKline Pharmaceuticals Ltd,Mupirocin,Other,ointment,Yes,147.35,108.36,-26.46,Decreased
+425,Tabi Tablet,Dr Reddy's Laboratories Ltd,Bicalutamide,Other,tablet,Yes,1430.21,1217.81,-14.85,Decreased
+426,Tagrisso 40mg Tablet,AstraZeneca,Osimertinib,Other,tablet,Yes,202391.48,150154.0,-25.81,Decreased
+427,Tagrisso 80mg Tablet,AstraZeneca,Osimertinib,Other,tablet,Yes,204435.84,151670.0,-25.81,Decreased
+428,Tarceva 100mg TABLET,Roche Products India Pvt Ltd,Erlotinib,Other,tablet,Yes,35450.0,33234.38,-6.25,Decreased
+429,Tarceva 150mg Tablet,Roche Products India Pvt Ltd,Erlotinib,Other,tablet,Yes,40300.0,37781.25,-6.25,Decreased
+430,Taxim-O 200 Tablet,Alkem Laboratories Ltd,Cefixime,Antibiotic,tablet,Yes,119.31,104.43,-12.47,Decreased
+431,Tecentriq 1200mg Injection,Roche Products India Pvt Ltd,Atezolizumab,Other,solution,Yes,396725.0,396725.0,0.0,Unchanged
+432,Tecentriq Injection,Roche Products India Pvt Ltd,Atezolizumab,Other,injection,Yes,277708.0,277708.0,0.0,Unchanged
+433,Tecfidera 120mg Capsule,Eisai Pharmaceuticals India Pvt Ltd,Dimethyl fumarate,Other,capsule,Yes,22500.0,21093.0,-6.25,Decreased
+434,Tecfidera 240mg Capsule DR,Biogen Idec Biotech India Pvt Ltd,Dimethyl fumarate,Other,capsule,Yes,22500.0,21093.0,-6.25,Decreased
+435,Telma 40 Tablet,Glenmark Pharmaceuticals Ltd,Telmisartan,Antihypertensive,tablet,Yes,245.95,212.9,-13.44,Decreased
+436,Telma-AM Tablet,Glenmark Pharmaceuticals Ltd,Telmisartan,Antihypertensive,tablet,Yes,281.0,315.4,12.24,Increased
+437,Telma H Tablet,Glenmark Pharmaceuticals Ltd,Telmisartan,Antihypertensive,tablet,Yes,530.0,344.5,-35.0,Decreased
+438,Telmikind 40 Tablet,Mankind Pharma Ltd,Telmisartan,Antihypertensive,tablet,Yes,38.59,41.25,6.89,Increased
+439,Telmikind-AM Tablet,Mankind Pharma Ltd,Telmisartan,Antihypertensive,tablet,Yes,69.0,86.08,24.75,Increased
+440,Temoside 100 Capsule,Cipla Ltd,Temozolomide,Other,capsule,Yes,2765.77,3276.0,18.45,Increased
+441,Temoside 250 Capsule,Cipla Ltd,Temozolomide,Other,capsule,Yes,5762.03,6825.0,18.45,Increased
+442,Thrombophob Ointment,Zydus Cadila,Benzyl Nicotinate,Other,ointment,Yes,132.55,150.3,13.39,Increased
+443,Trajenta 5mg Tablet,Boehringer Ingelheim,Linagliptin,Antidiabetic,tablet,Yes,309.0,348.7,12.85,Increased
+444,Trenaxa 500 Tablet,Macleods Pharmaceuticals Pvt Ltd,Tranexamic Acid,Other,tablet,Yes,121.46,104.2,-14.21,Decreased
+445,Trental 400 Tablet PR,Sanofi India Ltd,Pentoxifylline,Other,tablet,Yes,68.67,77.89,13.43,Increased
+446,Tretin 0.025% Cream,Hegde and Hegde Pharmaceutical LLP,Tretinoin,Other,cream,Yes,190.0,192.1,1.11,Increased
+447,Trilavir E Tablet,Laurus Labs Limited,Emtricitabine,Other,tablet,Yes,3999.0,3749.06,-6.25,Decreased
+448,Trilavir Mini Tablet,Laurus Labs Limited,Lamivudine,Other,tablet,Yes,1999.0,1874.06,-6.25,Decreased
+449,Trilawil Capsule,Laurus Labs Limited,Trientine Hydrochloride,Other,capsule,Yes,19999.0,18749.06,-6.25,Decreased
+450,Tryptomer 10mg Tablet,Dr Reddy's Laboratories Ltd,Amitriptyline,Antidepressant,tablet,Yes,85.22,76.4,-10.35,Decreased
+451,Tykinax 5mg Tablet,Dr Reddy's Laboratories Ltd,Axitinib,Other,tablet,Yes,1499.75,1406.02,-6.25,Decreased
+452,Ubicar Tablet,Fourrts India Laboratories Pvt Ltd,Coenzyme Q10,Other,tablet,Yes,384.0,374.0,-2.6,Decreased
+453,Udapa 10 Tablet,USV Ltd,Dapagliflozin,Other,tablet,Yes,132.0,141.56,7.24,Increased
+454,Udapa-S 10/100 Tablet,USV Ltd,Dapagliflozin,Antidiabetic,tablet,Yes,220.0,185.63,-15.62,Decreased
+455,Udiliv 150mg Tablet,Abbott,Ursodeoxycholic Acid,Other,tablet,Yes,395.98,527.03,33.1,Increased
+456,Udiliv 300 Tablet,Abbott,Ursodeoxycholic Acid,Other,tablet,Yes,694.19,923.95,33.1,Increased
+457,Ugesic Sublingual tablet,Meyer Organics Pvt Ltd,Piroxicam,Other,tablet,Yes,126.0,153.5,21.83,Increased
+458,Ulgel Oral Suspension Saunf Sugar Free,Alembic Pharmaceuticals Ltd,Magaldrate,Other,suspension,Yes,131.6,162.0,23.1,Increased
+459,Ultrabrite Cream,Leeford Healthcare Ltd,Hydroquinone,Other,cream,Yes,155.0,164.0,5.81,Increased
+460,Unicontin-E 400 Tablet CR,Modi Mundi Pharma Pvt Ltd,Theophylline,Other,tablet,Yes,216.0,267.1,23.66,Increased
+461,Unistar 75 Capsule,Torrent Pharmaceuticals Ltd,Rosuvastatin,Other,capsule,Yes,147.85,183.85,24.35,Increased
+462,Unwanted 21 Days Tablet,Mankind Pharma Ltd,Ethinyl Estradiol,Other,tablet,Yes,65.0,67.0,3.08,Increased
+463,Uphold Tablet,Fourrts India Laboratories Pvt Ltd,Tadalafil,Other,tablet,Yes,361.0,368.4,2.05,Increased
+464,Uribid Tablet,Intas Pharmaceuticals Ltd,Nitrofurantoin,Other,tablet,Yes,220.5,129.81,-41.13,Decreased
+465,Urikind-K Solution,Mankind Pharma Ltd,Citric Acid,Other,solution,Yes,72.45,90.38,24.75,Increased
+466,Urikind Tablet,Mankind Pharma Ltd,Flavoxate,Other,tablet,Yes,184.91,230.72,24.77,Increased
+467,Urimax 0.4 Capsule MR,Cipla Ltd,Tamsulosin,Other,capsule,Yes,366.84,324.4,-11.57,Decreased
+468,Urimax D Tablet MR,Cipla Ltd,Tamsulosin,Other,tablet,Yes,525.74,626.1,19.09,Increased
+469,Urispas Tablet,Walter Bushnell,Flavoxate,Other,tablet,Yes,456.58,569.2,24.67,Increased
+470,Urotone Tablet,Samarth Life Sciences Pvt Ltd,Bethanechol,Other,tablet,Yes,156.3,189.9,21.5,Increased
+471,Ursocol 300 Tablet,Sun Pharmaceutical Industries Ltd,Ursodeoxycholic Acid,Other,tablet,Yes,523.0,693.0,32.5,Increased
+472,Ursocol SR 450 Tablet,Sun Pharmaceutical Industries Ltd,Ursodeoxycholic Acid,Other,tablet,Yes,654.5,866.0,32.31,Increased
+473,Ursolid 300mg Tablet,Leeford Healthcare Ltd,Ursodeoxycholic Acid,Other,tablet,Yes,350.0,350.0,0.0,Unchanged
+474,Valcivir 1000 Tablet,Cipla Ltd,Valacyclovir,Other,tablet,Yes,313.5,339.4,8.26,Increased
+475,Vectibix 100mg Solution for Infusion,Glaxo SmithKline Pharmaceuticals Ltd,Panitumumab,Other,solution,Yes,39060.0,36618.75,-6.25,Decreased
+476,Velcade 1mg Injection,Janssen Pharmaceuticals,Bortezomib,Other,injection,Yes,18060.0,16931.25,-6.25,Decreased
+477,Veloz 20 Tablet,Torrent Pharmaceuticals Ltd,Rabeprazole,Antacid,tablet,Yes,170.75,209.05,22.43,Increased
+478,Veloz D Capsule SR,Torrent Pharmaceuticals Ltd,Domperidone,Antacid,capsule,Yes,188.15,219.8,16.82,Increased
+479,Veltam 0.4 Tablet MR,Intas Pharmaceuticals Ltd,Tamsulosin,Other,tablet,Yes,171.0,210.94,23.36,Increased
+480,Veltam Plus Tablet MR,Intas Pharmaceuticals Ltd,Tamsulosin,Other,tablet,Yes,474.0,590.63,24.61,Increased
+481,Ventidox-M Tablet SR,Mankind Pharma Ltd,Doxofylline,Other,tablet,Yes,87.84,109.58,24.75,Increased
+482,Versavo 100 Solution for Infusion,Dr Reddy's Laboratories Ltd,Bevacizumab,Other,solution,Yes,6993.0,7686.0,9.91,Increased
+483,Versavo 400 Solution for Infusion,Dr Reddy's Laboratories Ltd,Bevacizumab,Other,solution,Yes,41994.0,41994.0,0.0,Unchanged
+484,Vertin 16 Tablet,Abbott,Betahistine,Other,tablet,Yes,295.77,369.0,24.76,Increased
+485,Vertin 8mg Tablet,Abbott,Betahistine,Other,tablet,Yes,160.56,200.3,24.75,Increased
+486,Vertistar -MD 16 Tablet,Mankind Pharma Ltd,Betahistine,Other,tablet,Yes,94.0,110.91,17.99,Increased
+487,Viagra 100mg Tablet,Pfizer Ltd,Sildenafil,Other,tablet,Yes,1055.0,1125.0,6.64,Increased
+488,Viagra 50mg Tablet,Pfizer Ltd,Sildenafil,Other,tablet,Yes,525.0,492.1,-6.27,Decreased
+489,Vicks Action 500 Advanced Tablet,Procter & Gamble Hygiene and Health Care Ltd,Caffeine,Other,tablet,Yes,52.8,64.69,22.52,Increased
+490,Vigamox Ophthalmic Solution,Alcon Laboratories,Moxifloxacin,Other,solution,Yes,357.0,443.74,24.3,Increased
+491,Vigore 100 Red Tablet,Zydus Healthcare Limited,Sildenafil,Other,tablet,Yes,116.0,119.53,3.04,Increased
+492,Vitamin A Chewable Tablet,Abbott,Vitamin A,Other,tablet,Yes,8.68,7.76,-10.6,Decreased
+493,Vitcofol Injection,FDC Ltd,Nicotinamide,Other,injection,Yes,87.45,99.0,13.21,Increased
+494,Vomikind -MD 4 Tablet,Mankind Pharma Ltd,Ondansetron,Other,tablet,Yes,45.0,48.11,6.91,Increased
+495,Vomikind Syrup,Mankind Pharma Ltd,Ondansetron,Other,solution,Yes,37.43,40.01,6.89,Increased
+496,Voveran SR 100 Tablet,Novartis India Ltd,Diclofenac,Analgesic,tablet,Yes,196.75,245.16,24.6,Increased
+497,VSL 3 Capsule,Sun Pharmaceutical Industries Ltd,Live Freeze Dried Lactic Acid Bacteria and Bifidobacteria,Other,capsule,Yes,425.0,451.88,6.32,Increased
+498,Vymada 50mg Tablet,Novartis India Ltd,Sacubitril,Other,tablet,Yes,1177.5,732.5,-37.79,Decreased
+499,Walacort Tablet,Wallace Pharmaceuticals Pvt Ltd,Betamethasone,Other,tablet,Yes,15.5,19.13,23.42,Increased
+500,Walamycin Suspension,Wallace Pharmaceuticals Pvt Ltd,Colistin Sulphate,Other,suspension,Yes,51.95,64.22,23.62,Increased
+501,Warf 5 Tablet,Cipla Ltd,Warfarin,Other,tablet,Yes,87.69,76.86,-12.35,Decreased
+502,Waxolve Ear Drop,Bell Pharma Pvt Ltd,Benzocaine,Other,drops,Yes,128.34,145.58,13.43,Increased
+503,Waxonil Activ Ear Drop,Entod Pharmaceuticals Ltd,Benzocaine,Other,drops,Yes,131.0,148.13,13.08,Increased
+504,Welhart 150mg Capsule,Tas Med India Pvt Ltd,Mexiletine,Other,capsule,Yes,803.0,902.6,12.4,Increased
+505,Wikoryl 10 Tablet,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,tablet,Yes,43.8,86.44,97.35,Increased
+506,Wikoryl 325 Tablet DT,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,tablet,Yes,52.8,64.97,23.05,Increased
+507,Wikoryl AF Drops,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,drops,Yes,95.7,98.25,2.66,Increased
+508,Wikoryl AF Syrup,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,syrup,Yes,78.9,83.91,6.35,Increased
+509,Wikoryl DS Syrup Orange,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,syrup,Yes,83.55,102.8,23.04,Increased
+510,Wikoryl Oral Drops Mix Fruit,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,drops,Yes,96.3,118.5,23.05,Increased
+511,Wikoryl Oral Suspension American Ice Cream,Alembic Pharmaceuticals Ltd,Chlorpheniramine Maleate,Antihistamine,suspension,Yes,83.55,107.2,28.31,Increased
+512,Winolap DS Eye Drop,Sun Pharmaceutical Industries Ltd,Olopatadine,Other,solution,Yes,217.0,242.81,11.89,Increased
+513,Winolap Eye Drop,Sun Pharmaceutical Industries Ltd,Olopatadine,Other,solution,Yes,171.0,202.5,18.42,Increased
+514,Winolap Max Eye Drop,Sun Pharmaceutical Industries Ltd,Olopatadine,Other,solution,Yes,270.0,291.56,7.99,Increased
+515,Wysolone 10 Tablet DT,Pfizer Ltd,Prednisolone,Corticosteroid,tablet,Yes,25.06,19.02,-24.1,Decreased
+516,Wysolone 20 Tablet DT,Pfizer Ltd,Prednisolone,Corticosteroid,tablet,Yes,45.07,38.24,-15.15,Decreased
+517,Wysolone 5 Tablet DT,Pfizer Ltd,Prednisolone,Corticosteroid,tablet,Yes,13.82,10.82,-21.71,Decreased
+518,Xafinact 50 Tablet,Sun Pharmaceutical Industries Ltd,Safinamide,Other,tablet,Yes,138.0,170.63,23.64,Increased
+519,Xalatan Eye Drop,Pfizer Ltd,Latanoprost,Other,drops,Yes,596.53,596.53,0.0,Unchanged
+520,Xalibo 50mg Injection,Dr Reddy's Laboratories Ltd,Decitabine,Other,injection,Yes,5187.0,4862.81,-6.25,Decreased
+521,Xarelto 10mg Tablet,Bayer Zydus Pharma Pvt Ltd,Rivaroxaban,Other,tablet,Yes,1015.0,905.71,-10.77,Decreased
+522,Xarelto 15mg Tablet,Bayer Zydus Pharma Pvt Ltd,Rivaroxaban,Other,tablet,Yes,1015.0,1027.0,1.18,Increased
+523,Xarelto 2.5mg Tablet,Bayer Zydus Pharma Pvt Ltd,Rivaroxaban,Other,tablet,Yes,508.0,480.95,-5.32,Decreased
+524,Xbira 250mg Tablet,Cipla Ltd,Abiraterone Acetate,Other,tablet,Yes,19500.0,20109.0,3.12,Increased
+525,Xbira 500 Tablet,Cipla Ltd,Abiraterone Acetate,Other,tablet,Yes,20000.0,20625.0,3.12,Increased
+526,Xeljanz 5mg Tablet,Pfizer Ltd,Tofacitinib,Other,tablet,Yes,66344.0,62197.5,-6.25,Decreased
+527,Xeloda 500mg Tablet,Roche Products India Pvt Ltd,Capecitabine,Other,tablet,Yes,1363.25,1183.0,-13.22,Decreased
+528,Xenadom 500 Tablet,Icon Life Sciences,Naproxen,Other,tablet,Yes,95.0,114.38,20.4,Increased
+529,Xgeva Solution for Injection,Dr Reddy's Laboratories Ltd,Denosumab,Other,injection,Yes,28787.0,26987.81,-6.25,Decreased
+530,Xone XP 1000mg/125mg Injection,Alkem Laboratories Ltd,Ceftriaxone,Antibiotic,injection,Yes,210.0,238.1,13.38,Increased
+531,Xtor 10 Tablet,Ipca Laboratories Ltd,Atorvastatin,Other,tablet,Yes,68.21,53.13,-22.11,Decreased
+532,Xygrel 90 Tablet,Intas Pharmaceuticals Ltd,Ticagrelor,Other,tablet,Yes,214.0,264.84,23.76,Increased
+533,Xykaa MR 4 Tablet,Troikaa Pharmaceuticals Ltd,Paracetamol,Analgesic,tablet,Yes,219.9,226.7,3.09,Increased
+534,Xylocaine 2% Injection,Zydus Cadila,Lidocaine,Other,injection,Yes,36.54,36.53,-0.03,Unchanged
+535,Xylocaine 2% Jelly,Zydus Cadila,Lidocaine,Other,other,Yes,66.7,57.68,-13.52,Decreased
+536,Xylocaine 5% Ointment,Zydus Cadila,Lidocaine,Other,ointment,Yes,66.7,57.68,-13.52,Decreased
+537,Xylocaine Spray,Zydus Cadila,Lidocaine,Other,spray,Yes,524.2,654.07,24.77,Increased
+538,Xylocaine Viscous Solution,Zydus Cadila,Lidocaine,Other,solution,Yes,177.42,189.74,6.94,Increased
+539,Xylutide 40mg Capsule,Cipla Ltd,Enzalutamide,Other,capsule,Yes,1012.0,1043.62,3.12,Increased
+540,Xylutide Capsule,Cipla Ltd,Enzalutamide,Other,capsule,Yes,6440.0,6037.5,-6.25,Decreased
+541,Xyzal 5mg Tablet,Dr Reddy's Laboratories Ltd,Levocetirizine,Antihistamine,tablet,Yes,180.5,204.61,13.36,Increased
+542,Xyzal M Tablet,Dr Reddy's Laboratories Ltd,Levocetirizine,Antihistamine,tablet,Yes,253.25,315.7,24.66,Increased
+543,Xyzal Syrup,Dr Reddy's Laboratories Ltd,Levocetirizine,Antihistamine,syrup,Yes,149.5,186.0,24.41,Increased
+544,Y-Fi Plus Tablet,Syndicate Life Sciences Pvt Ltd,Levocetirizine,Antihistamine,tablet,Yes,89.0,83.44,-6.25,Decreased
+545,Yakrit 300 Tablet,Primus Remedies Pvt Ltd,Ursodeoxycholic Acid,Other,tablet,Yes,311.0,311.0,0.0,Unchanged
+546,Yalithim 400mg Tablet XR,La Pharmaceuticals,Lithium carbonate,Other,tablet,Yes,59.0,55.31,-6.25,Decreased
+547,Yamini LS Kit,Lupin Ltd,Ethinyl Estradiol,Other,tablet,Yes,375.75,499.8,33.01,Increased
+548,Yamini Tablet,Lupin Ltd,Ethinyl Estradiol,Other,tablet,Yes,655.5,756.75,15.45,Increased
+549,Yashcold Tablet,Yash Pharma Laboratories Pvt Ltd,Caffeine,Antihistamine,tablet,Yes,31.45,29.48,-6.26,Decreased
+550,Yasmin Tablet,Bayer Zydus Pharma Pvt Ltd,Ethinyl Estradiol,Other,tablet,Yes,545.0,656.0,20.37,Increased
+551,Yaw 10 Tablet,Corona Remedies Pvt Ltd,Tadalafil,Other,tablet,Yes,220.0,249.5,13.41,Increased
+552,Yaw 2.5 Tablet,Corona Remedies Pvt Ltd,Tadalafil,Other,tablet,Yes,110.0,137.25,24.77,Increased
+553,Yaw 5 Tablet,Corona Remedies Pvt Ltd,Tadalafil,Other,tablet,Yes,165.0,205.8,24.73,Increased
+554,Yaw Plus 10mg/30mg Tablet,Corona Remedies Pvt Ltd,Tadalafil,Other,tablet,Yes,302.5,343.1,13.42,Increased
+555,YAZ Tablet,Bayer Zydus Pharma Pvt Ltd,Ethinyl Estradiol,Other,tablet,Yes,529.0,598.0,13.04,Increased
+556,Ycyst M Tablet,VIVO Life Science,Metformin,Antidiabetic,tablet,Yes,159.0,180.1,13.27,Increased
+557,Yees 20mg Tablet,Alkem Laboratories Ltd,Esomeprazole,Antacid,tablet,Yes,62.5,70.3,12.48,Increased
+558,Yees 40 Tablet,Alkem Laboratories Ltd,Esomeprazole,Antacid,tablet,Yes,146.0,165.0,13.01,Increased
+559,Yees 40mg Tablet,Alkem Laboratories Ltd,Esomeprazole,Antacid,tablet,Yes,121.0,113.44,-6.25,Decreased
+560,Yees-D Capsule SR,Alkem Laboratories Ltd,Domperidone,Antacid,capsule,Yes,117.0,197.8,69.06,Increased
+561,Yemetil 50mg Tablet,Manas Pharmaceuticals Pvt Ltd,Chlorpromazine,Other,tablet,Yes,23.65,25.31,7.02,Increased
+562,Yescort 6mg Tablet,Biochemix Health Care Pvt. Ltd.,Deflazacort,Other,tablet,Yes,87.3,81.84,-6.25,Decreased
+563,Yogamet-GM 1 Forte Tablet,HiGlance Laboratories,Glimepiride,Antidiabetic,tablet,Yes,123.5,127.03,2.86,Increased
+564,Yogaros 10 Tablet,HiGlance Laboratories,Rosuvastatin,Other,tablet,Yes,151.5,171.0,12.87,Increased
+565,Yogatel 40 Tablet,HiGlance Laboratories,Telmisartan,Antihypertensive,tablet,Yes,98.5,94.22,-4.35,Decreased
+566,Yuliprist Tablet,Jagsonpal Pharmaceuticals Ltd,Ulipristal acetate,Other,tablet,Yes,1299.0,1338.0,3.0,Increased
+567,Yuvti Tablet,Vhl Pharmaceuticals Private Limited,Ethinyl Estradiol,Other,tablet,Yes,475.0,580.0,22.11,Increased
+568,Yuxa 35 Tablet,Cheminnova Life Sciences,Cyproterone,Other,tablet,Yes,349.0,349.0,0.0,Unchanged
+569,Zanocin 200 Tablet,Sun Pharmaceutical Industries Ltd,Ofloxacin,Other,tablet,Yes,89.0,102.19,14.82,Increased
+570,Zedex Cough Syrup,Dr Reddy's Laboratories Ltd,Chlorpheniramine Maleate,Antihistamine,syrup,Yes,144.25,179.53,24.46,Increased
+571,Zenflox-OZ Tablet,Mankind Pharma Ltd,Ofloxacin,Other,tablet,Yes,118.45,147.34,24.39,Increased
+572,Zentel Chewable Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Albendazole,Other,tablet,Yes,9.55,8.67,-9.21,Decreased
+573,Zentel Oral Suspension,Glaxo SmithKline Pharmaceuticals Ltd,Albendazole,Other,suspension,Yes,19.82,18.8,-5.15,Decreased
+574,Zerodol -CR Tablet,Ipca Laboratories Ltd,Aceclofenac,Analgesic,tablet,Yes,83.3,103.78,24.59,Increased
+575,Zerodol-MR Tablet,Ipca Laboratories Ltd,Aceclofenac,Analgesic,tablet,Yes,98.5,122.72,24.59,Increased
+576,Zerodol-SP Tablet,Ipca Laboratories Ltd,Aceclofenac,Analgesic,tablet,Yes,118.3,139.6,18.01,Increased
+577,Zerodol Spas Tablet,Ipca Laboratories Ltd,Drotaverine,Analgesic,tablet,Yes,131.6,164.0,24.62,Increased
+578,Zerodol Tablet,Ipca Laboratories Ltd,Aceclofenac,Analgesic,tablet,Yes,56.5,61.13,8.19,Increased
+579,Zerodol TH 4 Tablet,Ipca Laboratories Ltd,Aceclofenac,Analgesic,tablet,Yes,209.0,251.2,20.19,Increased
+580,Zifi 200 Tablet,FDC Ltd,Cefixime,Antibiotic,tablet,Yes,119.0,104.47,-12.21,Decreased
+581,Zifi CV 200 Tablet,FDC Ltd,Cefixime,Antibiotic,tablet,Yes,292.0,331.2,13.42,Increased
+582,Zifi-O Tablet,FDC Ltd,Cefixime,Antibiotic,tablet,Yes,167.0,208.3,24.73,Increased
+583,Zocef 500 Tablet,Alkem Laboratories Ltd,Cefuroxime,Other,tablet,Yes,810.0,549.39,-32.17,Decreased
+584,Zocef-CV 500 Tablet,Alkem Laboratories Ltd,Cefuroxime,Other,tablet,Yes,570.0,534.35,-6.25,Decreased
+585,Zofer MD 4 Tablet,Sun Pharmaceutical Industries Ltd,Ondansetron,Other,tablet,Yes,58.25,54.79,-5.94,Decreased
+586,Zole-F Ointment,Sun Pharmaceutical Industries Ltd,Fluocinolone acetonide,Other,ointment,Yes,104.0,117.19,12.68,Increased
+587,Zonegran Tablet,Eisai Pharmaceuticals India Pvt Ltd,Zonisamide,Other,tablet,Yes,239.0,269.06,12.58,Increased
+588,Zostum 1.5gm Injection,Zuventus Healthcare Ltd,Cefoperazone,Other,injection,Yes,413.4,514.3,24.41,Increased
+589,Zyloric Tablet,Glaxo SmithKline Pharmaceuticals Ltd,Allopurinol,Other,tablet,Yes,23.54,19.85,-15.68,Decreased
+590,Zytee RB Gel,Raptakos Brett & Co Ltd,Choline Salicylate,Other,gel,Yes,114.0,120.5,5.7,Increased

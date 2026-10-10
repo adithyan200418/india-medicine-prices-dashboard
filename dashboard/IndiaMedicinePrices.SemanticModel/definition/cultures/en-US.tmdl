@@ -1,0 +1,1059 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "2.0.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "consumer_price_inflation.inflation_dec_2025": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Inflation Dec 2025"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Inflation": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.medicines_inflation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Medicines Inflation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicines": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.health_inflation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Health Inflation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All health": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.headline_inflation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Headline Inflation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All items": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.medicines_inflation_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Medicines Inflation Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicine inflation, Aug 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.headline_inflation_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Headline Inflation Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All-items inflation, Aug 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.medicines_inflation_dec_2025": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Medicines Inflation Dec 2025"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicine inflation, Dec 2025": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "consumer_price_inflation.medicine_price_rise_since_2014": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "consumer_price_inflation",
+			          "ConceptualProperty": "Medicine Price Rise Since 2014"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicine prices since 2014": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "nppa_annual_price_revision.nppa_revision": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "nppa_annual_price_revision",
+			          "ConceptualProperty": "NPPA Revision"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Allowed rise": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "nppa_annual_price_revision.nppa_revision_2026": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "nppa_annual_price_revision",
+			          "ConceptualProperty": "NPPA Revision 2026"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Price-controlled rise, Apr 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "wholesale_price_index.pharma_wholesale_yoy_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "wholesale_price_index",
+			          "ConceptualProperty": "Pharma Wholesale YoY Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Pharma wholesale prices, Apr 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "wholesale_price_index.all_commodities_wholesale_yoy_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "wholesale_price_index",
+			          "ConceptualProperty": "All Commodities Wholesale YoY Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All wholesale prices, Apr 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "wholesale_price_index.pharma_wholesale_yoy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "wholesale_price_index",
+			          "ConceptualProperty": "Pharma Wholesale YoY"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Pharmaceuticals": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "wholesale_price_index.all_commodities_wholesale_yoy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "wholesale_price_index",
+			          "ConceptualProperty": "All Commodities Wholesale YoY"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All commodities": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "wholesale_price_index.wholesale_yoy_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "wholesale_price_index",
+			          "ConceptualProperty": "Wholesale YoY Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Change": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_price_change_2022_2025.medicines_compared": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_price_change_2022_2025",
+			          "ConceptualProperty": "Medicines Compared"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicines priced in 2022 and 2025": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_price_change_2022_2025.median_price_change": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_price_change_2022_2025",
+			          "ConceptualProperty": "Median Price Change"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Typical change, 2022 to 2025": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Median change": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_price_change_2022_2025.share_increased": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_price_change_2022_2025",
+			          "ConceptualProperty": "Share Increased"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Share that rose": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "bulk_drug_imports_monthly.antibiotic_import_price_usd_per_kg": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "bulk_drug_imports_monthly",
+			          "ConceptualProperty": "Antibiotic Import Price USD per kg"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "USD per kg": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "bulk_drug_imports_monthly.antibiotic_import_price_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "bulk_drug_imports_monthly",
+			          "ConceptualProperty": "Antibiotic Import Price Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Antibiotic import price, USD per kg": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "bulk_drug_imports_monthly.bulk_drug_import_tonnes": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "bulk_drug_imports_monthly",
+			          "ConceptualProperty": "Bulk Drug Import Tonnes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Tonnes": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.china_share_by_product_2025": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "China Share by Product 2025"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "China share": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.china_share_bulk_drugs_2025": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "China Share Bulk Drugs 2025"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "China's share of bulk drug imports": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.china_share_antibiotics_2025": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "China Share Antibiotics 2025"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "China's share, bulk antibiotics": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.bulk_drug_imports_2025_usd_m": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "Bulk Drug Imports 2025 USD M"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Bulk drug imports 2025, USD million": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.bulk_drug_imports_from_china_usd_m": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "Bulk Drug Imports from China USD M"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "From China": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_trade_annual.bulk_drug_imports_from_others_usd_m": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_trade_annual",
+			          "ConceptualProperty": "Bulk Drug Imports from Others USD M"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "From other countries": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_events.events_2026": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_events",
+			          "ConceptualProperty": "Events 2026"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Documented supply events, 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_events.when": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_events",
+			          "ConceptualProperty": "when"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "When": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_events.event_type": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_events",
+			          "ConceptualProperty": "event_type"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Type": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_events.subject": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_events",
+			          "ConceptualProperty": "subject"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Medicines": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_events.what_happened": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_events",
+			          "ConceptualProperty": "what_happened"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "What happened": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_production_index.pharma_production_growth_latest": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_production_index",
+			          "ConceptualProperty": "Pharma Production Growth Latest"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Pharma output growth, Mar 2026": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_production_index.pharma_production_index": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_production_index",
+			          "ConceptualProperty": "Pharma Production Index"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Pharmaceuticals": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_production_index.all_industry_production_index": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_production_index",
+			          "ConceptualProperty": "All Industry Production Index"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "All industry": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_market_growth_2026.market_price_growth": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_market_growth_2026",
+			          "ConceptualProperty": "Market Price Growth"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Market growth from prices": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_market_growth_2026.market_volume_growth": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_market_growth_2026",
+			          "ConceptualProperty": "Market Volume Growth"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Market growth from volume": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "pharma_market_growth_2026.market_growth_jan_2026": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "pharma_market_growth_2026",
+			          "ConceptualProperty": "Market Growth Jan 2026"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Growth": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "availability_studies.study_result": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "availability_studies",
+			          "ConceptualProperty": "Study Result"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Result": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.molecules": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Molecules"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Active ingredients": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.listed_products": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Listed Products"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Products listed": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Brands": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.singlemaker_molecules": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Single-Maker Molecules"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "With a single maker": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.discontinued_share": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Discontinued Share"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Products discontinued": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Discontinued": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.molecule": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "molecule"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Active ingredient": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.therapeutic_class": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "therapeutic_class"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Type": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.makers_per_molecule": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Makers per Molecule"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Makers": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "medicine_market_by_molecule.median_price_inr": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "medicine_market_by_molecule",
+			          "ConceptualProperty": "Median Price INR"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Median price": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "nppa_ceiling_prices.pricecontrolled_formulations": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "nppa_ceiling_prices",
+			          "ConceptualProperty": "Price-Controlled Formulations"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Formulations": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Under price control": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

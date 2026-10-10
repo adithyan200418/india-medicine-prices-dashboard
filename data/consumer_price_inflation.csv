@@ -1,0 +1,1283 @@
+month,series,index_value,inflation_pct,base_year,verification
+2014-01-01,All items (headline CPI),113.6,8.6,2012,Official API
+2014-02-01,All items (headline CPI),113.6,7.88,2012,Official API
+2014-03-01,All items (headline CPI),114.2,8.25,2012,Official API
+2014-04-01,All items (headline CPI),115.1,8.48,2012,Official API
+2014-05-01,All items (headline CPI),115.8,8.33,2012,Official API
+2014-06-01,All items (headline CPI),116.7,6.77,2012,Official API
+2014-07-01,All items (headline CPI),119.2,7.39,2012,Official API
+2014-08-01,All items (headline CPI),120.3,7.03,2012,Official API
+2014-09-01,All items (headline CPI),120.1,5.63,2012,Official API
+2014-10-01,All items (headline CPI),120.1,4.62,2012,Official API
+2014-11-01,All items (headline CPI),120.1,3.27,2012,Official API
+2014-12-01,All items (headline CPI),119.4,4.28,2012,Official API
+2015-01-01,All items (headline CPI),119.5,5.19,2012,Official API
+2015-02-01,All items (headline CPI),119.7,5.37,2012,Official API
+2015-03-01,All items (headline CPI),120.2,5.25,2012,Official API
+2015-04-01,All items (headline CPI),120.7,4.87,2012,Official API
+2015-05-01,All items (headline CPI),121.6,5.01,2012,Official API
+2015-06-01,All items (headline CPI),123.0,5.4,2012,Official API
+2015-07-01,All items (headline CPI),123.6,3.69,2012,Official API
+2015-08-01,All items (headline CPI),124.8,3.74,2012,Official API
+2015-09-01,All items (headline CPI),125.4,4.41,2012,Official API
+2015-10-01,All items (headline CPI),126.1,5.0,2012,Official API
+2015-11-01,All items (headline CPI),126.6,5.41,2012,Official API
+2015-12-01,All items (headline CPI),126.1,5.61,2012,Official API
+2016-01-01,All items (headline CPI),126.3,5.69,2012,Official API
+2016-02-01,All items (headline CPI),126.0,5.26,2012,Official API
+2016-03-01,All items (headline CPI),126.0,4.83,2012,Official API
+2016-04-01,All items (headline CPI),127.3,5.47,2012,Official API
+2016-05-01,All items (headline CPI),128.6,5.76,2012,Official API
+2016-06-01,All items (headline CPI),130.1,5.77,2012,Official API
+2016-07-01,All items (headline CPI),131.1,6.07,2012,Official API
+2016-08-01,All items (headline CPI),131.1,5.05,2012,Official API
+2016-09-01,All items (headline CPI),130.9,4.39,2012,Official API
+2016-10-01,All items (headline CPI),131.4,4.2,2012,Official API
+2016-11-01,All items (headline CPI),131.2,3.63,2012,Official API
+2016-12-01,All items (headline CPI),130.4,3.41,2012,Official API
+2017-01-01,All items (headline CPI),130.3,3.17,2012,Official API
+2017-02-01,All items (headline CPI),130.6,3.65,2012,Official API
+2017-03-01,All items (headline CPI),130.9,3.89,2012,Official API
+2017-04-01,All items (headline CPI),131.1,2.99,2012,Official API
+2017-05-01,All items (headline CPI),131.4,2.18,2012,Official API
+2017-06-01,All items (headline CPI),132.0,1.46,2012,Official API
+2017-07-01,All items (headline CPI),134.2,2.36,2012,Official API
+2017-08-01,All items (headline CPI),135.4,3.28,2012,Official API
+2017-09-01,All items (headline CPI),135.2,3.28,2012,Official API
+2017-10-01,All items (headline CPI),136.1,3.58,2012,Official API
+2017-11-01,All items (headline CPI),137.6,4.88,2012,Official API
+2017-12-01,All items (headline CPI),137.2,5.21,2012,Official API
+2018-01-01,All items (headline CPI),136.9,5.07,2012,Official API
+2018-02-01,All items (headline CPI),136.4,4.44,2012,Official API
+2018-03-01,All items (headline CPI),136.5,4.28,2012,Official API
+2018-04-01,All items (headline CPI),137.1,4.58,2012,Official API
+2018-05-01,All items (headline CPI),137.8,4.87,2012,Official API
+2018-06-01,All items (headline CPI),138.5,4.92,2012,Official API
+2018-07-01,All items (headline CPI),139.8,4.17,2012,Official API
+2018-08-01,All items (headline CPI),140.4,3.69,2012,Official API
+2018-09-01,All items (headline CPI),140.2,3.7,2012,Official API
+2018-10-01,All items (headline CPI),140.7,3.38,2012,Official API
+2018-11-01,All items (headline CPI),140.8,2.33,2012,Official API
+2018-12-01,All items (headline CPI),140.1,2.11,2012,Official API
+2019-01-01,All items (headline CPI),139.6,1.97,2012,Official API
+2019-02-01,All items (headline CPI),139.9,2.57,2012,Official API
+2019-03-01,All items (headline CPI),140.4,2.86,2012,Official API
+2019-04-01,All items (headline CPI),141.2,2.99,2012,Official API
+2019-05-01,All items (headline CPI),142.0,3.05,2012,Official API
+2019-06-01,All items (headline CPI),142.9,3.18,2012,Official API
+2019-07-01,All items (headline CPI),144.2,3.15,2012,Official API
+2019-08-01,All items (headline CPI),145.0,3.28,2012,Official API
+2019-09-01,All items (headline CPI),145.8,3.99,2012,Official API
+2019-10-01,All items (headline CPI),147.2,4.62,2012,Official API
+2019-11-01,All items (headline CPI),148.6,5.54,2012,Official API
+2019-12-01,All items (headline CPI),150.4,7.35,2012,Official API
+2020-01-01,All items (headline CPI),150.2,7.59,2012,Official API
+2020-02-01,All items (headline CPI),149.1,6.58,2012,Official API
+2020-03-01,All items (headline CPI),148.6,5.84,2012,Official API
+2020-04-01,All items (headline CPI),151.4,,2012,Official API
+2020-05-01,All items (headline CPI),150.9,,2012,Official API
+2020-06-01,All items (headline CPI),151.8,6.23,2012,Official API
+2020-07-01,All items (headline CPI),153.9,6.73,2012,Official API
+2020-08-01,All items (headline CPI),154.7,6.69,2012,Official API
+2020-09-01,All items (headline CPI),156.4,7.27,2012,Official API
+2020-10-01,All items (headline CPI),158.4,7.61,2012,Official API
+2020-11-01,All items (headline CPI),158.9,6.93,2012,Official API
+2020-12-01,All items (headline CPI),157.3,4.59,2012,Official API
+2021-01-01,All items (headline CPI),156.3,4.06,2012,Official API
+2021-02-01,All items (headline CPI),156.6,5.03,2012,Official API
+2021-03-01,All items (headline CPI),156.8,5.52,2012,Official API
+2021-04-01,All items (headline CPI),157.8,4.23,2012,Official API
+2021-05-01,All items (headline CPI),160.4,6.3,2012,Official API
+2021-06-01,All items (headline CPI),161.3,6.26,2012,Official API
+2021-07-01,All items (headline CPI),162.5,5.59,2012,Official API
+2021-08-01,All items (headline CPI),162.9,5.3,2012,Official API
+2021-09-01,All items (headline CPI),163.2,4.35,2012,Official API
+2021-10-01,All items (headline CPI),165.5,4.48,2012,Official API
+2021-11-01,All items (headline CPI),166.7,4.91,2012,Official API
+2021-12-01,All items (headline CPI),166.2,5.66,2012,Official API
+2022-01-01,All items (headline CPI),165.7,6.01,2012,Official API
+2022-02-01,All items (headline CPI),166.1,6.07,2012,Official API
+2022-03-01,All items (headline CPI),167.7,6.95,2012,Official API
+2022-04-01,All items (headline CPI),170.1,7.79,2012,Official API
+2022-05-01,All items (headline CPI),171.7,7.04,2012,Official API
+2022-06-01,All items (headline CPI),172.6,7.01,2012,Official API
+2022-07-01,All items (headline CPI),173.4,6.71,2012,Official API
+2022-08-01,All items (headline CPI),174.3,7.0,2012,Official API
+2022-09-01,All items (headline CPI),175.3,7.41,2012,Official API
+2022-10-01,All items (headline CPI),176.7,6.77,2012,Official API
+2022-11-01,All items (headline CPI),176.5,5.88,2012,Official API
+2022-12-01,All items (headline CPI),175.7,5.72,2012,Official API
+2023-01-01,All items (headline CPI),176.5,6.52,2012,Official API
+2023-02-01,All items (headline CPI),176.8,6.44,2012,Official API
+2023-03-01,All items (headline CPI),177.2,5.66,2012,Official API
+2023-04-01,All items (headline CPI),178.1,4.7,2012,Official API
+2023-05-01,All items (headline CPI),179.1,4.31,2012,Official API
+2023-06-01,All items (headline CPI),181.0,4.87,2012,Official API
+2023-07-01,All items (headline CPI),186.3,7.44,2012,Official API
+2023-08-01,All items (headline CPI),186.2,6.83,2012,Official API
+2023-09-01,All items (headline CPI),184.1,5.02,2012,Official API
+2023-10-01,All items (headline CPI),185.3,4.87,2012,Official API
+2023-11-01,All items (headline CPI),186.3,5.55,2012,Official API
+2023-12-01,All items (headline CPI),185.7,5.69,2012,Official API
+2024-01-01,All items (headline CPI),185.5,5.1,2012,Official API
+2024-02-01,All items (headline CPI),185.8,5.09,2012,Official API
+2024-03-01,All items (headline CPI),185.8,4.85,2012,Official API
+2024-04-01,All items (headline CPI),186.7,4.83,2012,Official API
+2024-05-01,All items (headline CPI),187.7,4.8,2012,Official API
+2024-06-01,All items (headline CPI),190.2,5.08,2012,Official API
+2024-07-01,All items (headline CPI),193.0,3.6,2012,Official API
+2024-08-01,All items (headline CPI),193.0,3.65,2012,Official API
+2024-09-01,All items (headline CPI),194.2,5.49,2012,Official API
+2024-10-01,All items (headline CPI),196.8,6.21,2012,Official API
+2024-11-01,All items (headline CPI),196.5,5.48,2012,Official API
+2024-12-01,All items (headline CPI),195.4,5.22,2012,Official API
+2025-01-01,All items (headline CPI),193.4,4.26,2012,Official API
+2025-02-01,All items (headline CPI),192.5,3.61,2012,Official API
+2025-03-01,All items (headline CPI),192.0,3.34,2012,Official API
+2025-04-01,All items (headline CPI),192.6,3.16,2012,Official API
+2025-05-01,All items (headline CPI),193.0,2.82,2012,Official API
+2025-06-01,All items (headline CPI),194.2,2.1,2012,Official API
+2025-07-01,All items (headline CPI),196.1,1.61,2012,Official API
+2025-08-01,All items (headline CPI),197.0,2.07,2012,Official API
+2025-09-01,All items (headline CPI),197.0,1.44,2012,Official API
+2025-10-01,All items (headline CPI),197.3,0.25,2012,Official API
+2025-11-01,All items (headline CPI),197.9,0.71,2012,Official API
+2025-12-01,All items (headline CPI),198.0,1.33,2012,Official API
+2026-01-01,All items (headline CPI),,2.75,2024,Search summary only
+2026-08-01,All items (headline CPI),,4.82,2024,Page fetched
+2014-01-01,Diagnostic tests,109.7,,2012,Official API
+2014-02-01,Diagnostic tests,110.0,,2012,Official API
+2014-03-01,Diagnostic tests,111.0,,2012,Official API
+2014-04-01,Diagnostic tests,111.4,,2012,Official API
+2014-05-01,Diagnostic tests,111.7,,2012,Official API
+2014-06-01,Diagnostic tests,112.3,,2012,Official API
+2014-07-01,Diagnostic tests,112.7,,2012,Official API
+2014-08-01,Diagnostic tests,113.4,,2012,Official API
+2014-09-01,Diagnostic tests,113.7,,2012,Official API
+2014-10-01,Diagnostic tests,114.2,,2012,Official API
+2014-11-01,Diagnostic tests,114.9,,2012,Official API
+2014-12-01,Diagnostic tests,115.2,,2012,Official API
+2015-01-01,Diagnostic tests,115.7,5.47,2012,Official API
+2015-02-01,Diagnostic tests,116.4,5.82,2012,Official API
+2015-03-01,Diagnostic tests,116.9,5.32,2012,Official API
+2015-04-01,Diagnostic tests,117.1,5.12,2012,Official API
+2015-05-01,Diagnostic tests,117.5,5.19,2012,Official API
+2015-06-01,Diagnostic tests,118.2,5.25,2012,Official API
+2015-07-01,Diagnostic tests,118.9,5.5,2012,Official API
+2015-08-01,Diagnostic tests,119.3,5.2,2012,Official API
+2015-09-01,Diagnostic tests,120.1,5.63,2012,Official API
+2015-10-01,Diagnostic tests,120.5,5.52,2012,Official API
+2015-11-01,Diagnostic tests,120.9,5.22,2012,Official API
+2015-12-01,Diagnostic tests,121.2,5.21,2012,Official API
+2016-01-01,Diagnostic tests,121.5,5.01,2012,Official API
+2016-02-01,Diagnostic tests,122.1,4.9,2012,Official API
+2016-03-01,Diagnostic tests,122.2,4.53,2012,Official API
+2016-04-01,Diagnostic tests,122.8,4.87,2012,Official API
+2016-05-01,Diagnostic tests,123.2,4.85,2012,Official API
+2016-06-01,Diagnostic tests,123.6,4.57,2012,Official API
+2016-07-01,Diagnostic tests,124.3,4.54,2012,Official API
+2016-08-01,Diagnostic tests,124.6,4.44,2012,Official API
+2016-09-01,Diagnostic tests,125.2,4.25,2012,Official API
+2016-10-01,Diagnostic tests,125.6,4.23,2012,Official API
+2016-11-01,Diagnostic tests,125.8,4.05,2012,Official API
+2016-12-01,Diagnostic tests,126.3,4.21,2012,Official API
+2017-01-01,Diagnostic tests,126.4,4.03,2012,Official API
+2017-02-01,Diagnostic tests,126.5,3.6,2012,Official API
+2017-03-01,Diagnostic tests,127.3,4.17,2012,Official API
+2017-04-01,Diagnostic tests,127.7,3.99,2012,Official API
+2017-05-01,Diagnostic tests,128.0,3.9,2012,Official API
+2017-06-01,Diagnostic tests,128.4,3.88,2012,Official API
+2017-07-01,Diagnostic tests,128.8,3.62,2012,Official API
+2017-08-01,Diagnostic tests,129.6,4.01,2012,Official API
+2017-09-01,Diagnostic tests,129.6,3.51,2012,Official API
+2017-10-01,Diagnostic tests,130.2,3.66,2012,Official API
+2017-11-01,Diagnostic tests,130.7,3.9,2012,Official API
+2017-12-01,Diagnostic tests,130.9,3.64,2012,Official API
+2018-01-01,Diagnostic tests,131.2,3.8,2012,Official API
+2018-02-01,Diagnostic tests,131.3,3.79,2012,Official API
+2018-03-01,Diagnostic tests,131.9,3.61,2012,Official API
+2018-04-01,Diagnostic tests,132.6,3.84,2012,Official API
+2018-05-01,Diagnostic tests,132.9,3.83,2012,Official API
+2018-06-01,Diagnostic tests,133.3,3.82,2012,Official API
+2018-07-01,Diagnostic tests,133.8,3.88,2012,Official API
+2018-08-01,Diagnostic tests,134.3,3.63,2012,Official API
+2018-09-01,Diagnostic tests,135.0,4.17,2012,Official API
+2018-10-01,Diagnostic tests,138.6,6.45,2012,Official API
+2018-11-01,Diagnostic tests,137.7,5.36,2012,Official API
+2018-12-01,Diagnostic tests,139.2,6.34,2012,Official API
+2019-01-01,Diagnostic tests,139.5,6.33,2012,Official API
+2019-02-01,Diagnostic tests,140.4,6.93,2012,Official API
+2019-03-01,Diagnostic tests,140.2,6.29,2012,Official API
+2019-04-01,Diagnostic tests,140.6,6.03,2012,Official API
+2019-05-01,Diagnostic tests,140.8,5.94,2012,Official API
+2019-06-01,Diagnostic tests,140.9,5.7,2012,Official API
+2019-07-01,Diagnostic tests,141.4,5.68,2012,Official API
+2019-08-01,Diagnostic tests,141.6,5.44,2012,Official API
+2019-09-01,Diagnostic tests,141.7,4.96,2012,Official API
+2019-10-01,Diagnostic tests,142.0,2.45,2012,Official API
+2019-11-01,Diagnostic tests,142.2,3.27,2012,Official API
+2019-12-01,Diagnostic tests,142.5,2.37,2012,Official API
+2020-01-01,Diagnostic tests,142.8,2.37,2012,Official API
+2020-02-01,Diagnostic tests,143.2,1.99,2012,Official API
+2020-06-01,Diagnostic tests,144.8,2.77,2012,Official API
+2020-07-01,Diagnostic tests,144.8,2.4,2012,Official API
+2020-08-01,Diagnostic tests,145.6,2.82,2012,Official API
+2020-09-01,Diagnostic tests,146.4,3.32,2012,Official API
+2020-10-01,Diagnostic tests,146.9,3.45,2012,Official API
+2020-11-01,Diagnostic tests,147.3,3.59,2012,Official API
+2020-12-01,Diagnostic tests,148.1,3.93,2012,Official API
+2021-01-01,Diagnostic tests,148.5,3.99,2012,Official API
+2021-02-01,Diagnostic tests,149.3,4.26,2012,Official API
+2021-03-01,Diagnostic tests,149.8,,2012,Official API
+2021-04-01,Diagnostic tests,150.6,,2012,Official API
+2021-05-01,Diagnostic tests,153.7,,2012,Official API
+2021-06-01,Diagnostic tests,153.9,,2012,Official API
+2021-07-01,Diagnostic tests,154.4,6.63,2012,Official API
+2021-08-01,Diagnostic tests,154.8,6.32,2012,Official API
+2021-09-01,Diagnostic tests,155.2,6.01,2012,Official API
+2021-10-01,Diagnostic tests,155.6,5.92,2012,Official API
+2021-11-01,Diagnostic tests,156.0,5.91,2012,Official API
+2021-12-01,Diagnostic tests,156.5,5.67,2012,Official API
+2022-01-01,Diagnostic tests,156.9,5.66,2012,Official API
+2022-02-01,Diagnostic tests,157.4,5.43,2012,Official API
+2022-03-01,Diagnostic tests,157.8,5.34,2012,Official API
+2022-04-01,Diagnostic tests,158.3,5.11,2012,Official API
+2022-05-01,Diagnostic tests,158.8,3.32,2012,Official API
+2022-06-01,Diagnostic tests,159.1,3.38,2012,Official API
+2022-07-01,Diagnostic tests,159.5,3.3,2012,Official API
+2022-08-01,Diagnostic tests,160.1,3.42,2012,Official API
+2022-09-01,Diagnostic tests,160.6,3.48,2012,Official API
+2022-10-01,Diagnostic tests,160.8,3.34,2012,Official API
+2022-11-01,Diagnostic tests,161.2,3.33,2012,Official API
+2022-12-01,Diagnostic tests,161.7,3.32,2012,Official API
+2023-01-01,Diagnostic tests,162.2,3.38,2012,Official API
+2023-02-01,Diagnostic tests,162.7,3.37,2012,Official API
+2023-03-01,Diagnostic tests,163.1,3.36,2012,Official API
+2023-04-01,Diagnostic tests,163.5,3.28,2012,Official API
+2023-05-01,Diagnostic tests,163.8,3.15,2012,Official API
+2023-06-01,Diagnostic tests,164.1,3.14,2012,Official API
+2023-07-01,Diagnostic tests,164.4,3.07,2012,Official API
+2023-08-01,Diagnostic tests,164.8,2.94,2012,Official API
+2023-09-01,Diagnostic tests,164.9,2.68,2012,Official API
+2023-10-01,Diagnostic tests,165.1,2.67,2012,Official API
+2023-11-01,Diagnostic tests,165.3,2.54,2012,Official API
+2023-12-01,Diagnostic tests,165.4,2.29,2012,Official API
+2024-01-01,Diagnostic tests,165.6,2.1,2012,Official API
+2024-02-01,Diagnostic tests,165.8,1.91,2012,Official API
+2024-03-01,Diagnostic tests,166.0,1.78,2012,Official API
+2024-04-01,Diagnostic tests,166.2,1.65,2012,Official API
+2024-05-01,Diagnostic tests,166.4,1.59,2012,Official API
+2024-06-01,Diagnostic tests,166.7,1.58,2012,Official API
+2024-07-01,Diagnostic tests,167.0,1.58,2012,Official API
+2024-08-01,Diagnostic tests,167.3,1.52,2012,Official API
+2024-09-01,Diagnostic tests,167.8,1.76,2012,Official API
+2024-10-01,Diagnostic tests,168.0,1.76,2012,Official API
+2024-11-01,Diagnostic tests,168.5,1.94,2012,Official API
+2024-12-01,Diagnostic tests,168.7,2.0,2012,Official API
+2025-01-01,Diagnostic tests,169.0,2.05,2012,Official API
+2025-02-01,Diagnostic tests,169.3,2.11,2012,Official API
+2025-03-01,Diagnostic tests,169.7,2.23,2012,Official API
+2025-04-01,Diagnostic tests,170.0,2.29,2012,Official API
+2025-05-01,Diagnostic tests,170.3,2.34,2012,Official API
+2025-06-01,Diagnostic tests,170.5,2.28,2012,Official API
+2025-07-01,Diagnostic tests,170.9,2.34,2012,Official API
+2025-08-01,Diagnostic tests,171.0,2.21,2012,Official API
+2025-09-01,Diagnostic tests,171.4,2.15,2012,Official API
+2025-10-01,Diagnostic tests,171.6,2.14,2012,Official API
+2025-11-01,Diagnostic tests,171.7,1.9,2012,Official API
+2025-12-01,Diagnostic tests,171.9,1.9,2012,Official API
+2014-01-01,Doctor consultation fee,117.0,,2012,Official API
+2014-02-01,Doctor consultation fee,117.6,,2012,Official API
+2014-03-01,Doctor consultation fee,118.3,,2012,Official API
+2014-04-01,Doctor consultation fee,118.9,,2012,Official API
+2014-05-01,Doctor consultation fee,119.3,,2012,Official API
+2014-06-01,Doctor consultation fee,120.6,,2012,Official API
+2014-07-01,Doctor consultation fee,121.2,,2012,Official API
+2014-08-01,Doctor consultation fee,122.0,,2012,Official API
+2014-09-01,Doctor consultation fee,123.3,,2012,Official API
+2014-10-01,Doctor consultation fee,124.3,,2012,Official API
+2014-11-01,Doctor consultation fee,125.0,,2012,Official API
+2014-12-01,Doctor consultation fee,125.6,,2012,Official API
+2015-01-01,Doctor consultation fee,126.7,8.29,2012,Official API
+2015-02-01,Doctor consultation fee,128.4,9.18,2012,Official API
+2015-03-01,Doctor consultation fee,129.4,9.38,2012,Official API
+2015-04-01,Doctor consultation fee,130.3,9.59,2012,Official API
+2015-05-01,Doctor consultation fee,131.4,10.14,2012,Official API
+2015-06-01,Doctor consultation fee,133.6,10.78,2012,Official API
+2015-07-01,Doctor consultation fee,133.6,10.23,2012,Official API
+2015-08-01,Doctor consultation fee,134.8,10.49,2012,Official API
+2015-09-01,Doctor consultation fee,135.7,10.06,2012,Official API
+2015-10-01,Doctor consultation fee,136.4,9.73,2012,Official API
+2015-11-01,Doctor consultation fee,136.6,9.28,2012,Official API
+2015-12-01,Doctor consultation fee,137.2,9.24,2012,Official API
+2016-01-01,Doctor consultation fee,138.9,9.63,2012,Official API
+2016-02-01,Doctor consultation fee,139.4,8.57,2012,Official API
+2016-03-01,Doctor consultation fee,140.0,8.19,2012,Official API
+2016-04-01,Doctor consultation fee,140.1,7.52,2012,Official API
+2016-05-01,Doctor consultation fee,141.2,7.46,2012,Official API
+2016-06-01,Doctor consultation fee,141.6,5.99,2012,Official API
+2016-07-01,Doctor consultation fee,142.4,6.59,2012,Official API
+2016-08-01,Doctor consultation fee,143.2,6.23,2012,Official API
+2016-09-01,Doctor consultation fee,145.0,6.85,2012,Official API
+2016-10-01,Doctor consultation fee,146.5,7.4,2012,Official API
+2016-11-01,Doctor consultation fee,147.5,7.98,2012,Official API
+2016-12-01,Doctor consultation fee,148.7,8.38,2012,Official API
+2017-01-01,Doctor consultation fee,149.0,7.27,2012,Official API
+2017-02-01,Doctor consultation fee,149.8,7.46,2012,Official API
+2017-03-01,Doctor consultation fee,149.6,6.86,2012,Official API
+2017-04-01,Doctor consultation fee,149.7,6.85,2012,Official API
+2017-05-01,Doctor consultation fee,150.2,6.37,2012,Official API
+2017-06-01,Doctor consultation fee,150.7,6.43,2012,Official API
+2017-07-01,Doctor consultation fee,151.8,6.6,2012,Official API
+2017-08-01,Doctor consultation fee,153.1,6.91,2012,Official API
+2017-09-01,Doctor consultation fee,153.1,5.59,2012,Official API
+2017-10-01,Doctor consultation fee,154.8,5.67,2012,Official API
+2017-11-01,Doctor consultation fee,158.1,7.19,2012,Official API
+2017-12-01,Doctor consultation fee,158.5,6.59,2012,Official API
+2018-01-01,Doctor consultation fee,158.8,6.58,2012,Official API
+2018-02-01,Doctor consultation fee,159.7,6.61,2012,Official API
+2018-03-01,Doctor consultation fee,160.4,7.22,2012,Official API
+2018-04-01,Doctor consultation fee,161.9,8.15,2012,Official API
+2018-05-01,Doctor consultation fee,162.8,8.39,2012,Official API
+2018-06-01,Doctor consultation fee,163.3,8.36,2012,Official API
+2018-07-01,Doctor consultation fee,164.4,8.3,2012,Official API
+2018-08-01,Doctor consultation fee,165.3,7.97,2012,Official API
+2018-09-01,Doctor consultation fee,167.3,9.27,2012,Official API
+2018-10-01,Doctor consultation fee,168.3,8.72,2012,Official API
+2018-11-01,Doctor consultation fee,167.7,6.07,2012,Official API
+2018-12-01,Doctor consultation fee,167.2,5.49,2012,Official API
+2019-01-01,Doctor consultation fee,167.3,5.35,2012,Official API
+2019-02-01,Doctor consultation fee,168.7,5.64,2012,Official API
+2019-03-01,Doctor consultation fee,169.2,5.49,2012,Official API
+2019-04-01,Doctor consultation fee,169.6,4.76,2012,Official API
+2019-05-01,Doctor consultation fee,169.9,4.36,2012,Official API
+2019-06-01,Doctor consultation fee,170.6,4.47,2012,Official API
+2019-07-01,Doctor consultation fee,170.6,3.77,2012,Official API
+2019-08-01,Doctor consultation fee,170.6,3.21,2012,Official API
+2019-09-01,Doctor consultation fee,170.7,2.03,2012,Official API
+2019-10-01,Doctor consultation fee,170.9,1.54,2012,Official API
+2019-11-01,Doctor consultation fee,171.1,2.03,2012,Official API
+2019-12-01,Doctor consultation fee,171.6,2.63,2012,Official API
+2020-01-01,Doctor consultation fee,172.2,2.93,2012,Official API
+2020-02-01,Doctor consultation fee,172.5,2.25,2012,Official API
+2020-06-01,Doctor consultation fee,178.3,4.51,2012,Official API
+2020-07-01,Doctor consultation fee,177.2,3.87,2012,Official API
+2020-08-01,Doctor consultation fee,177.5,4.04,2012,Official API
+2020-09-01,Doctor consultation fee,177.7,4.1,2012,Official API
+2020-10-01,Doctor consultation fee,177.9,4.1,2012,Official API
+2020-11-01,Doctor consultation fee,179.3,4.79,2012,Official API
+2020-12-01,Doctor consultation fee,180.3,5.07,2012,Official API
+2021-01-01,Doctor consultation fee,181.9,5.63,2012,Official API
+2021-02-01,Doctor consultation fee,183.0,6.09,2012,Official API
+2021-03-01,Doctor consultation fee,183.1,,2012,Official API
+2021-04-01,Doctor consultation fee,183.4,,2012,Official API
+2021-05-01,Doctor consultation fee,185.8,,2012,Official API
+2021-06-01,Doctor consultation fee,186.4,,2012,Official API
+2021-07-01,Doctor consultation fee,186.7,5.36,2012,Official API
+2021-08-01,Doctor consultation fee,187.5,5.63,2012,Official API
+2021-09-01,Doctor consultation fee,188.3,5.97,2012,Official API
+2021-10-01,Doctor consultation fee,188.9,6.18,2012,Official API
+2021-11-01,Doctor consultation fee,189.7,5.8,2012,Official API
+2021-12-01,Doctor consultation fee,190.9,5.88,2012,Official API
+2022-01-01,Doctor consultation fee,191.3,5.17,2012,Official API
+2022-02-01,Doctor consultation fee,192.7,5.3,2012,Official API
+2022-03-01,Doctor consultation fee,193.1,5.46,2012,Official API
+2022-04-01,Doctor consultation fee,194.5,6.05,2012,Official API
+2022-05-01,Doctor consultation fee,195.4,5.17,2012,Official API
+2022-06-01,Doctor consultation fee,196.0,5.15,2012,Official API
+2022-07-01,Doctor consultation fee,196.8,5.41,2012,Official API
+2022-08-01,Doctor consultation fee,197.8,5.49,2012,Official API
+2022-09-01,Doctor consultation fee,199.0,5.68,2012,Official API
+2022-10-01,Doctor consultation fee,199.8,5.77,2012,Official API
+2022-11-01,Doctor consultation fee,200.8,5.85,2012,Official API
+2022-12-01,Doctor consultation fee,201.7,5.66,2012,Official API
+2023-01-01,Doctor consultation fee,202.5,5.85,2012,Official API
+2023-02-01,Doctor consultation fee,203.7,5.71,2012,Official API
+2023-03-01,Doctor consultation fee,204.7,6.01,2012,Official API
+2023-04-01,Doctor consultation fee,205.1,5.45,2012,Official API
+2023-05-01,Doctor consultation fee,206.0,5.42,2012,Official API
+2023-06-01,Doctor consultation fee,206.8,5.51,2012,Official API
+2023-07-01,Doctor consultation fee,207.9,5.64,2012,Official API
+2023-08-01,Doctor consultation fee,208.5,5.41,2012,Official API
+2023-09-01,Doctor consultation fee,208.9,4.97,2012,Official API
+2023-10-01,Doctor consultation fee,209.4,4.8,2012,Official API
+2023-11-01,Doctor consultation fee,209.5,4.33,2012,Official API
+2023-12-01,Doctor consultation fee,209.7,3.97,2012,Official API
+2024-01-01,Doctor consultation fee,210.4,3.9,2012,Official API
+2024-02-01,Doctor consultation fee,210.7,3.44,2012,Official API
+2024-03-01,Doctor consultation fee,210.9,3.03,2012,Official API
+2024-04-01,Doctor consultation fee,211.2,2.97,2012,Official API
+2024-05-01,Doctor consultation fee,211.7,2.77,2012,Official API
+2024-06-01,Doctor consultation fee,212.4,2.71,2012,Official API
+2024-07-01,Doctor consultation fee,213.2,2.55,2012,Official API
+2024-08-01,Doctor consultation fee,213.6,2.45,2012,Official API
+2024-09-01,Doctor consultation fee,214.1,2.49,2012,Official API
+2024-10-01,Doctor consultation fee,214.6,2.48,2012,Official API
+2024-11-01,Doctor consultation fee,214.9,2.58,2012,Official API
+2024-12-01,Doctor consultation fee,215.6,2.81,2012,Official API
+2025-01-01,Doctor consultation fee,216.1,2.71,2012,Official API
+2025-02-01,Doctor consultation fee,217.3,3.13,2012,Official API
+2025-03-01,Doctor consultation fee,218.4,3.56,2012,Official API
+2025-04-01,Doctor consultation fee,219.1,3.74,2012,Official API
+2025-05-01,Doctor consultation fee,219.9,3.87,2012,Official API
+2025-06-01,Doctor consultation fee,220.6,3.86,2012,Official API
+2025-07-01,Doctor consultation fee,221.6,3.94,2012,Official API
+2025-08-01,Doctor consultation fee,222.0,3.93,2012,Official API
+2025-09-01,Doctor consultation fee,222.8,4.06,2012,Official API
+2025-10-01,Doctor consultation fee,223.2,4.01,2012,Official API
+2025-11-01,Doctor consultation fee,223.4,3.96,2012,Official API
+2025-12-01,Doctor consultation fee,223.6,3.71,2012,Official API
+2014-01-01,Family Planning Devices,100.9,,2012,Official API
+2014-02-01,Family Planning Devices,100.8,,2012,Official API
+2014-03-01,Family Planning Devices,101.2,,2012,Official API
+2014-04-01,Family Planning Devices,101.2,,2012,Official API
+2014-05-01,Family Planning Devices,101.6,,2012,Official API
+2014-06-01,Family Planning Devices,100.6,,2012,Official API
+2014-07-01,Family Planning Devices,101.8,,2012,Official API
+2014-08-01,Family Planning Devices,101.8,,2012,Official API
+2014-09-01,Family Planning Devices,108.8,,2012,Official API
+2014-10-01,Family Planning Devices,116.3,,2012,Official API
+2014-11-01,Family Planning Devices,114.8,,2012,Official API
+2014-12-01,Family Planning Devices,118.0,,2012,Official API
+2015-01-01,Family Planning Devices,118.0,16.95,2012,Official API
+2015-02-01,Family Planning Devices,116.3,15.38,2012,Official API
+2015-03-01,Family Planning Devices,118.6,17.19,2012,Official API
+2015-04-01,Family Planning Devices,118.6,17.19,2012,Official API
+2015-05-01,Family Planning Devices,118.6,16.73,2012,Official API
+2015-06-01,Family Planning Devices,118.6,17.89,2012,Official API
+2015-07-01,Family Planning Devices,118.6,16.5,2012,Official API
+2015-08-01,Family Planning Devices,118.8,16.7,2012,Official API
+2015-09-01,Family Planning Devices,118.9,9.28,2012,Official API
+2015-10-01,Family Planning Devices,118.9,2.24,2012,Official API
+2015-11-01,Family Planning Devices,120.6,5.05,2012,Official API
+2015-12-01,Family Planning Devices,119.1,0.93,2012,Official API
+2016-01-01,Family Planning Devices,119.4,1.19,2012,Official API
+2016-02-01,Family Planning Devices,119.6,2.84,2012,Official API
+2016-03-01,Family Planning Devices,120.1,1.26,2012,Official API
+2016-04-01,Family Planning Devices,120.2,1.35,2012,Official API
+2016-05-01,Family Planning Devices,120.2,1.35,2012,Official API
+2016-06-01,Family Planning Devices,121.9,2.78,2012,Official API
+2016-07-01,Family Planning Devices,121.9,2.78,2012,Official API
+2016-08-01,Family Planning Devices,121.8,2.53,2012,Official API
+2016-09-01,Family Planning Devices,126.1,6.06,2012,Official API
+2016-10-01,Family Planning Devices,128.1,7.74,2012,Official API
+2016-11-01,Family Planning Devices,128.1,6.22,2012,Official API
+2016-12-01,Family Planning Devices,129.0,8.31,2012,Official API
+2017-01-01,Family Planning Devices,129.1,8.12,2012,Official API
+2017-02-01,Family Planning Devices,129.0,7.86,2012,Official API
+2017-03-01,Family Planning Devices,129.3,7.66,2012,Official API
+2017-04-01,Family Planning Devices,129.3,7.57,2012,Official API
+2017-05-01,Family Planning Devices,129.5,7.74,2012,Official API
+2017-06-01,Family Planning Devices,129.5,6.23,2012,Official API
+2017-07-01,Family Planning Devices,130.0,6.64,2012,Official API
+2017-08-01,Family Planning Devices,130.3,6.98,2012,Official API
+2017-09-01,Family Planning Devices,130.6,3.57,2012,Official API
+2017-10-01,Family Planning Devices,133.5,4.22,2012,Official API
+2017-11-01,Family Planning Devices,133.8,4.45,2012,Official API
+2017-12-01,Family Planning Devices,133.8,3.72,2012,Official API
+2018-01-01,Family Planning Devices,133.8,3.64,2012,Official API
+2018-02-01,Family Planning Devices,133.8,3.72,2012,Official API
+2018-03-01,Family Planning Devices,133.8,3.48,2012,Official API
+2018-04-01,Family Planning Devices,133.8,3.48,2012,Official API
+2018-05-01,Family Planning Devices,133.8,3.32,2012,Official API
+2018-06-01,Family Planning Devices,134.5,3.86,2012,Official API
+2018-07-01,Family Planning Devices,134.6,3.54,2012,Official API
+2018-08-01,Family Planning Devices,135.2,3.76,2012,Official API
+2018-09-01,Family Planning Devices,135.7,3.91,2012,Official API
+2018-10-01,Family Planning Devices,138.9,4.04,2012,Official API
+2018-11-01,Family Planning Devices,139.0,3.89,2012,Official API
+2018-12-01,Family Planning Devices,138.6,3.59,2012,Official API
+2019-01-01,Family Planning Devices,138.2,3.29,2012,Official API
+2019-02-01,Family Planning Devices,138.2,3.29,2012,Official API
+2019-03-01,Family Planning Devices,143.8,7.47,2012,Official API
+2019-04-01,Family Planning Devices,143.8,7.47,2012,Official API
+2019-05-01,Family Planning Devices,143.8,7.47,2012,Official API
+2019-06-01,Family Planning Devices,165.2,22.83,2012,Official API
+2019-07-01,Family Planning Devices,168.3,25.04,2012,Official API
+2019-08-01,Family Planning Devices,168.7,24.78,2012,Official API
+2019-09-01,Family Planning Devices,166.3,22.55,2012,Official API
+2019-10-01,Family Planning Devices,165.8,19.37,2012,Official API
+2019-11-01,Family Planning Devices,166.0,19.42,2012,Official API
+2019-12-01,Family Planning Devices,165.9,19.7,2012,Official API
+2020-01-01,Family Planning Devices,166.1,20.19,2012,Official API
+2020-02-01,Family Planning Devices,166.1,20.19,2012,Official API
+2020-06-01,Family Planning Devices,167.8,1.57,2012,Official API
+2020-07-01,Family Planning Devices,167.8,-0.3,2012,Official API
+2020-08-01,Family Planning Devices,168.0,-0.41,2012,Official API
+2020-09-01,Family Planning Devices,168.0,1.02,2012,Official API
+2020-10-01,Family Planning Devices,167.3,0.9,2012,Official API
+2020-11-01,Family Planning Devices,168.1,1.27,2012,Official API
+2020-12-01,Family Planning Devices,168.5,1.57,2012,Official API
+2021-01-01,Family Planning Devices,168.5,1.44,2012,Official API
+2021-02-01,Family Planning Devices,168.6,1.51,2012,Official API
+2021-03-01,Family Planning Devices,168.6,,2012,Official API
+2021-04-01,Family Planning Devices,168.6,,2012,Official API
+2021-05-01,Family Planning Devices,173.4,,2012,Official API
+2021-06-01,Family Planning Devices,173.4,,2012,Official API
+2021-07-01,Family Planning Devices,173.4,3.34,2012,Official API
+2021-08-01,Family Planning Devices,173.4,3.21,2012,Official API
+2021-09-01,Family Planning Devices,174.0,3.57,2012,Official API
+2021-10-01,Family Planning Devices,174.0,4.0,2012,Official API
+2021-11-01,Family Planning Devices,174.0,3.51,2012,Official API
+2021-12-01,Family Planning Devices,176.4,4.69,2012,Official API
+2022-01-01,Family Planning Devices,177.5,5.34,2012,Official API
+2022-02-01,Family Planning Devices,177.9,5.52,2012,Official API
+2022-03-01,Family Planning Devices,179.0,6.17,2012,Official API
+2022-04-01,Family Planning Devices,181.1,7.41,2012,Official API
+2022-05-01,Family Planning Devices,182.6,5.31,2012,Official API
+2022-06-01,Family Planning Devices,182.6,5.31,2012,Official API
+2022-07-01,Family Planning Devices,183.2,5.65,2012,Official API
+2022-08-01,Family Planning Devices,185.6,7.04,2012,Official API
+2022-09-01,Family Planning Devices,185.6,6.67,2012,Official API
+2022-10-01,Family Planning Devices,185.6,6.67,2012,Official API
+2022-11-01,Family Planning Devices,191.3,9.94,2012,Official API
+2022-12-01,Family Planning Devices,192.9,9.35,2012,Official API
+2023-01-01,Family Planning Devices,193.2,8.85,2012,Official API
+2023-02-01,Family Planning Devices,196.9,10.68,2012,Official API
+2023-03-01,Family Planning Devices,196.8,9.94,2012,Official API
+2023-04-01,Family Planning Devices,194.7,7.51,2012,Official API
+2023-05-01,Family Planning Devices,196.0,7.34,2012,Official API
+2023-06-01,Family Planning Devices,197.0,7.89,2012,Official API
+2023-07-01,Family Planning Devices,196.6,7.31,2012,Official API
+2023-08-01,Family Planning Devices,196.6,5.93,2012,Official API
+2023-09-01,Family Planning Devices,198.2,6.79,2012,Official API
+2023-10-01,Family Planning Devices,203.3,9.54,2012,Official API
+2023-11-01,Family Planning Devices,204.8,7.06,2012,Official API
+2023-12-01,Family Planning Devices,204.9,6.22,2012,Official API
+2024-01-01,Family Planning Devices,205.1,6.16,2012,Official API
+2024-02-01,Family Planning Devices,205.6,4.42,2012,Official API
+2024-03-01,Family Planning Devices,211.0,7.22,2012,Official API
+2024-04-01,Family Planning Devices,211.7,8.73,2012,Official API
+2024-05-01,Family Planning Devices,212.6,8.47,2012,Official API
+2024-06-01,Family Planning Devices,217.3,10.3,2012,Official API
+2024-07-01,Family Planning Devices,217.6,10.68,2012,Official API
+2024-08-01,Family Planning Devices,219.6,11.7,2012,Official API
+2024-09-01,Family Planning Devices,217.2,9.59,2012,Official API
+2024-10-01,Family Planning Devices,217.8,7.13,2012,Official API
+2024-11-01,Family Planning Devices,218.0,6.45,2012,Official API
+2024-12-01,Family Planning Devices,218.3,6.54,2012,Official API
+2025-01-01,Family Planning Devices,218.8,6.68,2012,Official API
+2025-02-01,Family Planning Devices,218.5,6.27,2012,Official API
+2025-03-01,Family Planning Devices,217.7,3.18,2012,Official API
+2025-04-01,Family Planning Devices,216.8,2.41,2012,Official API
+2025-05-01,Family Planning Devices,216.8,1.98,2012,Official API
+2025-06-01,Family Planning Devices,216.8,-0.23,2012,Official API
+2025-07-01,Family Planning Devices,219.1,0.69,2012,Official API
+2025-08-01,Family Planning Devices,219.2,-0.18,2012,Official API
+2025-09-01,Family Planning Devices,218.5,0.6,2012,Official API
+2025-10-01,Family Planning Devices,218.6,0.37,2012,Official API
+2025-11-01,Family Planning Devices,218.6,0.28,2012,Official API
+2025-12-01,Family Planning Devices,218.8,0.23,2012,Official API
+2014-01-01,Health,110.3,6.06,2012,Official API
+2014-02-01,Health,110.7,5.93,2012,Official API
+2014-03-01,Health,111.2,6.01,2012,Official API
+2014-04-01,Health,111.5,5.89,2012,Official API
+2014-05-01,Health,111.8,5.57,2012,Official API
+2014-06-01,Health,112.3,5.55,2012,Official API
+2014-07-01,Health,112.7,5.33,2012,Official API
+2014-08-01,Health,113.3,5.4,2012,Official API
+2014-09-01,Health,113.7,5.18,2012,Official API
+2014-10-01,Health,114.3,5.25,2012,Official API
+2014-11-01,Health,114.8,5.03,2012,Official API
+2014-12-01,Health,115.1,4.92,2012,Official API
+2015-01-01,Health,115.5,4.71,2012,Official API
+2015-02-01,Health,116.3,5.06,2012,Official API
+2015-03-01,Health,116.7,4.95,2012,Official API
+2015-04-01,Health,117.1,5.02,2012,Official API
+2015-05-01,Health,117.7,5.28,2012,Official API
+2015-06-01,Health,118.5,5.52,2012,Official API
+2015-07-01,Health,119.0,5.59,2012,Official API
+2015-08-01,Health,119.4,5.38,2012,Official API
+2015-09-01,Health,119.8,5.36,2012,Official API
+2015-10-01,Health,120.4,5.34,2012,Official API
+2015-11-01,Health,120.9,5.31,2012,Official API
+2015-12-01,Health,121.4,5.47,2012,Official API
+2016-01-01,Health,122.0,5.63,2012,Official API
+2016-02-01,Health,122.5,5.33,2012,Official API
+2016-03-01,Health,122.9,5.31,2012,Official API
+2016-04-01,Health,123.2,5.21,2012,Official API
+2016-05-01,Health,123.7,5.1,2012,Official API
+2016-06-01,Health,124.1,4.73,2012,Official API
+2016-07-01,Health,124.5,4.62,2012,Official API
+2016-08-01,Health,124.8,4.52,2012,Official API
+2016-09-01,Health,125.4,4.67,2012,Official API
+2016-10-01,Health,126.1,4.73,2012,Official API
+2016-11-01,Health,126.4,4.55,2012,Official API
+2016-12-01,Health,126.9,4.53,2012,Official API
+2017-01-01,Health,127.1,4.18,2012,Official API
+2017-02-01,Health,127.4,4.0,2012,Official API
+2017-03-01,Health,127.8,3.99,2012,Official API
+2017-04-01,Health,128.1,3.98,2012,Official API
+2017-05-01,Health,128.4,3.8,2012,Official API
+2017-06-01,Health,128.5,3.55,2012,Official API
+2017-07-01,Health,129.4,3.94,2012,Official API
+2017-08-01,Health,130.2,4.33,2012,Official API
+2017-09-01,Health,130.6,4.15,2012,Official API
+2017-10-01,Health,131.3,4.12,2012,Official API
+2017-11-01,Health,132.6,4.91,2012,Official API
+2017-12-01,Health,133.1,4.89,2012,Official API
+2018-01-01,Health,133.3,4.88,2012,Official API
+2018-02-01,Health,133.8,5.02,2012,Official API
+2018-03-01,Health,134.3,5.09,2012,Official API
+2018-04-01,Health,135.2,5.54,2012,Official API
+2018-05-01,Health,136.0,5.92,2012,Official API
+2018-06-01,Health,136.2,5.99,2012,Official API
+2018-07-01,Health,137.0,5.87,2012,Official API
+2018-08-01,Health,137.7,5.76,2012,Official API
+2018-09-01,Health,138.4,5.97,2012,Official API
+2018-10-01,Health,141.5,7.77,2012,Official API
+2018-11-01,Health,142.1,7.16,2012,Official API
+2018-12-01,Health,144.9,8.87,2012,Official API
+2019-01-01,Health,145.1,8.85,2012,Official API
+2019-02-01,Health,145.6,8.82,2012,Official API
+2019-03-01,Health,146.2,8.86,2012,Official API
+2019-04-01,Health,146.6,8.43,2012,Official API
+2019-05-01,Health,146.9,8.01,2012,Official API
+2019-06-01,Health,147.4,8.22,2012,Official API
+2019-07-01,Health,147.9,7.96,2012,Official API
+2019-08-01,Health,148.5,7.84,2012,Official API
+2019-09-01,Health,149.0,7.66,2012,Official API
+2019-10-01,Health,149.4,5.58,2012,Official API
+2019-11-01,Health,149.9,5.49,2012,Official API
+2019-12-01,Health,150.4,3.8,2012,Official API
+2020-01-01,Health,151.2,4.2,2012,Official API
+2020-02-01,Health,151.7,4.19,2012,Official API
+2020-03-01,Health,152.3,4.17,2012,Official API
+2020-04-01,Health,150.7,,2012,Official API
+2020-05-01,Health,152.9,,2012,Official API
+2020-06-01,Health,154.4,4.75,2012,Official API
+2020-07-01,Health,155.0,4.8,2012,Official API
+2020-08-01,Health,155.6,4.78,2012,Official API
+2020-09-01,Health,156.3,4.9,2012,Official API
+2020-10-01,Health,157.2,5.22,2012,Official API
+2020-11-01,Health,158.3,5.6,2012,Official API
+2020-12-01,Health,159.3,5.92,2012,Official API
+2021-01-01,Health,160.4,6.08,2012,Official API
+2021-02-01,Health,161.2,6.26,2012,Official API
+2021-03-01,Health,161.7,6.17,2012,Official API
+2021-04-01,Health,162.3,7.7,2012,Official API
+2021-05-01,Health,165.8,8.44,2012,Official API
+2021-06-01,Health,166.3,7.71,2012,Official API
+2021-07-01,Health,167.0,7.74,2012,Official API
+2021-08-01,Health,167.7,7.78,2012,Official API
+2021-09-01,Health,168.4,7.74,2012,Official API
+2021-10-01,Health,169.1,7.57,2012,Official API
+2021-11-01,Health,169.9,7.33,2012,Official API
+2021-12-01,Health,170.6,7.09,2012,Official API
+2022-01-01,Health,171.4,6.86,2012,Official API
+2022-02-01,Health,172.2,6.82,2012,Official API
+2022-03-01,Health,173.0,6.99,2012,Official API
+2022-04-01,Health,174.0,7.21,2012,Official API
+2022-05-01,Health,174.8,5.43,2012,Official API
+2022-06-01,Health,175.4,5.47,2012,Official API
+2022-07-01,Health,176.1,5.45,2012,Official API
+2022-08-01,Health,176.8,5.43,2012,Official API
+2022-09-01,Health,177.8,5.58,2012,Official API
+2022-10-01,Health,178.7,5.68,2012,Official API
+2022-11-01,Health,179.8,5.83,2012,Official API
+2022-12-01,Health,181.1,6.15,2012,Official API
+2023-01-01,Health,182.3,6.36,2012,Official API
+2023-02-01,Health,183.4,6.5,2012,Official API
+2023-03-01,Health,184.4,6.59,2012,Official API
+2023-04-01,Health,185.0,6.32,2012,Official API
+2023-05-01,Health,185.7,6.24,2012,Official API
+2023-06-01,Health,186.3,6.21,2012,Official API
+2023-07-01,Health,187.0,6.19,2012,Official API
+2023-08-01,Health,187.7,6.17,2012,Official API
+2023-09-01,Health,188.3,5.91,2012,Official API
+2023-10-01,Health,189.2,5.88,2012,Official API
+2023-11-01,Health,189.7,5.51,2012,Official API
+2023-12-01,Health,190.3,5.08,2012,Official API
+2024-01-01,Health,191.2,4.88,2012,Official API
+2024-02-01,Health,191.7,4.53,2012,Official API
+2024-03-01,Health,192.3,4.28,2012,Official API
+2024-04-01,Health,192.9,4.27,2012,Official API
+2024-05-01,Health,193.5,4.2,2012,Official API
+2024-06-01,Health,194.0,4.13,2012,Official API
+2024-07-01,Health,194.6,4.06,2012,Official API
+2024-08-01,Health,195.4,4.1,2012,Official API
+2024-09-01,Health,196.0,4.09,2012,Official API
+2024-10-01,Health,196.7,3.96,2012,Official API
+2024-11-01,Health,197.3,4.01,2012,Official API
+2024-12-01,Health,198.0,4.05,2012,Official API
+2025-01-01,Health,198.8,3.97,2012,Official API
+2025-02-01,Health,199.6,4.12,2012,Official API
+2025-03-01,Health,200.5,4.26,2012,Official API
+2025-04-01,Health,201.1,4.25,2012,Official API
+2025-05-01,Health,201.9,4.34,2012,Official API
+2025-06-01,Health,202.5,4.38,2012,Official API
+2025-07-01,Health,203.5,4.57,2012,Official API
+2025-08-01,Health,204.0,4.4,2012,Official API
+2025-09-01,Health,204.6,4.39,2012,Official API
+2025-10-01,Health,204.2,3.81,2012,Official API
+2025-11-01,Health,204.4,3.6,2012,Official API
+2025-12-01,Health,204.8,3.43,2012,Official API
+2026-01-01,Health,,2.19,2024,Search summary only
+2026-07-01,Health,,1.34,2024,Page fetched
+2026-08-01,Health,,1.34,2024,Page fetched
+2014-01-01,Hospital and nursing home charges,111.8,,2012,Official API
+2014-02-01,Hospital and nursing home charges,112.4,,2012,Official API
+2014-03-01,Hospital and nursing home charges,113.0,,2012,Official API
+2014-04-01,Hospital and nursing home charges,113.4,,2012,Official API
+2014-05-01,Hospital and nursing home charges,114.0,,2012,Official API
+2014-06-01,Hospital and nursing home charges,114.5,,2012,Official API
+2014-07-01,Hospital and nursing home charges,115.3,,2012,Official API
+2014-08-01,Hospital and nursing home charges,116.4,,2012,Official API
+2014-09-01,Hospital and nursing home charges,117.0,,2012,Official API
+2014-10-01,Hospital and nursing home charges,117.3,,2012,Official API
+2014-11-01,Hospital and nursing home charges,117.9,,2012,Official API
+2014-12-01,Hospital and nursing home charges,118.2,,2012,Official API
+2015-01-01,Hospital and nursing home charges,118.6,6.08,2012,Official API
+2015-02-01,Hospital and nursing home charges,120.0,6.76,2012,Official API
+2015-03-01,Hospital and nursing home charges,120.0,6.19,2012,Official API
+2015-04-01,Hospital and nursing home charges,121.1,6.79,2012,Official API
+2015-05-01,Hospital and nursing home charges,122.0,7.02,2012,Official API
+2015-06-01,Hospital and nursing home charges,122.3,6.81,2012,Official API
+2015-07-01,Hospital and nursing home charges,123.3,6.94,2012,Official API
+2015-08-01,Hospital and nursing home charges,124.4,6.87,2012,Official API
+2015-09-01,Hospital and nursing home charges,125.5,7.26,2012,Official API
+2015-10-01,Hospital and nursing home charges,126.6,7.93,2012,Official API
+2015-11-01,Hospital and nursing home charges,127.2,7.89,2012,Official API
+2015-12-01,Hospital and nursing home charges,128.5,8.71,2012,Official API
+2016-01-01,Hospital and nursing home charges,129.6,9.27,2012,Official API
+2016-02-01,Hospital and nursing home charges,129.8,8.17,2012,Official API
+2016-03-01,Hospital and nursing home charges,130.0,8.33,2012,Official API
+2016-04-01,Hospital and nursing home charges,130.9,8.09,2012,Official API
+2016-05-01,Hospital and nursing home charges,132.0,8.2,2012,Official API
+2016-06-01,Hospital and nursing home charges,132.3,8.18,2012,Official API
+2016-07-01,Hospital and nursing home charges,133.0,7.87,2012,Official API
+2016-08-01,Hospital and nursing home charges,133.4,7.23,2012,Official API
+2016-09-01,Hospital and nursing home charges,134.3,7.01,2012,Official API
+2016-10-01,Hospital and nursing home charges,135.9,7.35,2012,Official API
+2016-11-01,Hospital and nursing home charges,136.2,7.08,2012,Official API
+2016-12-01,Hospital and nursing home charges,137.0,6.61,2012,Official API
+2017-01-01,Hospital and nursing home charges,137.9,6.4,2012,Official API
+2017-02-01,Hospital and nursing home charges,137.9,6.24,2012,Official API
+2017-03-01,Hospital and nursing home charges,138.6,6.62,2012,Official API
+2017-04-01,Hospital and nursing home charges,139.6,6.65,2012,Official API
+2017-05-01,Hospital and nursing home charges,140.4,6.36,2012,Official API
+2017-06-01,Hospital and nursing home charges,140.5,6.2,2012,Official API
+2017-07-01,Hospital and nursing home charges,141.3,6.24,2012,Official API
+2017-08-01,Hospital and nursing home charges,141.9,6.37,2012,Official API
+2017-09-01,Hospital and nursing home charges,142.1,5.81,2012,Official API
+2017-10-01,Hospital and nursing home charges,142.9,5.15,2012,Official API
+2017-11-01,Hospital and nursing home charges,145.8,7.05,2012,Official API
+2017-12-01,Hospital and nursing home charges,147.3,7.52,2012,Official API
+2018-01-01,Hospital and nursing home charges,146.4,6.16,2012,Official API
+2018-02-01,Hospital and nursing home charges,147.6,7.03,2012,Official API
+2018-03-01,Hospital and nursing home charges,149.0,7.5,2012,Official API
+2018-04-01,Hospital and nursing home charges,149.9,7.38,2012,Official API
+2018-05-01,Hospital and nursing home charges,150.7,7.34,2012,Official API
+2018-06-01,Hospital and nursing home charges,150.7,7.26,2012,Official API
+2018-07-01,Hospital and nursing home charges,151.2,7.01,2012,Official API
+2018-08-01,Hospital and nursing home charges,154.2,8.67,2012,Official API
+2018-09-01,Hospital and nursing home charges,153.8,8.23,2012,Official API
+2018-10-01,Hospital and nursing home charges,157.1,9.94,2012,Official API
+2018-11-01,Hospital and nursing home charges,158.2,8.5,2012,Official API
+2018-12-01,Hospital and nursing home charges,163.6,11.07,2012,Official API
+2019-01-01,Hospital and nursing home charges,166.2,13.52,2012,Official API
+2019-02-01,Hospital and nursing home charges,165.5,12.13,2012,Official API
+2019-03-01,Hospital and nursing home charges,165.7,11.21,2012,Official API
+2019-04-01,Hospital and nursing home charges,166.5,11.07,2012,Official API
+2019-05-01,Hospital and nursing home charges,166.9,10.75,2012,Official API
+2019-06-01,Hospital and nursing home charges,167.6,11.21,2012,Official API
+2019-07-01,Hospital and nursing home charges,168.3,11.31,2012,Official API
+2019-08-01,Hospital and nursing home charges,168.8,9.47,2012,Official API
+2019-09-01,Hospital and nursing home charges,169.4,10.14,2012,Official API
+2019-10-01,Hospital and nursing home charges,169.6,7.96,2012,Official API
+2019-11-01,Hospital and nursing home charges,170.0,7.46,2012,Official API
+2019-12-01,Hospital and nursing home charges,170.3,4.1,2012,Official API
+2020-01-01,Hospital and nursing home charges,171.7,3.31,2012,Official API
+2020-02-01,Hospital and nursing home charges,172.6,4.29,2012,Official API
+2020-06-01,Hospital and nursing home charges,174.9,4.36,2012,Official API
+2020-07-01,Hospital and nursing home charges,175.1,4.04,2012,Official API
+2020-08-01,Hospital and nursing home charges,175.2,3.79,2012,Official API
+2020-09-01,Hospital and nursing home charges,175.8,3.78,2012,Official API
+2020-10-01,Hospital and nursing home charges,177.0,4.36,2012,Official API
+2020-11-01,Hospital and nursing home charges,177.8,4.59,2012,Official API
+2020-12-01,Hospital and nursing home charges,179.3,5.28,2012,Official API
+2021-01-01,Hospital and nursing home charges,180.1,4.89,2012,Official API
+2021-02-01,Hospital and nursing home charges,181.7,5.27,2012,Official API
+2021-03-01,Hospital and nursing home charges,181.8,,2012,Official API
+2021-04-01,Hospital and nursing home charges,182.7,,2012,Official API
+2021-05-01,Hospital and nursing home charges,184.6,,2012,Official API
+2021-06-01,Hospital and nursing home charges,185.2,,2012,Official API
+2021-07-01,Hospital and nursing home charges,186.4,6.45,2012,Official API
+2021-08-01,Hospital and nursing home charges,187.6,7.08,2012,Official API
+2021-09-01,Hospital and nursing home charges,188.5,7.22,2012,Official API
+2021-10-01,Hospital and nursing home charges,189.2,6.89,2012,Official API
+2021-11-01,Hospital and nursing home charges,189.9,6.81,2012,Official API
+2021-12-01,Hospital and nursing home charges,190.8,6.41,2012,Official API
+2022-01-01,Hospital and nursing home charges,191.5,6.33,2012,Official API
+2022-02-01,Hospital and nursing home charges,192.1,5.72,2012,Official API
+2022-03-01,Hospital and nursing home charges,193.9,6.66,2012,Official API
+2022-04-01,Hospital and nursing home charges,195.1,6.79,2012,Official API
+2022-05-01,Hospital and nursing home charges,195.9,6.12,2012,Official API
+2022-06-01,Hospital and nursing home charges,196.8,6.26,2012,Official API
+2022-07-01,Hospital and nursing home charges,197.8,6.12,2012,Official API
+2022-08-01,Hospital and nursing home charges,198.9,6.02,2012,Official API
+2022-09-01,Hospital and nursing home charges,199.7,5.94,2012,Official API
+2022-10-01,Hospital and nursing home charges,200.6,6.03,2012,Official API
+2022-11-01,Hospital and nursing home charges,201.4,6.06,2012,Official API
+2022-12-01,Hospital and nursing home charges,202.0,5.87,2012,Official API
+2023-01-01,Hospital and nursing home charges,202.7,5.85,2012,Official API
+2023-02-01,Hospital and nursing home charges,203.6,5.99,2012,Official API
+2023-03-01,Hospital and nursing home charges,204.8,5.62,2012,Official API
+2023-04-01,Hospital and nursing home charges,205.4,5.28,2012,Official API
+2023-05-01,Hospital and nursing home charges,206.0,5.16,2012,Official API
+2023-06-01,Hospital and nursing home charges,206.5,4.93,2012,Official API
+2023-07-01,Hospital and nursing home charges,207.4,4.85,2012,Official API
+2023-08-01,Hospital and nursing home charges,208.8,4.98,2012,Official API
+2023-09-01,Hospital and nursing home charges,209.6,4.96,2012,Official API
+2023-10-01,Hospital and nursing home charges,210.5,4.94,2012,Official API
+2023-11-01,Hospital and nursing home charges,211.2,4.87,2012,Official API
+2023-12-01,Hospital and nursing home charges,211.8,4.85,2012,Official API
+2024-01-01,Hospital and nursing home charges,212.4,4.79,2012,Official API
+2024-02-01,Hospital and nursing home charges,213.0,4.62,2012,Official API
+2024-03-01,Hospital and nursing home charges,214.6,4.79,2012,Official API
+2024-04-01,Hospital and nursing home charges,215.0,4.67,2012,Official API
+2024-05-01,Hospital and nursing home charges,215.7,4.71,2012,Official API
+2024-06-01,Hospital and nursing home charges,216.2,4.7,2012,Official API
+2024-07-01,Hospital and nursing home charges,217.1,4.68,2012,Official API
+2024-08-01,Hospital and nursing home charges,218.9,4.84,2012,Official API
+2024-09-01,Hospital and nursing home charges,220.5,5.2,2012,Official API
+2024-10-01,Hospital and nursing home charges,221.6,5.27,2012,Official API
+2024-11-01,Hospital and nursing home charges,222.9,5.54,2012,Official API
+2024-12-01,Hospital and nursing home charges,223.9,5.71,2012,Official API
+2025-01-01,Hospital and nursing home charges,225.0,5.93,2012,Official API
+2025-02-01,Hospital and nursing home charges,226.6,6.38,2012,Official API
+2025-03-01,Hospital and nursing home charges,227.4,5.96,2012,Official API
+2025-04-01,Hospital and nursing home charges,227.8,5.95,2012,Official API
+2025-05-01,Hospital and nursing home charges,229.5,6.4,2012,Official API
+2025-06-01,Hospital and nursing home charges,230.8,6.75,2012,Official API
+2025-07-01,Hospital and nursing home charges,231.3,6.54,2012,Official API
+2025-08-01,Hospital and nursing home charges,232.4,6.17,2012,Official API
+2025-09-01,Hospital and nursing home charges,233.1,5.71,2012,Official API
+2025-10-01,Hospital and nursing home charges,233.9,5.55,2012,Official API
+2025-11-01,Hospital and nursing home charges,234.8,5.34,2012,Official API
+2025-12-01,Hospital and nursing home charges,235.9,5.36,2012,Official API
+2014-01-01,Medicines,108.9,,2012,Official API
+2014-02-01,Medicines,109.3,,2012,Official API
+2014-03-01,Medicines,109.5,,2012,Official API
+2014-04-01,Medicines,109.9,,2012,Official API
+2014-05-01,Medicines,110.0,,2012,Official API
+2014-06-01,Medicines,110.4,,2012,Official API
+2014-07-01,Medicines,110.7,,2012,Official API
+2014-08-01,Medicines,111.3,,2012,Official API
+2014-09-01,Medicines,111.4,,2012,Official API
+2014-10-01,Medicines,111.9,,2012,Official API
+2014-11-01,Medicines,112.5,,2012,Official API
+2014-12-01,Medicines,112.7,,2012,Official API
+2015-01-01,Medicines,113.0,3.76,2012,Official API
+2015-02-01,Medicines,113.5,3.84,2012,Official API
+2015-03-01,Medicines,113.9,4.02,2012,Official API
+2015-04-01,Medicines,114.1,3.82,2012,Official API
+2015-05-01,Medicines,114.6,4.18,2012,Official API
+2015-06-01,Medicines,115.2,4.35,2012,Official API
+2015-07-01,Medicines,115.6,4.43,2012,Official API
+2015-08-01,Medicines,115.9,4.13,2012,Official API
+2015-09-01,Medicines,116.1,4.22,2012,Official API
+2015-10-01,Medicines,116.6,4.2,2012,Official API
+2015-11-01,Medicines,117.2,4.18,2012,Official API
+2015-12-01,Medicines,117.6,4.35,2012,Official API
+2016-01-01,Medicines,117.9,4.34,2012,Official API
+2016-02-01,Medicines,118.5,4.41,2012,Official API
+2016-03-01,Medicines,118.9,4.39,2012,Official API
+2016-04-01,Medicines,119.3,4.56,2012,Official API
+2016-05-01,Medicines,119.5,4.28,2012,Official API
+2016-06-01,Medicines,119.9,4.08,2012,Official API
+2016-07-01,Medicines,120.2,3.98,2012,Official API
+2016-08-01,Medicines,120.4,3.88,2012,Official API
+2016-09-01,Medicines,120.7,3.96,2012,Official API
+2016-10-01,Medicines,121.2,3.95,2012,Official API
+2016-11-01,Medicines,121.5,3.67,2012,Official API
+2016-12-01,Medicines,121.7,3.49,2012,Official API
+2017-01-01,Medicines,121.9,3.39,2012,Official API
+2017-02-01,Medicines,122.1,3.04,2012,Official API
+2017-03-01,Medicines,122.5,3.03,2012,Official API
+2017-04-01,Medicines,122.9,3.02,2012,Official API
+2017-05-01,Medicines,123.1,3.01,2012,Official API
+2017-06-01,Medicines,122.9,2.5,2012,Official API
+2017-07-01,Medicines,124.0,3.16,2012,Official API
+2017-08-01,Medicines,124.7,3.57,2012,Official API
+2017-09-01,Medicines,125.3,3.81,2012,Official API
+2017-10-01,Medicines,125.8,3.8,2012,Official API
+2017-11-01,Medicines,126.7,4.28,2012,Official API
+2017-12-01,Medicines,127.1,4.44,2012,Official API
+2018-01-01,Medicines,127.4,4.51,2012,Official API
+2018-02-01,Medicines,127.7,4.59,2012,Official API
+2018-03-01,Medicines,128.1,4.57,2012,Official API
+2018-04-01,Medicines,129.0,4.96,2012,Official API
+2018-05-01,Medicines,129.8,5.44,2012,Official API
+2018-06-01,Medicines,129.9,5.7,2012,Official API
+2018-07-01,Medicines,130.7,5.4,2012,Official API
+2018-08-01,Medicines,131.3,5.29,2012,Official API
+2018-09-01,Medicines,131.8,5.19,2012,Official API
+2018-10-01,Medicines,135.4,7.63,2012,Official API
+2018-11-01,Medicines,136.3,7.58,2012,Official API
+2018-12-01,Medicines,139.6,9.83,2012,Official API
+2019-01-01,Medicines,139.5,9.5,2012,Official API
+2019-02-01,Medicines,140.0,9.63,2012,Official API
+2019-03-01,Medicines,140.8,9.91,2012,Official API
+2019-04-01,Medicines,141.1,9.38,2012,Official API
+2019-05-01,Medicines,141.5,9.01,2012,Official API
+2019-06-01,Medicines,141.9,9.24,2012,Official API
+2019-07-01,Medicines,142.4,8.95,2012,Official API
+2019-08-01,Medicines,143.2,9.06,2012,Official API
+2019-09-01,Medicines,143.9,9.18,2012,Official API
+2019-10-01,Medicines,144.4,6.65,2012,Official API
+2019-11-01,Medicines,145.1,6.46,2012,Official API
+2019-12-01,Medicines,145.6,4.3,2012,Official API
+2020-01-01,Medicines,146.3,4.87,2012,Official API
+2020-02-01,Medicines,146.9,4.93,2012,Official API
+2020-06-01,Medicines,149.4,5.29,2012,Official API
+2020-07-01,Medicines,150.2,5.48,2012,Official API
+2020-08-01,Medicines,150.9,5.38,2012,Official API
+2020-09-01,Medicines,151.7,5.42,2012,Official API
+2020-10-01,Medicines,152.7,5.75,2012,Official API
+2020-11-01,Medicines,153.9,6.06,2012,Official API
+2020-12-01,Medicines,155.0,6.46,2012,Official API
+2021-01-01,Medicines,156.0,6.63,2012,Official API
+2021-02-01,Medicines,157.0,6.88,2012,Official API
+2021-03-01,Medicines,157.4,,2012,Official API
+2021-04-01,Medicines,158.1,,2012,Official API
+2021-05-01,Medicines,161.9,,2012,Official API
+2021-06-01,Medicines,162.4,,2012,Official API
+2021-07-01,Medicines,163.2,8.66,2012,Official API
+2021-08-01,Medicines,163.8,8.55,2012,Official API
+2021-09-01,Medicines,164.6,8.5,2012,Official API
+2021-10-01,Medicines,165.3,8.25,2012,Official API
+2021-11-01,Medicines,166.2,7.99,2012,Official API
+2021-12-01,Medicines,166.9,7.68,2012,Official API
+2022-01-01,Medicines,167.9,7.63,2012,Official API
+2022-02-01,Medicines,168.6,7.39,2012,Official API
+2022-03-01,Medicines,169.4,7.62,2012,Official API
+2022-04-01,Medicines,170.3,7.72,2012,Official API
+2022-05-01,Medicines,171.1,5.68,2012,Official API
+2022-06-01,Medicines,171.8,5.79,2012,Official API
+2022-07-01,Medicines,172.5,5.7,2012,Official API
+2022-08-01,Medicines,173.2,5.74,2012,Official API
+2022-09-01,Medicines,174.2,5.83,2012,Official API
+2022-10-01,Medicines,175.2,5.99,2012,Official API
+2022-11-01,Medicines,176.5,6.2,2012,Official API
+2022-12-01,Medicines,178.0,6.65,2012,Official API
+2023-01-01,Medicines,179.4,6.85,2012,Official API
+2023-02-01,Medicines,180.6,7.12,2012,Official API
+2023-03-01,Medicines,181.6,7.2,2012,Official API
+2023-04-01,Medicines,182.4,7.11,2012,Official API
+2023-05-01,Medicines,183.1,7.01,2012,Official API
+2023-06-01,Medicines,183.8,6.98,2012,Official API
+2023-07-01,Medicines,184.3,6.84,2012,Official API
+2023-08-01,Medicines,185.1,6.87,2012,Official API
+2023-09-01,Medicines,185.8,6.66,2012,Official API
+2023-10-01,Medicines,186.7,6.56,2012,Official API
+2023-11-01,Medicines,187.5,6.23,2012,Official API
+2023-12-01,Medicines,188.2,5.73,2012,Official API
+2024-01-01,Medicines,189.1,5.41,2012,Official API
+2024-02-01,Medicines,189.8,5.09,2012,Official API
+2024-03-01,Medicines,190.4,4.85,2012,Official API
+2024-04-01,Medicines,191.1,4.77,2012,Official API
+2024-05-01,Medicines,191.8,4.75,2012,Official API
+2024-06-01,Medicines,192.3,4.62,2012,Official API
+2024-07-01,Medicines,192.8,4.61,2012,Official API
+2024-08-01,Medicines,193.6,4.59,2012,Official API
+2024-09-01,Medicines,194.3,4.57,2012,Official API
+2024-10-01,Medicines,195.0,4.45,2012,Official API
+2024-11-01,Medicines,195.6,4.32,2012,Official API
+2024-12-01,Medicines,196.5,4.41,2012,Official API
+2025-01-01,Medicines,197.2,4.28,2012,Official API
+2025-02-01,Medicines,198.0,4.32,2012,Official API
+2025-03-01,Medicines,198.9,4.46,2012,Official API
+2025-04-01,Medicines,199.5,4.4,2012,Official API
+2025-05-01,Medicines,200.4,4.48,2012,Official API
+2025-06-01,Medicines,201.1,4.58,2012,Official API
+2025-07-01,Medicines,202.0,4.77,2012,Official API
+2025-08-01,Medicines,202.7,4.7,2012,Official API
+2025-09-01,Medicines,203.2,4.58,2012,Official API
+2025-10-01,Medicines,202.5,3.85,2012,Official API
+2025-11-01,Medicines,202.5,3.53,2012,Official API
+2025-12-01,Medicines,203.0,3.31,2012,Official API
+2026-07-01,Medicines,,1.26,2024,Page fetched
+2026-08-01,Medicines,,1.19,2024,Page fetched
+2014-01-01,Other medical expenses,107.7,,2012,Official API
+2014-02-01,Other medical expenses,108.2,,2012,Official API
+2014-03-01,Other medical expenses,108.6,,2012,Official API
+2014-04-01,Other medical expenses,108.9,,2012,Official API
+2014-05-01,Other medical expenses,108.6,,2012,Official API
+2014-06-01,Other medical expenses,109.0,,2012,Official API
+2014-07-01,Other medical expenses,109.8,,2012,Official API
+2014-08-01,Other medical expenses,110.9,,2012,Official API
+2014-09-01,Other medical expenses,110.9,,2012,Official API
+2014-10-01,Other medical expenses,111.5,,2012,Official API
+2014-11-01,Other medical expenses,111.7,,2012,Official API
+2014-12-01,Other medical expenses,111.9,,2012,Official API
+2015-01-01,Other medical expenses,112.9,4.83,2012,Official API
+2015-02-01,Other medical expenses,113.4,4.81,2012,Official API
+2015-03-01,Other medical expenses,112.8,3.87,2012,Official API
+2015-04-01,Other medical expenses,113.4,4.13,2012,Official API
+2015-05-01,Other medical expenses,113.5,4.51,2012,Official API
+2015-06-01,Other medical expenses,113.9,4.5,2012,Official API
+2015-07-01,Other medical expenses,114.0,3.83,2012,Official API
+2015-08-01,Other medical expenses,114.3,3.07,2012,Official API
+2015-09-01,Other medical expenses,114.5,3.25,2012,Official API
+2015-10-01,Other medical expenses,114.5,2.69,2012,Official API
+2015-11-01,Other medical expenses,114.8,2.78,2012,Official API
+2015-12-01,Other medical expenses,115.9,3.57,2012,Official API
+2016-01-01,Other medical expenses,115.6,2.39,2012,Official API
+2016-02-01,Other medical expenses,116.3,2.56,2012,Official API
+2016-03-01,Other medical expenses,116.1,2.93,2012,Official API
+2016-04-01,Other medical expenses,116.3,2.56,2012,Official API
+2016-05-01,Other medical expenses,117.1,3.17,2012,Official API
+2016-06-01,Other medical expenses,117.4,3.07,2012,Official API
+2016-07-01,Other medical expenses,117.6,3.16,2012,Official API
+2016-08-01,Other medical expenses,117.2,2.54,2012,Official API
+2016-09-01,Other medical expenses,117.3,2.45,2012,Official API
+2016-10-01,Other medical expenses,117.6,2.71,2012,Official API
+2016-11-01,Other medical expenses,118.3,3.05,2012,Official API
+2016-12-01,Other medical expenses,118.4,2.16,2012,Official API
+2017-01-01,Other medical expenses,117.6,1.73,2012,Official API
+2017-02-01,Other medical expenses,118.0,1.46,2012,Official API
+2017-03-01,Other medical expenses,118.0,1.64,2012,Official API
+2017-04-01,Other medical expenses,118.1,1.55,2012,Official API
+2017-05-01,Other medical expenses,119.0,1.62,2012,Official API
+2017-06-01,Other medical expenses,119.1,1.45,2012,Official API
+2017-07-01,Other medical expenses,119.5,1.62,2012,Official API
+2017-08-01,Other medical expenses,119.8,2.22,2012,Official API
+2017-09-01,Other medical expenses,120.2,2.47,2012,Official API
+2017-10-01,Other medical expenses,120.0,2.04,2012,Official API
+2017-11-01,Other medical expenses,121.0,2.28,2012,Official API
+2017-12-01,Other medical expenses,122.0,3.04,2012,Official API
+2018-01-01,Other medical expenses,122.3,4.0,2012,Official API
+2018-02-01,Other medical expenses,122.4,3.73,2012,Official API
+2018-03-01,Other medical expenses,122.8,4.07,2012,Official API
+2018-04-01,Other medical expenses,122.8,3.98,2012,Official API
+2018-05-01,Other medical expenses,122.3,2.77,2012,Official API
+2018-06-01,Other medical expenses,122.9,3.19,2012,Official API
+2018-07-01,Other medical expenses,123.3,3.18,2012,Official API
+2018-08-01,Other medical expenses,120.7,0.75,2012,Official API
+2018-09-01,Other medical expenses,120.1,-0.08,2012,Official API
+2018-10-01,Other medical expenses,127.5,6.25,2012,Official API
+2018-11-01,Other medical expenses,128.0,5.79,2012,Official API
+2018-12-01,Other medical expenses,131.2,7.54,2012,Official API
+2019-01-01,Other medical expenses,131.5,7.52,2012,Official API
+2019-02-01,Other medical expenses,126.5,3.35,2012,Official API
+2019-03-01,Other medical expenses,127.8,4.07,2012,Official API
+2019-04-01,Other medical expenses,128.6,4.72,2012,Official API
+2019-05-01,Other medical expenses,129.4,5.81,2012,Official API
+2019-06-01,Other medical expenses,129.3,5.21,2012,Official API
+2019-07-01,Other medical expenses,130.0,5.43,2012,Official API
+2019-08-01,Other medical expenses,130.6,8.2,2012,Official API
+2019-09-01,Other medical expenses,132.5,10.32,2012,Official API
+2019-10-01,Other medical expenses,132.2,3.69,2012,Official API
+2019-11-01,Other medical expenses,132.2,3.28,2012,Official API
+2019-12-01,Other medical expenses,132.6,1.07,2012,Official API
+2020-01-01,Other medical expenses,133.6,1.6,2012,Official API
+2020-02-01,Other medical expenses,134.1,6.01,2012,Official API
+2020-06-01,Other medical expenses,139.1,7.58,2012,Official API
+2020-07-01,Other medical expenses,139.0,6.92,2012,Official API
+2020-08-01,Other medical expenses,141.4,8.27,2012,Official API
+2020-09-01,Other medical expenses,140.9,6.34,2012,Official API
+2020-10-01,Other medical expenses,140.5,6.28,2012,Official API
+2020-11-01,Other medical expenses,139.5,5.52,2012,Official API
+2020-12-01,Other medical expenses,139.2,4.98,2012,Official API
+2021-01-01,Other medical expenses,139.1,4.12,2012,Official API
+2021-02-01,Other medical expenses,138.9,3.58,2012,Official API
+2021-03-01,Other medical expenses,139.3,,2012,Official API
+2021-04-01,Other medical expenses,139.7,,2012,Official API
+2021-05-01,Other medical expenses,143.1,,2012,Official API
+2021-06-01,Other medical expenses,148.4,,2012,Official API
+2021-07-01,Other medical expenses,145.2,4.46,2012,Official API
+2021-08-01,Other medical expenses,145.8,3.11,2012,Official API
+2021-09-01,Other medical expenses,145.9,3.55,2012,Official API
+2021-10-01,Other medical expenses,146.2,4.06,2012,Official API
+2021-11-01,Other medical expenses,146.3,4.87,2012,Official API
+2021-12-01,Other medical expenses,146.4,5.17,2012,Official API
+2022-01-01,Other medical expenses,147.1,5.75,2012,Official API
+2022-02-01,Other medical expenses,147.6,6.26,2012,Official API
+2022-03-01,Other medical expenses,149.1,7.04,2012,Official API
+2022-04-01,Other medical expenses,149.7,7.16,2012,Official API
+2022-05-01,Other medical expenses,149.2,4.26,2012,Official API
+2022-06-01,Other medical expenses,149.3,0.61,2012,Official API
+2022-07-01,Other medical expenses,149.5,2.96,2012,Official API
+2022-08-01,Other medical expenses,149.8,2.74,2012,Official API
+2022-09-01,Other medical expenses,150.0,2.81,2012,Official API
+2022-10-01,Other medical expenses,150.4,2.87,2012,Official API
+2022-11-01,Other medical expenses,151.3,3.42,2012,Official API
+2022-12-01,Other medical expenses,151.7,3.62,2012,Official API
+2023-01-01,Other medical expenses,154.1,4.76,2012,Official API
+2023-02-01,Other medical expenses,155.3,5.22,2012,Official API
+2023-03-01,Other medical expenses,155.6,4.36,2012,Official API
+2023-04-01,Other medical expenses,156.7,4.68,2012,Official API
+2023-05-01,Other medical expenses,157.1,5.29,2012,Official API
+2023-06-01,Other medical expenses,156.2,4.62,2012,Official API
+2023-07-01,Other medical expenses,157.1,5.08,2012,Official API
+2023-08-01,Other medical expenses,158.2,5.61,2012,Official API
+2023-09-01,Other medical expenses,159.3,6.2,2012,Official API
+2023-10-01,Other medical expenses,160.2,6.52,2012,Official API
+2023-11-01,Other medical expenses,160.7,6.21,2012,Official API
+2023-12-01,Other medical expenses,161.8,6.66,2012,Official API
+2024-01-01,Other medical expenses,162.6,5.52,2012,Official API
+2024-02-01,Other medical expenses,162.5,4.64,2012,Official API
+2024-03-01,Other medical expenses,163.5,5.08,2012,Official API
+2024-04-01,Other medical expenses,164.2,4.79,2012,Official API
+2024-05-01,Other medical expenses,164.3,4.58,2012,Official API
+2024-06-01,Other medical expenses,164.6,5.38,2012,Official API
+2024-07-01,Other medical expenses,165.7,5.47,2012,Official API
+2024-08-01,Other medical expenses,165.8,4.8,2012,Official API
+2024-09-01,Other medical expenses,165.2,3.7,2012,Official API
+2024-10-01,Other medical expenses,165.6,3.37,2012,Official API
+2024-11-01,Other medical expenses,164.7,2.49,2012,Official API
+2024-12-01,Other medical expenses,164.8,1.85,2012,Official API
+2025-01-01,Other medical expenses,166.6,2.46,2012,Official API
+2025-02-01,Other medical expenses,167.1,2.83,2012,Official API
+2025-03-01,Other medical expenses,167.3,2.32,2012,Official API
+2025-04-01,Other medical expenses,167.5,2.01,2012,Official API
+2025-05-01,Other medical expenses,168.5,2.56,2012,Official API
+2025-06-01,Other medical expenses,166.4,1.09,2012,Official API
+2025-07-01,Other medical expenses,166.7,0.6,2012,Official API
+2025-08-01,Other medical expenses,167.4,0.97,2012,Official API
+2025-09-01,Other medical expenses,169.6,2.66,2012,Official API
+2025-10-01,Other medical expenses,169.1,2.11,2012,Official API
+2025-11-01,Other medical expenses,169.5,2.91,2012,Official API
+2025-12-01,Other medical expenses,169.1,2.61,2012,Official API
+2014-01-01,Spectacles,114.4,,2012,Official API
+2014-02-01,Spectacles,114.9,,2012,Official API
+2014-03-01,Spectacles,115.0,,2012,Official API
+2014-04-01,Spectacles,115.7,,2012,Official API
+2014-05-01,Spectacles,116.3,,2012,Official API
+2014-06-01,Spectacles,117.3,,2012,Official API
+2014-07-01,Spectacles,117.4,,2012,Official API
+2014-08-01,Spectacles,118.5,,2012,Official API
+2014-09-01,Spectacles,119.2,,2012,Official API
+2014-10-01,Spectacles,120.3,,2012,Official API
+2014-11-01,Spectacles,120.4,,2012,Official API
+2014-12-01,Spectacles,120.1,,2012,Official API
+2015-01-01,Spectacles,119.8,4.72,2012,Official API
+2015-02-01,Spectacles,120.5,4.87,2012,Official API
+2015-03-01,Spectacles,121.9,6.0,2012,Official API
+2015-04-01,Spectacles,122.9,6.22,2012,Official API
+2015-05-01,Spectacles,123.7,6.36,2012,Official API
+2015-06-01,Spectacles,124.6,6.22,2012,Official API
+2015-07-01,Spectacles,125.4,6.81,2012,Official API
+2015-08-01,Spectacles,126.2,6.5,2012,Official API
+2015-09-01,Spectacles,126.8,6.38,2012,Official API
+2015-10-01,Spectacles,127.1,5.65,2012,Official API
+2015-11-01,Spectacles,127.9,6.23,2012,Official API
+2015-12-01,Spectacles,128.2,6.74,2012,Official API
+2016-01-01,Spectacles,128.3,7.1,2012,Official API
+2016-02-01,Spectacles,128.3,6.47,2012,Official API
+2016-03-01,Spectacles,127.9,4.92,2012,Official API
+2016-04-01,Spectacles,128.6,4.64,2012,Official API
+2016-05-01,Spectacles,129.5,4.69,2012,Official API
+2016-06-01,Spectacles,130.2,4.49,2012,Official API
+2016-07-01,Spectacles,130.7,4.23,2012,Official API
+2016-08-01,Spectacles,130.7,3.57,2012,Official API
+2016-09-01,Spectacles,131.4,3.63,2012,Official API
+2016-10-01,Spectacles,132.5,4.25,2012,Official API
+2016-11-01,Spectacles,132.3,3.44,2012,Official API
+2016-12-01,Spectacles,132.9,3.67,2012,Official API
+2017-01-01,Spectacles,133.2,3.82,2012,Official API
+2017-02-01,Spectacles,132.2,3.04,2012,Official API
+2017-03-01,Spectacles,134.1,4.85,2012,Official API
+2017-04-01,Spectacles,134.9,4.9,2012,Official API
+2017-05-01,Spectacles,135.0,4.25,2012,Official API
+2017-06-01,Spectacles,135.3,3.92,2012,Official API
+2017-07-01,Spectacles,136.2,4.21,2012,Official API
+2017-08-01,Spectacles,137.0,4.82,2012,Official API
+2017-09-01,Spectacles,137.5,4.64,2012,Official API
+2017-10-01,Spectacles,137.8,4.0,2012,Official API
+2017-11-01,Spectacles,138.0,4.31,2012,Official API
+2017-12-01,Spectacles,138.7,4.36,2012,Official API
+2018-01-01,Spectacles,139.2,4.5,2012,Official API
+2018-02-01,Spectacles,139.8,5.75,2012,Official API
+2018-03-01,Spectacles,140.0,4.4,2012,Official API
+2018-04-01,Spectacles,140.6,4.23,2012,Official API
+2018-05-01,Spectacles,141.3,4.67,2012,Official API
+2018-06-01,Spectacles,141.9,4.88,2012,Official API
+2018-07-01,Spectacles,142.5,4.63,2012,Official API
+2018-08-01,Spectacles,142.4,3.94,2012,Official API
+2018-09-01,Spectacles,142.3,3.49,2012,Official API
+2018-10-01,Spectacles,144.9,5.15,2012,Official API
+2018-11-01,Spectacles,144.1,4.42,2012,Official API
+2018-12-01,Spectacles,145.8,5.12,2012,Official API
+2019-01-01,Spectacles,144.9,4.09,2012,Official API
+2019-02-01,Spectacles,144.4,3.29,2012,Official API
+2019-03-01,Spectacles,144.2,3.0,2012,Official API
+2019-04-01,Spectacles,144.8,2.99,2012,Official API
+2019-05-01,Spectacles,146.0,3.33,2012,Official API
+2019-06-01,Spectacles,147.6,4.02,2012,Official API
+2019-07-01,Spectacles,149.1,4.63,2012,Official API
+2019-08-01,Spectacles,150.1,5.41,2012,Official API
+2019-09-01,Spectacles,150.1,5.48,2012,Official API
+2019-10-01,Spectacles,150.2,3.66,2012,Official API
+2019-11-01,Spectacles,145.6,1.04,2012,Official API
+2019-12-01,Spectacles,146.1,0.21,2012,Official API
+2020-01-01,Spectacles,146.5,1.1,2012,Official API
+2020-02-01,Spectacles,146.8,1.66,2012,Official API
+2020-06-01,Spectacles,144.8,-1.9,2012,Official API
+2020-07-01,Spectacles,143.9,-3.49,2012,Official API
+2020-08-01,Spectacles,143.4,-4.46,2012,Official API
+2020-09-01,Spectacles,143.2,-4.6,2012,Official API
+2020-10-01,Spectacles,153.2,2.0,2012,Official API
+2020-11-01,Spectacles,153.5,5.43,2012,Official API
+2020-12-01,Spectacles,151.6,3.76,2012,Official API
+2021-01-01,Spectacles,152.2,3.89,2012,Official API
+2021-02-01,Spectacles,152.9,4.16,2012,Official API
+2021-03-01,Spectacles,153.0,,2012,Official API
+2021-04-01,Spectacles,154.8,,2012,Official API
+2021-05-01,Spectacles,157.8,,2012,Official API
+2021-06-01,Spectacles,157.2,,2012,Official API
+2021-07-01,Spectacles,159.6,10.91,2012,Official API
+2021-08-01,Spectacles,162.6,13.39,2012,Official API
+2021-09-01,Spectacles,163.7,14.32,2012,Official API
+2021-10-01,Spectacles,165.3,7.9,2012,Official API
+2021-11-01,Spectacles,165.5,7.82,2012,Official API
+2021-12-01,Spectacles,165.7,9.3,2012,Official API
+2022-01-01,Spectacles,163.7,7.56,2012,Official API
+2022-02-01,Spectacles,166.3,8.76,2012,Official API
+2022-03-01,Spectacles,167.1,9.22,2012,Official API
+2022-04-01,Spectacles,167.6,8.27,2012,Official API
+2022-05-01,Spectacles,168.6,6.84,2012,Official API
+2022-06-01,Spectacles,169.1,7.57,2012,Official API
+2022-07-01,Spectacles,168.6,5.64,2012,Official API
+2022-08-01,Spectacles,169.0,3.94,2012,Official API
+2022-09-01,Spectacles,169.7,3.67,2012,Official API
+2022-10-01,Spectacles,170.3,3.02,2012,Official API
+2022-11-01,Spectacles,170.6,3.08,2012,Official API
+2022-12-01,Spectacles,171.1,3.26,2012,Official API
+2023-01-01,Spectacles,171.7,4.89,2012,Official API
+2023-02-01,Spectacles,171.9,3.37,2012,Official API
+2023-03-01,Spectacles,172.4,3.17,2012,Official API
+2023-04-01,Spectacles,173.0,3.22,2012,Official API
+2023-05-01,Spectacles,173.4,2.85,2012,Official API
+2023-06-01,Spectacles,173.6,2.66,2012,Official API
+2023-07-01,Spectacles,174.0,3.2,2012,Official API
+2023-08-01,Spectacles,174.3,3.14,2012,Official API
+2023-09-01,Spectacles,174.5,2.83,2012,Official API
+2023-10-01,Spectacles,174.9,2.7,2012,Official API
+2023-11-01,Spectacles,175.2,2.7,2012,Official API
+2023-12-01,Spectacles,175.6,2.63,2012,Official API
+2024-01-01,Spectacles,175.5,2.21,2012,Official API
+2024-02-01,Spectacles,175.4,2.04,2012,Official API
+2024-03-01,Spectacles,175.7,1.91,2012,Official API
+2024-04-01,Spectacles,176.0,1.73,2012,Official API
+2024-05-01,Spectacles,175.9,1.44,2012,Official API
+2024-06-01,Spectacles,176.3,1.56,2012,Official API
+2024-07-01,Spectacles,176.4,1.38,2012,Official API
+2024-08-01,Spectacles,176.8,1.43,2012,Official API
+2024-09-01,Spectacles,176.9,1.38,2012,Official API
+2024-10-01,Spectacles,177.4,1.43,2012,Official API
+2024-11-01,Spectacles,177.7,1.43,2012,Official API
+2024-12-01,Spectacles,177.9,1.31,2012,Official API
+2025-01-01,Spectacles,177.0,0.85,2012,Official API
+2025-02-01,Spectacles,178.1,1.54,2012,Official API
+2025-03-01,Spectacles,178.4,1.54,2012,Official API
+2025-04-01,Spectacles,178.7,1.53,2012,Official API
+2025-05-01,Spectacles,179.3,1.93,2012,Official API
+2025-06-01,Spectacles,179.6,1.87,2012,Official API
+2025-07-01,Spectacles,179.9,1.98,2012,Official API
+2025-08-01,Spectacles,180.0,1.81,2012,Official API
+2025-09-01,Spectacles,180.0,1.75,2012,Official API
+2025-10-01,Spectacles,178.7,0.73,2012,Official API
+2025-11-01,Spectacles,179.2,0.84,2012,Official API
+2025-12-01,Spectacles,179.8,1.07,2012,Official API

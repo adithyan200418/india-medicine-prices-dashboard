@@ -1,0 +1,80 @@
+table medicine_events
+	lineageTag: e10d7699-aeec-4810-910a-ab7d78a3d05c
+
+	/// Documented price actions, supply risks and shortage reports dated 2026.
+	measure 'Events 2026' = CALCULATE(COUNTROWS('medicine_events'), 'DimDate'[Year] = 2026)
+		formatString: #,0
+		displayFolder: Availability
+		lineageTag: 0a180c6d-6ca6-58aa-a22f-9625d8d0b198
+
+	column event_date
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 37dcb64f-0172-4f64-a97a-ed0fc1b064f2
+		summarizeBy: none
+		sourceColumn: event_date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column date_precision
+		dataType: string
+		lineageTag: 5727e759-5945-4721-9c6f-903cfc765da7
+		summarizeBy: none
+		sourceColumn: date_precision
+
+	column event_type
+		dataType: string
+		lineageTag: 5f4ec7dc-d49d-40cd-a966-ee01f293821d
+		summarizeBy: none
+		sourceColumn: event_type
+
+	column subject
+		dataType: string
+		lineageTag: 708224f3-25ea-41f6-9da3-32d22a813791
+		summarizeBy: none
+		sourceColumn: subject
+
+	column what_happened
+		dataType: string
+		lineageTag: ba5aa77c-57ff-4056-9bb0-65746177fd0a
+		summarizeBy: none
+		sourceColumn: what_happened
+
+	column magnitude_pct
+		dataType: double
+		lineageTag: 8615d1a1-9e1a-4821-a9cc-cf30c0261c40
+		summarizeBy: none
+		sourceColumn: magnitude_pct
+
+	column verification
+		dataType: string
+		lineageTag: 7a33abd3-6a46-4a4e-9a01-a3cbb661bccf
+		summarizeBy: none
+		sourceColumn: verification
+
+	column source_url
+		dataType: string
+		lineageTag: 305cc837-82db-4938-a79b-bb0991ce0c4f
+		summarizeBy: none
+		sourceColumn: source_url
+
+	column when
+		dataType: string
+		lineageTag: 217891df-7536-4ee9-94d5-d489461f7d34
+		summarizeBy: none
+		sourceColumn: when
+
+	partition medicine_events = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\medicine_events.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"event_date", "date_precision", "event_type", "subject", "what_happened", "magnitude_pct", "verification", "source_url"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"event_date", type date}, {"date_precision", type text}, {"event_type", type text}, {"subject", type text}, {"what_happened", type text}, {"magnitude_pct", type number}, {"verification", type text}, {"source_url", type text}}, "en-US"),
+				    When = Table.AddColumn(Typed, "when", each Date.ToText(Date.From([event_date]), "yyyy-MM", "en-US"), type text)
+				in
+				    When
+
+	annotation PBI_ResultType = Table
+

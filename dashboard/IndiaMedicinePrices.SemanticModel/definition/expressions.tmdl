@@ -1,0 +1,5 @@
+expression DataFolder = "C:\Users\anand\Desktop\power bi projects\india-medicine-prices\data\curated" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: b27af259-97c3-4758-8b8c-d62efe2ee55d
+
+	annotation PBI_ResultType = Text
+

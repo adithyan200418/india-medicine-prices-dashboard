@@ -1,0 +1,69 @@
+table availability_studies
+	lineageTag: 28101e35-415f-4c6d-9d63-a3d3a10d0ff7
+
+	/// Result reported by a published availability study.
+	measure 'Study Result' = DIVIDE(AVERAGE('availability_studies'[value_pct]), 100)
+		formatString: 0%
+		displayFolder: Availability
+		lineageTag: b2521f98-7655-5edb-a44c-f9bd6c4b33ac
+
+	column study
+		dataType: string
+		lineageTag: 3421f0f7-be2d-4e39-ae67-e8aabab1dd09
+		summarizeBy: none
+		sourceColumn: study
+
+	column place
+		dataType: string
+		lineageTag: 69a54e62-b2fe-4c34-a87d-21847702dc35
+		summarizeBy: none
+		sourceColumn: place
+
+	column what_was_measured
+		dataType: string
+		lineageTag: 0a68ef6a-8ee4-4ad7-b318-d9975ddb6c1b
+		summarizeBy: none
+		sourceColumn: what_was_measured
+
+	column value_pct
+		dataType: double
+		lineageTag: d186fa5c-7b37-472f-862d-23a579184f14
+		summarizeBy: none
+		sourceColumn: value_pct
+
+	column note
+		dataType: string
+		lineageTag: fe219179-94bd-49ea-9d8d-fe1aec22a81b
+		summarizeBy: none
+		sourceColumn: note
+
+	column verification
+		dataType: string
+		lineageTag: 59fa6134-074c-4bdc-aea9-b7fe241568ed
+		summarizeBy: none
+		sourceColumn: verification
+
+	column source_url
+		dataType: string
+		lineageTag: 9ded8528-da97-4d13-80f4-e018cdee0536
+		summarizeBy: none
+		sourceColumn: source_url
+
+	column finding
+		dataType: string
+		lineageTag: 8abbbf65-4efb-4c83-a27b-033441659bb4
+		summarizeBy: none
+		sourceColumn: finding
+
+	partition availability_studies = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\availability_studies.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"study", "place", "what_was_measured", "value_pct", "note", "verification", "source_url"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"study", type text}, {"place", type text}, {"what_was_measured", type text}, {"value_pct", type number}, {"note", type text}, {"verification", type text}, {"source_url", type text}}, "en-US"),
+				    Label = Table.AddColumn(Typed, "finding", each [what_was_measured] & " - " & [place], type text)
+				in
+				    Label
+

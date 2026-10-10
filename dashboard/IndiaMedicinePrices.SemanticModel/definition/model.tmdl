@@ -1,0 +1,30 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["availability_studies","bulk_drug_imports_monthly","consumer_price_inflation","medicine_events","medicine_market_by_molecule","medicine_price_change_2022_2025","nppa_annual_price_revision","nppa_ceiling_prices","pharma_market_growth_2026","pharma_production_index","pharma_trade_annual","wholesale_price_index","DimDate","DataFolder"]
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table availability_studies
+ref table bulk_drug_imports_monthly
+ref table consumer_price_inflation
+ref table medicine_events
+ref table medicine_market_by_molecule
+ref table medicine_price_change_2022_2025
+ref table nppa_annual_price_revision
+ref table nppa_ceiling_prices
+ref table pharma_market_growth_2026
+ref table pharma_production_index
+ref table pharma_trade_annual
+ref table wholesale_price_index
+ref table DimDate
+
+ref cultureInfo en-US
+

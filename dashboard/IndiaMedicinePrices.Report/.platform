@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "IndiaMedicinePrices"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5b74e259-f1a0-5b22-ac86-141ee94c11e6"
+  }
+}

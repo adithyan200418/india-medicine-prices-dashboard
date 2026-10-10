@@ -1,0 +1,93 @@
+table DimDate
+	lineageTag: 4d60f440-14ec-4fbe-8cb8-08ed238fa53b
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isKey
+		formatString: yyyy-MM-dd
+		lineageTag: f4a0765a-962c-40ae-862c-01a6e72bffdf
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Year
+		dataType: int64
+		lineageTag: 02eccd35-a5a3-497b-9bca-509f2c877b2a
+		summarizeBy: none
+		sourceColumn: Year
+
+	column Quarter
+		dataType: string
+		lineageTag: 0d9d4b49-886a-449b-a430-24f5955ff2ae
+		summarizeBy: none
+		sourceColumn: Quarter
+
+	column MonthNumber
+		dataType: int64
+		isHidden
+		lineageTag: fd54090e-e809-4ef6-9034-aac51d59ccfe
+		summarizeBy: none
+		sourceColumn: MonthNumber
+
+	column Month
+		dataType: string
+		lineageTag: 4f0c2bfd-e7d6-49a1-acfe-644465a9b6b2
+		summarizeBy: none
+		sourceColumn: Month
+		sortByColumn: MonthNumber
+
+	column YearMonth
+		dataType: string
+		lineageTag: 064a9af3-9f06-448b-8248-068e95abcb33
+		summarizeBy: none
+		sourceColumn: YearMonth
+
+	column MonthStart
+		dataType: dateTime
+		formatString: MMM yyyy
+		lineageTag: 9fc94a1c-5546-4dd2-8762-d52bd564b537
+		summarizeBy: none
+		sourceColumn: MonthStart
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	hierarchy Calendar
+		lineageTag: 9c481bf4-78c4-4723-abc3-7fbd173b685b
+
+		level Year
+			lineageTag: a8aeefa4-47e2-45b4-82da-fea518c309f6
+			column: Year
+
+		level Quarter
+			lineageTag: c727b75c-51a7-4700-9020-d54516bc858d
+			column: Quarter
+
+		level Month
+			lineageTag: 91fc1816-5f3f-4100-8395-0f37ea3ceabf
+			column: Month
+
+		level Date
+			lineageTag: e335c238-c898-4dba-b07c-c2fd994ef2ea
+			column: Date
+
+	partition DimDate = m
+		mode: import
+		source =
+				let
+				    Observed = List.RemoveNulls(List.Combine({Table.Column(#"bulk_drug_imports_monthly", "month"), Table.Column(#"consumer_price_inflation", "month"), Table.Column(#"medicine_events", "event_date"), Table.Column(#"nppa_annual_price_revision", "effective_date"), Table.Column(#"pharma_market_growth_2026", "period"), Table.Column(#"pharma_production_index", "month"), Table.Column(#"pharma_trade_annual", "year_start"), Table.Column(#"wholesale_price_index", "month")})),
+				    StartDate = Date.StartOfYear(Date.From(List.Min(Observed))),
+				    EndDate = Date.EndOfYear(Date.From(List.Max(Observed))),
+				    Dates = List.Dates(StartDate, Duration.Days(EndDate - StartDate) + 1, #duration(1,0,0,0)),
+				    Source = Table.FromList(Dates, Splitter.SplitByNothing(), {"Date"}),
+				    Typed = Table.TransformColumnTypes(Source, {{"Date", type date}}),
+				    Year = Table.AddColumn(Typed, "Year", each Date.Year([Date]), Int64.Type),
+				    Quarter = Table.AddColumn(Year, "Quarter", each "Q" & Text.From(Date.QuarterOfYear([Date])), type text),
+				    MonthNumber = Table.AddColumn(Quarter, "MonthNumber", each Date.Month([Date]), Int64.Type),
+				    Month = Table.AddColumn(MonthNumber, "Month", each Date.MonthName([Date], "en-US"), type text),
+				    YearMonth = Table.AddColumn(Month, "YearMonth", each Date.ToText([Date], "yyyy-MM"), type text),
+				    MonthStart = Table.AddColumn(YearMonth, "MonthStart", each Date.StartOfMonth([Date]), type date)
+				in
+				    MonthStart
+

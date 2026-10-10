@@ -1,0 +1,91 @@
+table bulk_drug_imports_monthly
+	lineageTag: 6d73051a-12af-4a99-a635-ebe99b40e9e9
+
+	/// Monthly weight of bulk drug imports from all countries.
+	measure 'Bulk Drug Import Tonnes' = CALCULATE(SUM('bulk_drug_imports_monthly'[weight_tonnes]), 'bulk_drug_imports_monthly'[partner] = "World", 'bulk_drug_imports_monthly'[product_type] = "Bulk drug / API")
+		formatString: #,0
+		displayFolder: Supply
+		lineageTag: 50a4d1a9-b805-5a20-8901-1d795951427a
+
+	/// Average import price of bulk antibiotics: value divided by weight.
+	measure 'Antibiotic Import Price USD per kg' = CALCULATE(DIVIDE(SUM('bulk_drug_imports_monthly'[value_usd_million]) * 1000, SUM('bulk_drug_imports_monthly'[weight_tonnes])), 'bulk_drug_imports_monthly'[partner] = "World", 'bulk_drug_imports_monthly'[product] = "Antibiotics (bulk)")
+		formatString: $#,0.0
+		displayFolder: Supply
+		lineageTag: 50cdb7d4-2d81-5093-9284-73394e0a3519
+
+	/// Bulk antibiotic import price in the latest month (July 2026).
+	measure 'Antibiotic Import Price Latest' = VAR d = CALCULATE(MAX('bulk_drug_imports_monthly'[month]), ALL('bulk_drug_imports_monthly')) RETURN CALCULATE([Antibiotic Import Price USD per kg], 'bulk_drug_imports_monthly'[month] = d)
+		formatString: $#,0.0
+		displayFolder: Supply
+		lineageTag: 5f68a1bd-c8d8-53f0-a32d-84db3c82ab98
+
+	column month
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 5b585f87-acdc-4087-9f46-5010a6f38bac
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column hs_code
+		dataType: int64
+		lineageTag: 7935f311-2b14-48ac-9cf4-83d744604707
+		summarizeBy: none
+		sourceColumn: hs_code
+
+	column product
+		dataType: string
+		lineageTag: c9841440-54ff-47a8-b0a0-d60b5ce7af64
+		summarizeBy: none
+		sourceColumn: product
+
+	column product_type
+		dataType: string
+		lineageTag: 03db1645-cd6d-4c2f-a6c5-39c0837e610a
+		summarizeBy: none
+		sourceColumn: product_type
+
+	column flow
+		dataType: string
+		lineageTag: af572705-5db6-4293-9cc8-dd7e9dcd5d97
+		summarizeBy: none
+		sourceColumn: flow
+
+	column partner
+		dataType: string
+		lineageTag: 4f13582b-835e-4dd6-83b2-3a71a93e6e19
+		summarizeBy: none
+		sourceColumn: partner
+
+	column value_usd_million
+		dataType: double
+		lineageTag: fd8f9dfd-9aba-40dc-81a2-3f62bf2484ee
+		summarizeBy: none
+		sourceColumn: value_usd_million
+
+	column weight_tonnes
+		dataType: double
+		lineageTag: 1a02b4c3-9084-4a8a-b695-13416e09e4ab
+		summarizeBy: none
+		sourceColumn: weight_tonnes
+
+	column usd_per_kg
+		dataType: double
+		lineageTag: a69b5200-1173-4c52-b724-eebc43c7dfcb
+		summarizeBy: none
+		sourceColumn: usd_per_kg
+
+	partition bulk_drug_imports_monthly = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\bulk_drug_imports_monthly.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"month", "hs_code", "product", "product_type", "flow", "partner", "value_usd_million", "weight_tonnes", "usd_per_kg"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"month", type date}, {"hs_code", Int64.Type}, {"product", type text}, {"product_type", type text}, {"flow", type text}, {"partner", type text}, {"value_usd_million", type number}, {"weight_tonnes", type number}, {"usd_per_kg", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

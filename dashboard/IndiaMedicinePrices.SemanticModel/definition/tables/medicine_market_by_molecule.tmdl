@@ -1,0 +1,116 @@
+table medicine_market_by_molecule
+	lineageTag: 89b8262c-3a6a-4205-800e-c4fd7a825694
+
+	/// Distinct active ingredients in the retail catalogue.
+	measure Molecules = COUNTROWS('medicine_market_by_molecule')
+		formatString: #,0
+		displayFolder: Market
+		lineageTag: 3850b279-23c2-5315-9e76-77256799141a
+
+	/// Branded products listed for sale.
+	measure 'Listed Products' = SUM('medicine_market_by_molecule'[products])
+		formatString: #,0
+		displayFolder: Market
+		lineageTag: a83fa997-c1a4-5db1-b19b-ef512ce372dd
+
+	/// Share of listed products marked discontinued; a rough signal of products leaving the market.
+	measure 'Discontinued Share' = DIVIDE(SUM('medicine_market_by_molecule'[discontinued_products]), SUM('medicine_market_by_molecule'[products]))
+		formatString: 0.0%
+		displayFolder: Market
+		lineageTag: 5a3e5db5-f34b-5a4e-9c85-158301cbbe7d
+
+	/// Molecules sold by only one manufacturer, where a supply problem has no substitute brand.
+	measure 'Single-Maker Molecules' = CALCULATE(COUNTROWS('medicine_market_by_molecule'), 'medicine_market_by_molecule'[competition] = "Single maker")
+		formatString: #,0
+		displayFolder: Market
+		lineageTag: b8eab178-3dd4-5c1b-a30a-79f98e789426
+
+	/// Typical number of manufacturers per molecule.
+	measure 'Makers per Molecule' = MEDIAN('medicine_market_by_molecule'[manufacturers])
+		formatString: 0
+		displayFolder: Market
+		lineageTag: 266d07f2-3071-59ce-99ea-5682b5d12c19
+
+	/// Typical pack price across molecules, rupees.
+	measure 'Median Price INR' = MEDIAN('medicine_market_by_molecule'[median_price_inr])
+		formatString: #,0
+		displayFolder: Market
+		lineageTag: 30de2661-d07f-5230-8d79-fc96fcec0e8a
+
+	column molecule
+		dataType: string
+		lineageTag: 834fc154-74bf-4fe6-825d-dc444192ff87
+		summarizeBy: none
+		sourceColumn: molecule
+
+	column therapeutic_class
+		dataType: string
+		lineageTag: 250e74a1-476a-4d38-8180-6b176e31e4b4
+		summarizeBy: none
+		sourceColumn: therapeutic_class
+
+	column products
+		dataType: int64
+		lineageTag: 28e328e4-4645-4a5e-b01b-48fde957016d
+		summarizeBy: none
+		sourceColumn: products
+
+	column manufacturers
+		dataType: int64
+		lineageTag: e27e0c87-2bab-4166-8208-2f79e975ff5e
+		summarizeBy: none
+		sourceColumn: manufacturers
+
+	column discontinued_products
+		dataType: int64
+		lineageTag: 2b2e71ad-7af9-45e9-b49a-fe07921a6e87
+		summarizeBy: none
+		sourceColumn: discontinued_products
+
+	column median_price_inr
+		dataType: double
+		lineageTag: d7db9cdf-315a-489a-a42a-2ca70fa7fe95
+		summarizeBy: none
+		sourceColumn: median_price_inr
+
+	column lowest_price_inr
+		dataType: double
+		lineageTag: 3ec0abd9-b4a6-428a-a91f-ba9d7bf274bf
+		summarizeBy: none
+		sourceColumn: lowest_price_inr
+
+	column p90_price_inr
+		dataType: double
+		lineageTag: dc4555c0-9c70-44a9-b8b3-36952a15840e
+		summarizeBy: none
+		sourceColumn: p90_price_inr
+
+	column discontinued_share_pct
+		dataType: double
+		lineageTag: 772a572f-29e8-4b7f-b502-f77325b69090
+		summarizeBy: none
+		sourceColumn: discontinued_share_pct
+
+	column price_spread_ratio
+		dataType: double
+		lineageTag: d9f92019-f796-4fd5-9d54-739fe62a30d4
+		summarizeBy: none
+		sourceColumn: price_spread_ratio
+
+	column competition
+		dataType: string
+		lineageTag: 3d87ad09-e496-44e5-9500-01a9e6e16aa6
+		summarizeBy: none
+		sourceColumn: competition
+
+	partition medicine_market_by_molecule = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\medicine_market_by_molecule.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"molecule", "therapeutic_class", "products", "manufacturers", "discontinued_products", "median_price_inr", "lowest_price_inr", "p90_price_inr", "discontinued_share_pct", "price_spread_ratio", "competition"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"molecule", type text}, {"therapeutic_class", type text}, {"products", Int64.Type}, {"manufacturers", Int64.Type}, {"discontinued_products", Int64.Type}, {"median_price_inr", type number}, {"lowest_price_inr", type number}, {"p90_price_inr", type number}, {"discontinued_share_pct", type number}, {"price_spread_ratio", type number}, {"competition", type text}}, "en-US")
+				in
+				    Typed
+

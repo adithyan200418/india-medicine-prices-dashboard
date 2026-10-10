@@ -1,0 +1,61 @@
+table pharma_production_index
+	lineageTag: 2d6d6847-1520-4ba8-a000-e1f2d8f1202f
+
+	/// Index of industrial production (2011-12 = 100) from 2019: Pharma.
+	measure 'Pharma Production Index' = CALCULATE(AVERAGE('pharma_production_index'[index_value]), 'pharma_production_index'[series] = "Pharmaceuticals", KEEPFILTERS('DimDate'[Date] >= DATE(2019, 1, 1)))
+		formatString: 0
+		displayFolder: Availability
+		lineageTag: b1d2e9f4-9643-597f-ba75-5326a1d9d45c
+
+	/// Index of industrial production (2011-12 = 100) from 2019: All Industry.
+	measure 'All Industry Production Index' = CALCULATE(AVERAGE('pharma_production_index'[index_value]), 'pharma_production_index'[series] = "All industry (general index)", KEEPFILTERS('DimDate'[Date] >= DATE(2019, 1, 1)))
+		formatString: 0
+		displayFolder: Availability
+		lineageTag: 1b6ceaa8-1f26-5673-8f8f-02725f2bed91
+
+	/// Year-on-year growth of pharmaceutical production in the latest month (March 2026).
+	measure 'Pharma Production Growth Latest' = VAR d = CALCULATE(MAX('pharma_production_index'[month]), ALL('pharma_production_index')) RETURN DIVIDE(CALCULATE(AVERAGE('pharma_production_index'[growth_pct]), 'pharma_production_index'[series] = "Pharmaceuticals", 'pharma_production_index'[month] = d), 100)
+		formatString: +0.0%;-0.0%
+		displayFolder: Availability
+		lineageTag: 1b0bd04e-fbeb-57e5-ac62-f6b7928dee0e
+
+	column month
+		dataType: dateTime
+		formatString: yyyy-MM-dd
+		lineageTag: 6538b826-6f22-4296-8240-cacabbacb54d
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column series
+		dataType: string
+		lineageTag: afcb3941-f50e-4e0c-9e80-4461a9fe24aa
+		summarizeBy: none
+		sourceColumn: series
+
+	column index_value
+		dataType: double
+		lineageTag: 85bea6ac-4b3a-495e-a79a-0dededdb0f8a
+		summarizeBy: none
+		sourceColumn: index_value
+
+	column growth_pct
+		dataType: double
+		lineageTag: ca9d73e0-504e-4145-be94-1d9899ad587d
+		summarizeBy: none
+		sourceColumn: growth_pct
+
+	partition pharma_production_index = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\pharma_production_index.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    EmptyToNull = Table.ReplaceValue(Headers, "", null, Replacer.ReplaceValue, {"month", "series", "index_value", "growth_pct"}),
+				    Typed = Table.TransformColumnTypes(EmptyToNull, {{"month", type date}, {"series", type text}, {"index_value", type number}, {"growth_pct", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

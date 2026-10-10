@@ -1,0 +1,374 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "a51dc7f89eca683406e7",
+  "position": {
+    "x": 35.677649541868377,
+    "y": 101.54407946531768,
+    "z": 7000,
+    "height": 102.91629675538954,
+    "width": 1208.9234325533091,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "consumer_price_inflation"
+                    }
+                  },
+                  "Property": "Medicines Inflation Latest"
+                }
+              },
+              "queryRef": "consumer_price_inflation.Medicines Inflation Latest",
+              "nativeQueryRef": "Medicines Inflation Latest",
+              "displayName": "Medicine inflation, Aug 2026"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "consumer_price_inflation"
+                    }
+                  },
+                  "Property": "Headline Inflation Latest"
+                }
+              },
+              "queryRef": "consumer_price_inflation.Headline Inflation Latest",
+              "nativeQueryRef": "Headline Inflation Latest",
+              "displayName": "All-items inflation, Aug 2026"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "consumer_price_inflation"
+                    }
+                  },
+                  "Property": "Medicines Inflation Dec 2025"
+                }
+              },
+              "queryRef": "consumer_price_inflation.Medicines Inflation Dec 2025",
+              "nativeQueryRef": "Medicines Inflation Dec 2025",
+              "displayName": "Medicine inflation, Dec 2025"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "nppa_annual_price_revision"
+                    }
+                  },
+                  "Property": "NPPA Revision 2026"
+                }
+              },
+              "queryRef": "nppa_annual_price_revision.NPPA Revision 2026",
+              "nativeQueryRef": "NPPA Revision 2026",
+              "displayName": "Price-controlled rise, Apr 2026"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "consumer_price_inflation"
+                    }
+                  },
+                  "Property": "Medicine Price Rise Since 2014"
+                }
+              },
+              "queryRef": "consumer_price_inflation.Medicine Price Rise Since 2014",
+              "nativeQueryRef": "Medicine Price Rise Since 2014",
+              "displayName": "Medicine prices since 2014"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "outline": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ],
+      "value": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "24D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#12282C'"
+                    }
+                  }
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI Semibold'"
+                }
+              }
+            },
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ],
+      "label": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "10D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#51636A'"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ],
+      "accentBar": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "position": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Left'"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E0701A'"
+                    }
+                  }
+                }
+              }
+            },
+            "width": {
+              "expr": {
+                "Literal": {
+                  "Value": "4D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "padding": [
+        {
+          "properties": {
+            "top": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "bottom": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "left": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            },
+            "right": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "cae7f5191659166db683",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "consumer_price_inflation"
+              }
+            },
+            "Property": "Medicines Inflation Latest"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "e1f2a18c9a229a1cb5c4",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "consumer_price_inflation"
+              }
+            },
+            "Property": "Headline Inflation Latest"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "79310a48bb702f03affc",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "consumer_price_inflation"
+              }
+            },
+            "Property": "Medicines Inflation Dec 2025"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "f02da9d5844d99696fac",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "nppa_annual_price_revision"
+              }
+            },
+            "Property": "NPPA Revision 2026"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "fe0aadde3608356ecd7e",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "consumer_price_inflation"
+              }
+            },
+            "Property": "Medicine Price Rise Since 2014"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
+  }
+}

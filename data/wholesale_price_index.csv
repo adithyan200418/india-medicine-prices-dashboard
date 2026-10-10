@@ -1,0 +1,2289 @@
+month,series,level,index_value,yoy_pct
+2019-01-01,All commodities (headline WPI),Headline,119.2,
+2019-02-01,All commodities (headline WPI),Headline,119.5,
+2019-03-01,All commodities (headline WPI),Headline,119.9,
+2019-04-01,All commodities (headline WPI),Headline,121.1,
+2019-05-01,All commodities (headline WPI),Headline,121.6,
+2019-06-01,All commodities (headline WPI),Headline,121.5,
+2019-07-01,All commodities (headline WPI),Headline,121.3,
+2019-08-01,All commodities (headline WPI),Headline,121.5,
+2019-09-01,All commodities (headline WPI),Headline,121.3,
+2019-10-01,All commodities (headline WPI),Headline,122.0,
+2019-11-01,All commodities (headline WPI),Headline,122.3,
+2019-12-01,All commodities (headline WPI),Headline,123.0,
+2020-01-01,All commodities (headline WPI),Headline,123.4,3.52
+2020-02-01,All commodities (headline WPI),Headline,122.2,2.26
+2020-03-01,All commodities (headline WPI),Headline,120.4,0.42
+2020-04-01,All commodities (headline WPI),Headline,119.2,-1.57
+2020-05-01,All commodities (headline WPI),Headline,117.5,-3.37
+2020-06-01,All commodities (headline WPI),Headline,119.3,-1.81
+2020-07-01,All commodities (headline WPI),Headline,121.0,-0.25
+2020-08-01,All commodities (headline WPI),Headline,122.0,0.41
+2020-09-01,All commodities (headline WPI),Headline,122.9,1.32
+2020-10-01,All commodities (headline WPI),Headline,123.6,1.31
+2020-11-01,All commodities (headline WPI),Headline,125.1,2.29
+2020-12-01,All commodities (headline WPI),Headline,125.4,1.95
+2021-01-01,All commodities (headline WPI),Headline,126.5,2.51
+2021-02-01,All commodities (headline WPI),Headline,128.1,4.83
+2021-03-01,All commodities (headline WPI),Headline,129.9,7.89
+2021-04-01,All commodities (headline WPI),Headline,132.0,10.74
+2021-05-01,All commodities (headline WPI),Headline,132.9,13.11
+2021-06-01,All commodities (headline WPI),Headline,133.7,12.07
+2021-07-01,All commodities (headline WPI),Headline,135.0,11.57
+2021-08-01,All commodities (headline WPI),Headline,136.2,11.64
+2021-09-01,All commodities (headline WPI),Headline,137.4,11.8
+2021-10-01,All commodities (headline WPI),Headline,140.7,13.83
+2021-11-01,All commodities (headline WPI),Headline,143.7,14.87
+2021-12-01,All commodities (headline WPI),Headline,143.3,14.27
+2022-01-01,All commodities (headline WPI),Headline,143.8,13.68
+2022-02-01,All commodities (headline WPI),Headline,145.3,13.43
+2022-03-01,All commodities (headline WPI),Headline,148.9,14.63
+2022-04-01,All commodities (headline WPI),Headline,152.3,15.38
+2022-05-01,All commodities (headline WPI),Headline,155.0,16.63
+2022-06-01,All commodities (headline WPI),Headline,155.4,16.23
+2022-07-01,All commodities (headline WPI),Headline,154.0,14.07
+2022-08-01,All commodities (headline WPI),Headline,153.2,12.48
+2022-09-01,All commodities (headline WPI),Headline,151.9,10.55
+2022-10-01,All commodities (headline WPI),Headline,152.9,8.67
+2022-11-01,All commodities (headline WPI),Headline,152.5,6.12
+2022-12-01,All commodities (headline WPI),Headline,150.5,5.02
+2023-01-01,All commodities (headline WPI),Headline,150.7,4.8
+2023-02-01,All commodities (headline WPI),Headline,150.9,3.85
+2023-03-01,All commodities (headline WPI),Headline,151.0,1.41
+2023-04-01,All commodities (headline WPI),Headline,151.1,-0.79
+2023-05-01,All commodities (headline WPI),Headline,149.4,-3.61
+2023-06-01,All commodities (headline WPI),Headline,148.9,-4.18
+2023-07-01,All commodities (headline WPI),Headline,152.1,-1.23
+2023-08-01,All commodities (headline WPI),Headline,152.5,-0.46
+2023-09-01,All commodities (headline WPI),Headline,151.8,-0.07
+2023-10-01,All commodities (headline WPI),Headline,152.5,-0.26
+2023-11-01,All commodities (headline WPI),Headline,153.1,0.39
+2023-12-01,All commodities (headline WPI),Headline,151.8,0.86
+2024-01-01,All commodities (headline WPI),Headline,151.2,0.33
+2024-02-01,All commodities (headline WPI),Headline,151.2,0.2
+2024-03-01,All commodities (headline WPI),Headline,151.4,0.26
+2024-04-01,All commodities (headline WPI),Headline,152.9,1.19
+2024-05-01,All commodities (headline WPI),Headline,153.5,2.74
+2024-06-01,All commodities (headline WPI),Headline,154.0,3.43
+2024-07-01,All commodities (headline WPI),Headline,155.3,2.1
+2024-08-01,All commodities (headline WPI),Headline,154.4,1.25
+2024-09-01,All commodities (headline WPI),Headline,154.7,1.91
+2024-10-01,All commodities (headline WPI),Headline,156.7,2.75
+2024-11-01,All commodities (headline WPI),Headline,156.4,2.16
+2024-12-01,All commodities (headline WPI),Headline,155.7,2.57
+2025-01-01,All commodities (headline WPI),Headline,155.0,2.51
+2025-02-01,All commodities (headline WPI),Headline,154.9,2.45
+2025-03-01,All commodities (headline WPI),Headline,154.8,2.25
+2025-04-01,All commodities (headline WPI),Headline,154.2,0.85
+2025-05-01,All commodities (headline WPI),Headline,153.7,0.13
+2025-06-01,All commodities (headline WPI),Headline,153.7,-0.19
+2025-07-01,All commodities (headline WPI),Headline,154.4,-0.58
+2025-08-01,All commodities (headline WPI),Headline,155.2,0.52
+2025-09-01,All commodities (headline WPI),Headline,155.0,0.19
+2025-10-01,All commodities (headline WPI),Headline,155.1,-1.02
+2025-11-01,All commodities (headline WPI),Headline,156.2,-0.13
+2025-12-01,All commodities (headline WPI),Headline,157.2,0.96
+2026-01-01,All commodities (headline WPI),Headline,157.6,1.68
+2026-02-01,All commodities (headline WPI),Headline,158.4,2.26
+2026-03-01,All commodities (headline WPI),Headline,160.8,3.88
+2026-04-01,All commodities (headline WPI),Headline,167.0,8.3
+2019-01-01,Anti allergic drugs,Item,114.4,
+2019-02-01,Anti allergic drugs,Item,114.0,
+2019-03-01,Anti allergic drugs,Item,113.3,
+2019-04-01,Anti allergic drugs,Item,113.6,
+2019-05-01,Anti allergic drugs,Item,113.6,
+2019-06-01,Anti allergic drugs,Item,113.9,
+2019-07-01,Anti allergic drugs,Item,115.3,
+2019-08-01,Anti allergic drugs,Item,115.3,
+2019-09-01,Anti allergic drugs,Item,115.3,
+2019-10-01,Anti allergic drugs,Item,114.7,
+2019-11-01,Anti allergic drugs,Item,114.0,
+2019-12-01,Anti allergic drugs,Item,113.9,
+2020-01-01,Anti allergic drugs,Item,115.1,0.61
+2020-02-01,Anti allergic drugs,Item,115.1,0.96
+2020-03-01,Anti allergic drugs,Item,115.8,2.21
+2020-04-01,Anti allergic drugs,Item,116.0,2.11
+2020-05-01,Anti allergic drugs,Item,115.3,1.5
+2020-06-01,Anti allergic drugs,Item,115.7,1.58
+2020-07-01,Anti allergic drugs,Item,116.0,0.61
+2020-08-01,Anti allergic drugs,Item,117.4,1.82
+2020-09-01,Anti allergic drugs,Item,119.0,3.21
+2020-10-01,Anti allergic drugs,Item,118.6,3.4
+2020-11-01,Anti allergic drugs,Item,119.4,4.74
+2020-12-01,Anti allergic drugs,Item,118.3,3.86
+2021-01-01,Anti allergic drugs,Item,118.8,3.21
+2021-02-01,Anti allergic drugs,Item,119.1,3.48
+2021-03-01,Anti allergic drugs,Item,117.8,1.73
+2021-04-01,Anti allergic drugs,Item,116.3,0.26
+2021-05-01,Anti allergic drugs,Item,126.7,9.89
+2021-06-01,Anti allergic drugs,Item,111.3,-3.8
+2021-07-01,Anti allergic drugs,Item,112.1,-3.36
+2021-08-01,Anti allergic drugs,Item,112.1,-4.51
+2021-09-01,Anti allergic drugs,Item,110.4,-7.23
+2021-10-01,Anti allergic drugs,Item,110.4,-6.91
+2021-11-01,Anti allergic drugs,Item,110.4,-7.54
+2021-12-01,Anti allergic drugs,Item,106.9,-9.64
+2022-01-01,Anti allergic drugs,Item,106.9,-10.02
+2022-02-01,Anti allergic drugs,Item,107.0,-10.16
+2022-03-01,Anti allergic drugs,Item,107.0,-9.17
+2022-04-01,Anti allergic drugs,Item,111.0,-4.56
+2022-05-01,Anti allergic drugs,Item,111.1,-12.31
+2022-06-01,Anti allergic drugs,Item,111.1,-0.18
+2022-07-01,Anti allergic drugs,Item,111.1,-0.89
+2022-08-01,Anti allergic drugs,Item,112.1,0.0
+2022-09-01,Anti allergic drugs,Item,112.3,1.72
+2022-10-01,Anti allergic drugs,Item,111.3,0.82
+2022-11-01,Anti allergic drugs,Item,112.6,1.99
+2022-12-01,Anti allergic drugs,Item,112.9,5.61
+2023-01-01,Anti allergic drugs,Item,116.4,8.89
+2023-02-01,Anti allergic drugs,Item,115.0,7.48
+2023-03-01,Anti allergic drugs,Item,116.9,9.25
+2023-04-01,Anti allergic drugs,Item,116.9,5.32
+2023-05-01,Anti allergic drugs,Item,115.0,3.51
+2023-06-01,Anti allergic drugs,Item,114.9,3.42
+2023-07-01,Anti allergic drugs,Item,115.0,3.51
+2023-08-01,Anti allergic drugs,Item,115.9,3.39
+2023-09-01,Anti allergic drugs,Item,115.8,3.12
+2023-10-01,Anti allergic drugs,Item,116.7,4.85
+2023-11-01,Anti allergic drugs,Item,114.7,1.87
+2023-12-01,Anti allergic drugs,Item,116.9,3.54
+2024-01-01,Anti allergic drugs,Item,116.9,0.43
+2024-02-01,Anti allergic drugs,Item,117.4,2.09
+2024-03-01,Anti allergic drugs,Item,116.9,0.0
+2024-04-01,Anti allergic drugs,Item,118.8,1.63
+2024-05-01,Anti allergic drugs,Item,118.8,3.3
+2024-06-01,Anti allergic drugs,Item,118.8,3.39
+2024-07-01,Anti allergic drugs,Item,118.8,3.3
+2024-08-01,Anti allergic drugs,Item,118.8,2.5
+2024-09-01,Anti allergic drugs,Item,118.8,2.59
+2024-10-01,Anti allergic drugs,Item,118.8,1.8
+2024-11-01,Anti allergic drugs,Item,117.9,2.79
+2024-12-01,Anti allergic drugs,Item,119.9,2.57
+2025-01-01,Anti allergic drugs,Item,121.4,3.85
+2025-02-01,Anti allergic drugs,Item,121.4,3.41
+2025-03-01,Anti allergic drugs,Item,120.3,2.91
+2025-04-01,Anti allergic drugs,Item,120.3,1.26
+2025-05-01,Anti allergic drugs,Item,122.4,3.03
+2025-06-01,Anti allergic drugs,Item,122.4,3.03
+2025-07-01,Anti allergic drugs,Item,125.7,5.81
+2025-08-01,Anti allergic drugs,Item,125.7,5.81
+2025-09-01,Anti allergic drugs,Item,125.7,5.81
+2025-10-01,Anti allergic drugs,Item,125.5,5.64
+2025-11-01,Anti allergic drugs,Item,123.1,4.41
+2025-12-01,Anti allergic drugs,Item,122.0,1.75
+2026-01-01,Anti allergic drugs,Item,122.0,0.49
+2026-02-01,Anti allergic drugs,Item,121.0,-0.33
+2026-03-01,Anti allergic drugs,Item,124.1,3.16
+2026-04-01,Anti allergic drugs,Item,124.1,3.16
+2019-01-01,Anti cancer drugs,Item,80.1,
+2019-02-01,Anti cancer drugs,Item,80.3,
+2019-03-01,Anti cancer drugs,Item,79.2,
+2019-04-01,Anti cancer drugs,Item,78.7,
+2019-05-01,Anti cancer drugs,Item,83.2,
+2019-06-01,Anti cancer drugs,Item,82.5,
+2019-07-01,Anti cancer drugs,Item,82.1,
+2019-08-01,Anti cancer drugs,Item,82.3,
+2019-09-01,Anti cancer drugs,Item,82.4,
+2019-10-01,Anti cancer drugs,Item,81.6,
+2019-11-01,Anti cancer drugs,Item,78.8,
+2019-12-01,Anti cancer drugs,Item,78.8,
+2020-01-01,Anti cancer drugs,Item,79.7,-0.5
+2020-02-01,Anti cancer drugs,Item,79.6,-0.87
+2020-03-01,Anti cancer drugs,Item,79.6,0.51
+2020-04-01,Anti cancer drugs,Item,81.1,3.05
+2020-05-01,Anti cancer drugs,Item,82.9,-0.36
+2020-06-01,Anti cancer drugs,Item,79.6,-3.52
+2020-07-01,Anti cancer drugs,Item,78.7,-4.14
+2020-08-01,Anti cancer drugs,Item,80.6,-2.07
+2020-09-01,Anti cancer drugs,Item,80.3,-2.55
+2020-10-01,Anti cancer drugs,Item,74.3,-8.95
+2020-11-01,Anti cancer drugs,Item,71.8,-8.88
+2020-12-01,Anti cancer drugs,Item,76.3,-3.17
+2021-01-01,Anti cancer drugs,Item,76.1,-4.52
+2021-02-01,Anti cancer drugs,Item,73.4,-7.79
+2021-03-01,Anti cancer drugs,Item,71.4,-10.3
+2021-04-01,Anti cancer drugs,Item,71.4,-11.96
+2021-05-01,Anti cancer drugs,Item,71.6,-13.63
+2021-06-01,Anti cancer drugs,Item,74.2,-6.78
+2021-07-01,Anti cancer drugs,Item,71.3,-9.4
+2021-08-01,Anti cancer drugs,Item,68.9,-14.52
+2021-09-01,Anti cancer drugs,Item,72.9,-9.22
+2021-10-01,Anti cancer drugs,Item,71.0,-4.44
+2021-11-01,Anti cancer drugs,Item,74.7,4.04
+2021-12-01,Anti cancer drugs,Item,75.1,-1.57
+2022-01-01,Anti cancer drugs,Item,73.5,-3.42
+2022-02-01,Anti cancer drugs,Item,75.2,2.45
+2022-03-01,Anti cancer drugs,Item,71.1,-0.42
+2022-04-01,Anti cancer drugs,Item,72.4,1.4
+2022-05-01,Anti cancer drugs,Item,72.4,1.12
+2022-06-01,Anti cancer drugs,Item,70.1,-5.53
+2022-07-01,Anti cancer drugs,Item,72.0,0.98
+2022-08-01,Anti cancer drugs,Item,73.4,6.53
+2022-09-01,Anti cancer drugs,Item,71.0,-2.61
+2022-10-01,Anti cancer drugs,Item,73.5,3.52
+2022-11-01,Anti cancer drugs,Item,72.7,-2.68
+2022-12-01,Anti cancer drugs,Item,69.6,-7.32
+2023-01-01,Anti cancer drugs,Item,73.8,0.41
+2023-02-01,Anti cancer drugs,Item,68.4,-9.04
+2023-03-01,Anti cancer drugs,Item,67.6,-4.92
+2023-04-01,Anti cancer drugs,Item,66.6,-8.01
+2023-05-01,Anti cancer drugs,Item,64.0,-11.6
+2023-06-01,Anti cancer drugs,Item,65.9,-5.99
+2023-07-01,Anti cancer drugs,Item,69.6,-3.33
+2023-08-01,Anti cancer drugs,Item,68.0,-7.36
+2023-09-01,Anti cancer drugs,Item,69.6,-1.97
+2023-10-01,Anti cancer drugs,Item,65.6,-10.75
+2023-11-01,Anti cancer drugs,Item,62.1,-14.58
+2023-12-01,Anti cancer drugs,Item,63.3,-9.05
+2024-01-01,Anti cancer drugs,Item,61.3,-16.94
+2024-02-01,Anti cancer drugs,Item,59.7,-12.72
+2024-03-01,Anti cancer drugs,Item,60.5,-10.5
+2024-04-01,Anti cancer drugs,Item,59.9,-10.06
+2024-05-01,Anti cancer drugs,Item,58.4,-8.75
+2024-06-01,Anti cancer drugs,Item,58.5,-11.23
+2024-07-01,Anti cancer drugs,Item,58.5,-15.95
+2024-08-01,Anti cancer drugs,Item,59.7,-12.21
+2024-09-01,Anti cancer drugs,Item,58.0,-16.67
+2024-10-01,Anti cancer drugs,Item,58.5,-10.82
+2024-11-01,Anti cancer drugs,Item,56.0,-9.82
+2024-12-01,Anti cancer drugs,Item,59.0,-6.79
+2025-01-01,Anti cancer drugs,Item,56.4,-7.99
+2025-02-01,Anti cancer drugs,Item,58.9,-1.34
+2025-03-01,Anti cancer drugs,Item,57.4,-5.12
+2025-04-01,Anti cancer drugs,Item,58.5,-2.34
+2025-05-01,Anti cancer drugs,Item,55.8,-4.45
+2025-06-01,Anti cancer drugs,Item,58.0,-0.85
+2025-07-01,Anti cancer drugs,Item,55.0,-5.98
+2025-08-01,Anti cancer drugs,Item,55.5,-7.04
+2025-09-01,Anti cancer drugs,Item,57.3,-1.21
+2025-10-01,Anti cancer drugs,Item,58.4,-0.17
+2025-11-01,Anti cancer drugs,Item,57.8,3.21
+2025-12-01,Anti cancer drugs,Item,52.4,-11.19
+2026-01-01,Anti cancer drugs,Item,56.9,0.89
+2026-02-01,Anti cancer drugs,Item,53.7,-8.83
+2026-03-01,Anti cancer drugs,Item,55.5,-3.31
+2026-04-01,Anti cancer drugs,Item,56.9,-2.74
+2019-01-01,Anti inflammatory preparation,Item,135.3,
+2019-02-01,Anti inflammatory preparation,Item,133.9,
+2019-03-01,Anti inflammatory preparation,Item,134.1,
+2019-04-01,Anti inflammatory preparation,Item,136.7,
+2019-05-01,Anti inflammatory preparation,Item,136.7,
+2019-06-01,Anti inflammatory preparation,Item,137.9,
+2019-07-01,Anti inflammatory preparation,Item,119.3,
+2019-08-01,Anti inflammatory preparation,Item,119.3,
+2019-09-01,Anti inflammatory preparation,Item,119.3,
+2019-10-01,Anti inflammatory preparation,Item,116.5,
+2019-11-01,Anti inflammatory preparation,Item,116.5,
+2019-12-01,Anti inflammatory preparation,Item,116.5,
+2020-01-01,Anti inflammatory preparation,Item,119.0,-12.05
+2020-02-01,Anti inflammatory preparation,Item,119.0,-11.13
+2020-03-01,Anti inflammatory preparation,Item,119.0,-11.26
+2020-04-01,Anti inflammatory preparation,Item,119.0,-12.95
+2020-05-01,Anti inflammatory preparation,Item,122.1,-10.68
+2020-06-01,Anti inflammatory preparation,Item,122.1,-11.46
+2020-07-01,Anti inflammatory preparation,Item,122.7,2.85
+2020-08-01,Anti inflammatory preparation,Item,122.7,2.85
+2020-09-01,Anti inflammatory preparation,Item,104.9,-12.07
+2020-10-01,Anti inflammatory preparation,Item,103.9,-10.82
+2020-11-01,Anti inflammatory preparation,Item,104.5,-10.3
+2020-12-01,Anti inflammatory preparation,Item,102.9,-11.67
+2021-01-01,Anti inflammatory preparation,Item,104.4,-12.27
+2021-02-01,Anti inflammatory preparation,Item,104.4,-12.27
+2021-03-01,Anti inflammatory preparation,Item,104.4,-12.27
+2021-04-01,Anti inflammatory preparation,Item,113.8,-4.37
+2021-05-01,Anti inflammatory preparation,Item,119.2,-2.38
+2021-06-01,Anti inflammatory preparation,Item,119.2,-2.38
+2021-07-01,Anti inflammatory preparation,Item,114.6,-6.6
+2021-08-01,Anti inflammatory preparation,Item,114.6,-6.6
+2021-09-01,Anti inflammatory preparation,Item,114.6,9.25
+2021-10-01,Anti inflammatory preparation,Item,114.6,10.3
+2021-11-01,Anti inflammatory preparation,Item,114.6,9.67
+2021-12-01,Anti inflammatory preparation,Item,187.1,81.83
+2022-01-01,Anti inflammatory preparation,Item,188.2,80.27
+2022-02-01,Anti inflammatory preparation,Item,181.2,73.56
+2022-03-01,Anti inflammatory preparation,Item,182.3,74.62
+2022-04-01,Anti inflammatory preparation,Item,179.1,57.38
+2022-05-01,Anti inflammatory preparation,Item,179.6,50.67
+2022-06-01,Anti inflammatory preparation,Item,183.7,54.11
+2022-07-01,Anti inflammatory preparation,Item,189.9,65.71
+2022-08-01,Anti inflammatory preparation,Item,191.8,67.36
+2022-09-01,Anti inflammatory preparation,Item,194.2,69.46
+2022-10-01,Anti inflammatory preparation,Item,197.1,71.99
+2022-11-01,Anti inflammatory preparation,Item,197.3,72.16
+2022-12-01,Anti inflammatory preparation,Item,196.9,5.24
+2023-01-01,Anti inflammatory preparation,Item,194.4,3.29
+2023-02-01,Anti inflammatory preparation,Item,191.9,5.91
+2023-03-01,Anti inflammatory preparation,Item,191.9,5.27
+2023-04-01,Anti inflammatory preparation,Item,191.0,6.64
+2023-05-01,Anti inflammatory preparation,Item,171.4,-4.57
+2023-06-01,Anti inflammatory preparation,Item,170.1,-7.4
+2023-07-01,Anti inflammatory preparation,Item,167.5,-11.8
+2023-08-01,Anti inflammatory preparation,Item,165.2,-13.87
+2023-09-01,Anti inflammatory preparation,Item,163.7,-15.71
+2023-10-01,Anti inflammatory preparation,Item,163.6,-17.0
+2023-11-01,Anti inflammatory preparation,Item,164.1,-16.83
+2023-12-01,Anti inflammatory preparation,Item,163.4,-17.01
+2024-01-01,Anti inflammatory preparation,Item,162.8,-16.26
+2024-02-01,Anti inflammatory preparation,Item,160.8,-16.21
+2024-03-01,Anti inflammatory preparation,Item,160.9,-16.15
+2024-04-01,Anti inflammatory preparation,Item,164.6,-13.82
+2024-05-01,Anti inflammatory preparation,Item,155.7,-9.16
+2024-06-01,Anti inflammatory preparation,Item,164.6,-3.23
+2024-07-01,Anti inflammatory preparation,Item,165.4,-1.25
+2024-08-01,Anti inflammatory preparation,Item,163.3,-1.15
+2024-09-01,Anti inflammatory preparation,Item,160.9,-1.71
+2024-10-01,Anti inflammatory preparation,Item,160.9,-1.65
+2024-11-01,Anti inflammatory preparation,Item,161.9,-1.34
+2024-12-01,Anti inflammatory preparation,Item,164.5,0.67
+2025-01-01,Anti inflammatory preparation,Item,164.0,0.74
+2025-02-01,Anti inflammatory preparation,Item,163.7,1.8
+2025-03-01,Anti inflammatory preparation,Item,163.5,1.62
+2025-04-01,Anti inflammatory preparation,Item,197.3,19.87
+2025-05-01,Anti inflammatory preparation,Item,196.2,26.01
+2025-06-01,Anti inflammatory preparation,Item,198.4,20.53
+2025-07-01,Anti inflammatory preparation,Item,205.7,24.37
+2025-08-01,Anti inflammatory preparation,Item,208.6,27.74
+2025-09-01,Anti inflammatory preparation,Item,200.1,24.36
+2025-10-01,Anti inflammatory preparation,Item,202.9,26.1
+2025-11-01,Anti inflammatory preparation,Item,200.1,23.59
+2025-12-01,Anti inflammatory preparation,Item,202.9,23.34
+2026-01-01,Anti inflammatory preparation,Item,204.6,24.76
+2026-02-01,Anti inflammatory preparation,Item,200.1,22.24
+2026-03-01,Anti inflammatory preparation,Item,200.1,22.39
+2026-04-01,Anti inflammatory preparation,Item,217.0,9.98
+2019-01-01,Anti-malarial drugs,Item,95.7,
+2019-02-01,Anti-malarial drugs,Item,95.0,
+2019-03-01,Anti-malarial drugs,Item,96.7,
+2019-04-01,Anti-malarial drugs,Item,94.2,
+2019-05-01,Anti-malarial drugs,Item,94.0,
+2019-06-01,Anti-malarial drugs,Item,94.0,
+2019-07-01,Anti-malarial drugs,Item,94.0,
+2019-08-01,Anti-malarial drugs,Item,96.2,
+2019-09-01,Anti-malarial drugs,Item,96.5,
+2019-10-01,Anti-malarial drugs,Item,96.6,
+2019-11-01,Anti-malarial drugs,Item,96.9,
+2019-12-01,Anti-malarial drugs,Item,97.1,
+2020-01-01,Anti-malarial drugs,Item,101.8,6.37
+2020-02-01,Anti-malarial drugs,Item,105.7,11.26
+2020-03-01,Anti-malarial drugs,Item,95.1,-1.65
+2020-04-01,Anti-malarial drugs,Item,95.1,0.96
+2020-05-01,Anti-malarial drugs,Item,95.9,2.02
+2020-06-01,Anti-malarial drugs,Item,96.7,2.87
+2020-07-01,Anti-malarial drugs,Item,95.3,1.38
+2020-08-01,Anti-malarial drugs,Item,98.0,1.87
+2020-09-01,Anti-malarial drugs,Item,96.1,-0.41
+2020-10-01,Anti-malarial drugs,Item,96.4,-0.21
+2020-11-01,Anti-malarial drugs,Item,96.6,-0.31
+2020-12-01,Anti-malarial drugs,Item,95.3,-1.85
+2021-01-01,Anti-malarial drugs,Item,95.7,-5.99
+2021-02-01,Anti-malarial drugs,Item,94.7,-10.41
+2021-03-01,Anti-malarial drugs,Item,94.3,-0.84
+2021-04-01,Anti-malarial drugs,Item,93.6,-1.58
+2021-05-01,Anti-malarial drugs,Item,94.4,-1.56
+2021-06-01,Anti-malarial drugs,Item,92.8,-4.03
+2021-07-01,Anti-malarial drugs,Item,92.8,-2.62
+2021-08-01,Anti-malarial drugs,Item,92.8,-5.31
+2021-09-01,Anti-malarial drugs,Item,93.4,-2.81
+2021-10-01,Anti-malarial drugs,Item,93.4,-3.11
+2021-11-01,Anti-malarial drugs,Item,93.4,-3.31
+2021-12-01,Anti-malarial drugs,Item,93.4,-1.99
+2022-01-01,Anti-malarial drugs,Item,93.4,-2.4
+2022-02-01,Anti-malarial drugs,Item,93.4,-1.37
+2022-03-01,Anti-malarial drugs,Item,104.8,11.13
+2022-04-01,Anti-malarial drugs,Item,104.8,11.97
+2022-05-01,Anti-malarial drugs,Item,104.8,11.02
+2022-06-01,Anti-malarial drugs,Item,107.0,15.3
+2022-07-01,Anti-malarial drugs,Item,107.0,15.3
+2022-08-01,Anti-malarial drugs,Item,107.0,15.3
+2022-09-01,Anti-malarial drugs,Item,107.0,14.56
+2022-10-01,Anti-malarial drugs,Item,107.0,14.56
+2022-11-01,Anti-malarial drugs,Item,107.0,14.56
+2022-12-01,Anti-malarial drugs,Item,107.0,14.56
+2023-01-01,Anti-malarial drugs,Item,106.6,14.13
+2023-02-01,Anti-malarial drugs,Item,106.6,14.13
+2023-03-01,Anti-malarial drugs,Item,106.6,1.72
+2023-04-01,Anti-malarial drugs,Item,107.6,2.67
+2023-05-01,Anti-malarial drugs,Item,104.5,-0.29
+2023-06-01,Anti-malarial drugs,Item,104.5,-2.34
+2023-07-01,Anti-malarial drugs,Item,107.4,0.37
+2023-08-01,Anti-malarial drugs,Item,107.8,0.75
+2023-09-01,Anti-malarial drugs,Item,107.7,0.65
+2023-10-01,Anti-malarial drugs,Item,107.7,0.65
+2023-11-01,Anti-malarial drugs,Item,107.8,0.75
+2023-12-01,Anti-malarial drugs,Item,107.8,0.75
+2024-01-01,Anti-malarial drugs,Item,107.6,0.94
+2024-02-01,Anti-malarial drugs,Item,107.6,0.94
+2024-03-01,Anti-malarial drugs,Item,107.6,0.94
+2024-04-01,Anti-malarial drugs,Item,107.6,0.0
+2024-05-01,Anti-malarial drugs,Item,107.4,2.78
+2024-06-01,Anti-malarial drugs,Item,107.4,2.78
+2024-07-01,Anti-malarial drugs,Item,107.4,0.0
+2024-08-01,Anti-malarial drugs,Item,107.4,-0.37
+2024-09-01,Anti-malarial drugs,Item,107.4,-0.28
+2024-10-01,Anti-malarial drugs,Item,106.4,-1.21
+2024-11-01,Anti-malarial drugs,Item,106.4,-1.3
+2024-12-01,Anti-malarial drugs,Item,106.4,-1.3
+2025-01-01,Anti-malarial drugs,Item,106.4,-1.12
+2025-02-01,Anti-malarial drugs,Item,106.4,-1.12
+2025-03-01,Anti-malarial drugs,Item,106.4,-1.12
+2025-04-01,Anti-malarial drugs,Item,107.0,-0.56
+2025-05-01,Anti-malarial drugs,Item,107.0,-0.37
+2025-06-01,Anti-malarial drugs,Item,107.1,-0.28
+2025-07-01,Anti-malarial drugs,Item,107.1,-0.28
+2025-08-01,Anti-malarial drugs,Item,107.1,-0.28
+2025-09-01,Anti-malarial drugs,Item,108.1,0.65
+2025-10-01,Anti-malarial drugs,Item,108.5,1.97
+2025-11-01,Anti-malarial drugs,Item,108.5,1.97
+2025-12-01,Anti-malarial drugs,Item,108.5,1.97
+2026-01-01,Anti-malarial drugs,Item,108.5,1.97
+2026-02-01,Anti-malarial drugs,Item,108.5,1.97
+2026-03-01,Anti-malarial drugs,Item,108.5,1.97
+2026-04-01,Anti-malarial drugs,Item,108.5,1.4
+2019-01-01,Anti-retroviral drugs for hiv treatment,Item,102.4,
+2019-02-01,Anti-retroviral drugs for hiv treatment,Item,104.4,
+2019-03-01,Anti-retroviral drugs for hiv treatment,Item,100.3,
+2019-04-01,Anti-retroviral drugs for hiv treatment,Item,104.2,
+2019-05-01,Anti-retroviral drugs for hiv treatment,Item,108.6,
+2019-06-01,Anti-retroviral drugs for hiv treatment,Item,104.4,
+2019-07-01,Anti-retroviral drugs for hiv treatment,Item,106.3,
+2019-08-01,Anti-retroviral drugs for hiv treatment,Item,104.0,
+2019-09-01,Anti-retroviral drugs for hiv treatment,Item,100.5,
+2019-10-01,Anti-retroviral drugs for hiv treatment,Item,98.9,
+2019-11-01,Anti-retroviral drugs for hiv treatment,Item,98.1,
+2019-12-01,Anti-retroviral drugs for hiv treatment,Item,100.4,
+2020-01-01,Anti-retroviral drugs for hiv treatment,Item,103.5,1.07
+2020-02-01,Anti-retroviral drugs for hiv treatment,Item,101.7,-2.59
+2020-03-01,Anti-retroviral drugs for hiv treatment,Item,103.6,3.29
+2020-04-01,Anti-retroviral drugs for hiv treatment,Item,100.4,-3.65
+2020-05-01,Anti-retroviral drugs for hiv treatment,Item,100.9,-7.09
+2020-06-01,Anti-retroviral drugs for hiv treatment,Item,112.5,7.76
+2020-07-01,Anti-retroviral drugs for hiv treatment,Item,107.1,0.75
+2020-08-01,Anti-retroviral drugs for hiv treatment,Item,102.2,-1.73
+2020-09-01,Anti-retroviral drugs for hiv treatment,Item,114.3,13.73
+2020-10-01,Anti-retroviral drugs for hiv treatment,Item,99.9,1.01
+2020-11-01,Anti-retroviral drugs for hiv treatment,Item,103.9,5.91
+2020-12-01,Anti-retroviral drugs for hiv treatment,Item,106.6,6.18
+2021-01-01,Anti-retroviral drugs for hiv treatment,Item,107.2,3.57
+2021-02-01,Anti-retroviral drugs for hiv treatment,Item,107.7,5.9
+2021-03-01,Anti-retroviral drugs for hiv treatment,Item,110.1,6.27
+2021-04-01,Anti-retroviral drugs for hiv treatment,Item,108.7,8.27
+2021-05-01,Anti-retroviral drugs for hiv treatment,Item,112.4,11.4
+2021-06-01,Anti-retroviral drugs for hiv treatment,Item,107.6,-4.36
+2021-07-01,Anti-retroviral drugs for hiv treatment,Item,104.5,-2.43
+2021-08-01,Anti-retroviral drugs for hiv treatment,Item,105.8,3.52
+2021-09-01,Anti-retroviral drugs for hiv treatment,Item,100.3,-12.25
+2021-10-01,Anti-retroviral drugs for hiv treatment,Item,105.7,5.81
+2021-11-01,Anti-retroviral drugs for hiv treatment,Item,103.9,0.0
+2021-12-01,Anti-retroviral drugs for hiv treatment,Item,104.9,-1.59
+2022-01-01,Anti-retroviral drugs for hiv treatment,Item,108.8,1.49
+2022-02-01,Anti-retroviral drugs for hiv treatment,Item,112.0,3.99
+2022-03-01,Anti-retroviral drugs for hiv treatment,Item,102.3,-7.08
+2022-04-01,Anti-retroviral drugs for hiv treatment,Item,103.2,-5.06
+2022-05-01,Anti-retroviral drugs for hiv treatment,Item,98.9,-12.01
+2022-06-01,Anti-retroviral drugs for hiv treatment,Item,102.7,-4.55
+2022-07-01,Anti-retroviral drugs for hiv treatment,Item,96.9,-7.27
+2022-08-01,Anti-retroviral drugs for hiv treatment,Item,102.2,-3.4
+2022-09-01,Anti-retroviral drugs for hiv treatment,Item,110.7,10.37
+2022-10-01,Anti-retroviral drugs for hiv treatment,Item,110.4,4.45
+2022-11-01,Anti-retroviral drugs for hiv treatment,Item,111.1,6.93
+2022-12-01,Anti-retroviral drugs for hiv treatment,Item,106.1,1.14
+2023-01-01,Anti-retroviral drugs for hiv treatment,Item,100.7,-7.44
+2023-02-01,Anti-retroviral drugs for hiv treatment,Item,101.8,-9.11
+2023-03-01,Anti-retroviral drugs for hiv treatment,Item,107.6,5.18
+2023-04-01,Anti-retroviral drugs for hiv treatment,Item,110.5,7.07
+2023-05-01,Anti-retroviral drugs for hiv treatment,Item,107.2,8.39
+2023-06-01,Anti-retroviral drugs for hiv treatment,Item,113.3,10.32
+2023-07-01,Anti-retroviral drugs for hiv treatment,Item,107.3,10.73
+2023-08-01,Anti-retroviral drugs for hiv treatment,Item,110.8,8.41
+2023-09-01,Anti-retroviral drugs for hiv treatment,Item,110.3,-0.36
+2023-10-01,Anti-retroviral drugs for hiv treatment,Item,114.2,3.44
+2023-11-01,Anti-retroviral drugs for hiv treatment,Item,111.7,0.54
+2023-12-01,Anti-retroviral drugs for hiv treatment,Item,111.0,4.62
+2024-01-01,Anti-retroviral drugs for hiv treatment,Item,112.1,11.32
+2024-02-01,Anti-retroviral drugs for hiv treatment,Item,113.6,11.59
+2024-03-01,Anti-retroviral drugs for hiv treatment,Item,108.4,0.74
+2024-04-01,Anti-retroviral drugs for hiv treatment,Item,112.2,1.54
+2024-05-01,Anti-retroviral drugs for hiv treatment,Item,109.7,2.33
+2024-06-01,Anti-retroviral drugs for hiv treatment,Item,112.8,-0.44
+2024-07-01,Anti-retroviral drugs for hiv treatment,Item,114.7,6.9
+2024-08-01,Anti-retroviral drugs for hiv treatment,Item,112.2,1.26
+2024-09-01,Anti-retroviral drugs for hiv treatment,Item,113.7,3.08
+2024-10-01,Anti-retroviral drugs for hiv treatment,Item,114.1,-0.09
+2024-11-01,Anti-retroviral drugs for hiv treatment,Item,111.6,-0.09
+2024-12-01,Anti-retroviral drugs for hiv treatment,Item,107.5,-3.15
+2025-01-01,Anti-retroviral drugs for hiv treatment,Item,113.1,0.89
+2025-02-01,Anti-retroviral drugs for hiv treatment,Item,107.2,-5.63
+2025-03-01,Anti-retroviral drugs for hiv treatment,Item,105.9,-2.31
+2025-04-01,Anti-retroviral drugs for hiv treatment,Item,110.3,-1.69
+2025-05-01,Anti-retroviral drugs for hiv treatment,Item,108.6,-1.0
+2025-06-01,Anti-retroviral drugs for hiv treatment,Item,108.6,-3.72
+2025-07-01,Anti-retroviral drugs for hiv treatment,Item,108.2,-5.67
+2025-08-01,Anti-retroviral drugs for hiv treatment,Item,109.5,-2.41
+2025-09-01,Anti-retroviral drugs for hiv treatment,Item,105.4,-7.3
+2025-10-01,Anti-retroviral drugs for hiv treatment,Item,107.8,-5.52
+2025-11-01,Anti-retroviral drugs for hiv treatment,Item,107.2,-3.94
+2025-12-01,Anti-retroviral drugs for hiv treatment,Item,108.5,0.93
+2026-01-01,Anti-retroviral drugs for hiv treatment,Item,109.5,-3.18
+2026-02-01,Anti-retroviral drugs for hiv treatment,Item,105.8,-1.31
+2026-03-01,Anti-retroviral drugs for hiv treatment,Item,109.5,3.4
+2026-04-01,Anti-retroviral drugs for hiv treatment,Item,109.5,-0.73
+2019-01-01,Antibiotics & preparations thereof,Item,119.8,
+2019-02-01,Antibiotics & preparations thereof,Item,120.3,
+2019-03-01,Antibiotics & preparations thereof,Item,117.4,
+2019-04-01,Antibiotics & preparations thereof,Item,118.1,
+2019-05-01,Antibiotics & preparations thereof,Item,118.1,
+2019-06-01,Antibiotics & preparations thereof,Item,117.8,
+2019-07-01,Antibiotics & preparations thereof,Item,117.6,
+2019-08-01,Antibiotics & preparations thereof,Item,118.4,
+2019-09-01,Antibiotics & preparations thereof,Item,117.1,
+2019-10-01,Antibiotics & preparations thereof,Item,117.3,
+2019-11-01,Antibiotics & preparations thereof,Item,121.2,
+2019-12-01,Antibiotics & preparations thereof,Item,120.5,
+2020-01-01,Antibiotics & preparations thereof,Item,121.3,1.25
+2020-02-01,Antibiotics & preparations thereof,Item,121.5,1.0
+2020-03-01,Antibiotics & preparations thereof,Item,122.4,4.26
+2020-04-01,Antibiotics & preparations thereof,Item,121.5,2.88
+2020-05-01,Antibiotics & preparations thereof,Item,122.0,3.3
+2020-06-01,Antibiotics & preparations thereof,Item,122.7,4.16
+2020-07-01,Antibiotics & preparations thereof,Item,121.5,3.32
+2020-08-01,Antibiotics & preparations thereof,Item,122.7,3.63
+2020-09-01,Antibiotics & preparations thereof,Item,125.1,6.83
+2020-10-01,Antibiotics & preparations thereof,Item,125.4,6.91
+2020-11-01,Antibiotics & preparations thereof,Item,129.3,6.68
+2020-12-01,Antibiotics & preparations thereof,Item,126.5,4.98
+2021-01-01,Antibiotics & preparations thereof,Item,127.5,5.11
+2021-02-01,Antibiotics & preparations thereof,Item,128.3,5.6
+2021-03-01,Antibiotics & preparations thereof,Item,127.1,3.84
+2021-04-01,Antibiotics & preparations thereof,Item,129.4,6.5
+2021-05-01,Antibiotics & preparations thereof,Item,131.7,7.95
+2021-06-01,Antibiotics & preparations thereof,Item,131.0,6.76
+2021-07-01,Antibiotics & preparations thereof,Item,130.7,7.57
+2021-08-01,Antibiotics & preparations thereof,Item,131.5,7.17
+2021-09-01,Antibiotics & preparations thereof,Item,130.8,4.56
+2021-10-01,Antibiotics & preparations thereof,Item,131.1,4.55
+2021-11-01,Antibiotics & preparations thereof,Item,131.7,1.86
+2021-12-01,Antibiotics & preparations thereof,Item,134.7,6.48
+2022-01-01,Antibiotics & preparations thereof,Item,140.0,9.8
+2022-02-01,Antibiotics & preparations thereof,Item,139.8,8.96
+2022-03-01,Antibiotics & preparations thereof,Item,133.7,5.19
+2022-04-01,Antibiotics & preparations thereof,Item,136.3,5.33
+2022-05-01,Antibiotics & preparations thereof,Item,135.2,2.66
+2022-06-01,Antibiotics & preparations thereof,Item,136.2,3.97
+2022-07-01,Antibiotics & preparations thereof,Item,139.3,6.58
+2022-08-01,Antibiotics & preparations thereof,Item,137.8,4.79
+2022-09-01,Antibiotics & preparations thereof,Item,135.5,3.59
+2022-10-01,Antibiotics & preparations thereof,Item,137.9,5.19
+2022-11-01,Antibiotics & preparations thereof,Item,138.2,4.94
+2022-12-01,Antibiotics & preparations thereof,Item,140.0,3.93
+2023-01-01,Antibiotics & preparations thereof,Item,142.1,1.5
+2023-02-01,Antibiotics & preparations thereof,Item,141.2,1.0
+2023-03-01,Antibiotics & preparations thereof,Item,141.2,5.61
+2023-04-01,Antibiotics & preparations thereof,Item,140.4,3.01
+2023-05-01,Antibiotics & preparations thereof,Item,140.1,3.62
+2023-06-01,Antibiotics & preparations thereof,Item,141.1,3.6
+2023-07-01,Antibiotics & preparations thereof,Item,140.9,1.15
+2023-08-01,Antibiotics & preparations thereof,Item,143.5,4.14
+2023-09-01,Antibiotics & preparations thereof,Item,143.1,5.61
+2023-10-01,Antibiotics & preparations thereof,Item,144.2,4.57
+2023-11-01,Antibiotics & preparations thereof,Item,144.0,4.2
+2023-12-01,Antibiotics & preparations thereof,Item,146.5,4.64
+2024-01-01,Antibiotics & preparations thereof,Item,146.2,2.89
+2024-02-01,Antibiotics & preparations thereof,Item,146.0,3.4
+2024-03-01,Antibiotics & preparations thereof,Item,147.6,4.53
+2024-04-01,Antibiotics & preparations thereof,Item,146.0,3.99
+2024-05-01,Antibiotics & preparations thereof,Item,145.0,3.5
+2024-06-01,Antibiotics & preparations thereof,Item,145.2,2.91
+2024-07-01,Antibiotics & preparations thereof,Item,146.1,3.69
+2024-08-01,Antibiotics & preparations thereof,Item,145.2,1.18
+2024-09-01,Antibiotics & preparations thereof,Item,144.8,1.19
+2024-10-01,Antibiotics & preparations thereof,Item,143.4,-0.55
+2024-11-01,Antibiotics & preparations thereof,Item,143.0,-0.69
+2024-12-01,Antibiotics & preparations thereof,Item,144.3,-1.5
+2025-01-01,Antibiotics & preparations thereof,Item,146.5,0.21
+2025-02-01,Antibiotics & preparations thereof,Item,146.2,0.14
+2025-03-01,Antibiotics & preparations thereof,Item,145.4,-1.49
+2025-04-01,Antibiotics & preparations thereof,Item,147.2,0.82
+2025-05-01,Antibiotics & preparations thereof,Item,146.0,0.69
+2025-06-01,Antibiotics & preparations thereof,Item,145.6,0.28
+2025-07-01,Antibiotics & preparations thereof,Item,144.8,-0.89
+2025-08-01,Antibiotics & preparations thereof,Item,144.5,-0.48
+2025-09-01,Antibiotics & preparations thereof,Item,143.6,-0.83
+2025-10-01,Antibiotics & preparations thereof,Item,143.9,0.35
+2025-11-01,Antibiotics & preparations thereof,Item,146.2,2.24
+2025-12-01,Antibiotics & preparations thereof,Item,146.8,1.73
+2026-01-01,Antibiotics & preparations thereof,Item,146.5,0.0
+2026-02-01,Antibiotics & preparations thereof,Item,146.3,0.07
+2026-03-01,Antibiotics & preparations thereof,Item,147.0,1.1
+2026-04-01,Antibiotics & preparations thereof,Item,148.9,1.15
+2019-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,120.1,
+2019-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,120.1,
+2019-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,120.1,
+2019-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.2,
+2019-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.8,
+2019-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,118.8,
+2019-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,121.3,
+2020-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,128.6,7.08
+2020-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,121.3,1.0
+2020-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,121.3,2.62
+2020-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,128.6,8.8
+2020-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,128.6,8.8
+2020-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,128.6,7.08
+2020-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,128.6,8.8
+2020-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,14.97
+2020-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,132.4,12.01
+2020-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,14.39
+2020-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,132.4,11.45
+2020-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,12.04
+2021-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,5.68
+2021-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,12.04
+2021-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.9,12.04
+2021-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,147.6,14.77
+2021-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,10.03
+2021-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,10.03
+2021-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,10.03
+2021-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,4.12
+2021-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,6.87
+2021-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,147.5,8.54
+2021-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,147.5,11.4
+2021-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,144.2,6.11
+2022-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,146.4,7.73
+2022-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,154.7,13.83
+2022-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,146.4,7.73
+2022-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,-1.42
+2022-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,2.83
+2022-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,2.83
+2022-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,2.83
+2022-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,2.83
+2022-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.0,2.47
+2022-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,-1.36
+2022-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,145.5,-1.36
+2022-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.4,-1.94
+2023-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.5,-4.03
+2023-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.5,-9.18
+2023-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,144.6,-1.23
+2023-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.5,-3.44
+2023-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,143.0,-1.72
+2023-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,144.0,-1.03
+2023-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,138.9,-4.54
+2023-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,143.0,-1.72
+2023-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,143.0,-1.38
+2023-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,139.4,-4.19
+2023-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,139.1,-4.4
+2023-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,139.1,-1.63
+2024-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,0.71
+2024-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,0.71
+2024-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,-2.14
+2024-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,0.71
+2024-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,-1.05
+2024-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,141.5,-1.74
+2024-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,142.0,2.23
+2024-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,142.0,-0.7
+2024-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,142.0,-0.7
+2024-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,142.0,1.87
+2024-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,1.15
+2024-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,1.15
+2025-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-05-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-06-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.57
+2025-07-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.92
+2025-08-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.92
+2025-09-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.92
+2025-10-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,-0.92
+2025-11-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,0.0
+2025-12-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,140.7,0.0
+2026-01-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.2,-3.91
+2026-02-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.2,-3.91
+2026-03-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.2,-3.91
+2026-04-01,Antidiabetic drug excluding insulin (i.e. tolbutam),Item,135.2,-3.91
+2019-01-01,Antioxidants,Item,140.9,
+2019-02-01,Antioxidants,Item,142.1,
+2019-03-01,Antioxidants,Item,140.0,
+2019-04-01,Antioxidants,Item,140.5,
+2019-05-01,Antioxidants,Item,139.9,
+2019-06-01,Antioxidants,Item,140.0,
+2019-07-01,Antioxidants,Item,140.6,
+2019-08-01,Antioxidants,Item,138.5,
+2019-09-01,Antioxidants,Item,138.2,
+2019-10-01,Antioxidants,Item,137.6,
+2019-11-01,Antioxidants,Item,138.8,
+2019-12-01,Antioxidants,Item,136.2,
+2020-01-01,Antioxidants,Item,137.6,-2.34
+2020-02-01,Antioxidants,Item,137.9,-2.96
+2020-03-01,Antioxidants,Item,140.0,0.0
+2020-04-01,Antioxidants,Item,147.9,5.27
+2020-05-01,Antioxidants,Item,142.6,1.93
+2020-06-01,Antioxidants,Item,139.3,-0.5
+2020-07-01,Antioxidants,Item,140.6,0.0
+2020-08-01,Antioxidants,Item,138.2,-0.22
+2020-09-01,Antioxidants,Item,137.0,-0.87
+2020-10-01,Antioxidants,Item,139.0,1.02
+2020-11-01,Antioxidants,Item,138.7,-0.07
+2020-12-01,Antioxidants,Item,138.3,1.54
+2021-01-01,Antioxidants,Item,141.9,3.12
+2021-02-01,Antioxidants,Item,141.5,2.61
+2021-03-01,Antioxidants,Item,140.9,0.64
+2021-04-01,Antioxidants,Item,158.8,7.37
+2021-05-01,Antioxidants,Item,157.8,10.66
+2021-06-01,Antioxidants,Item,158.9,14.07
+2021-07-01,Antioxidants,Item,158.5,12.73
+2021-08-01,Antioxidants,Item,161.5,16.86
+2021-09-01,Antioxidants,Item,159.0,16.06
+2021-10-01,Antioxidants,Item,164.1,18.06
+2021-11-01,Antioxidants,Item,162.6,17.23
+2021-12-01,Antioxidants,Item,161.2,16.56
+2022-01-01,Antioxidants,Item,163.9,15.5
+2022-02-01,Antioxidants,Item,165.6,17.03
+2022-03-01,Antioxidants,Item,166.4,18.1
+2022-04-01,Antioxidants,Item,175.5,10.52
+2022-05-01,Antioxidants,Item,173.0,9.63
+2022-06-01,Antioxidants,Item,171.5,7.93
+2022-07-01,Antioxidants,Item,175.0,10.41
+2022-08-01,Antioxidants,Item,178.1,10.28
+2022-09-01,Antioxidants,Item,175.0,10.06
+2022-10-01,Antioxidants,Item,175.4,6.89
+2022-11-01,Antioxidants,Item,169.7,4.37
+2022-12-01,Antioxidants,Item,173.5,7.63
+2023-01-01,Antioxidants,Item,171.7,4.76
+2023-02-01,Antioxidants,Item,175.6,6.04
+2023-03-01,Antioxidants,Item,170.5,2.46
+2023-04-01,Antioxidants,Item,174.5,-0.57
+2023-05-01,Antioxidants,Item,174.9,1.1
+2023-06-01,Antioxidants,Item,181.4,5.77
+2023-07-01,Antioxidants,Item,162.7,-7.03
+2023-08-01,Antioxidants,Item,164.0,-7.92
+2023-09-01,Antioxidants,Item,164.2,-6.17
+2023-10-01,Antioxidants,Item,168.5,-3.93
+2023-11-01,Antioxidants,Item,164.8,-2.89
+2023-12-01,Antioxidants,Item,162.4,-6.4
+2024-01-01,Antioxidants,Item,164.0,-4.48
+2024-02-01,Antioxidants,Item,161.7,-7.92
+2024-03-01,Antioxidants,Item,163.9,-3.87
+2024-04-01,Antioxidants,Item,165.4,-5.21
+2024-05-01,Antioxidants,Item,165.3,-5.49
+2024-06-01,Antioxidants,Item,165.7,-8.65
+2024-07-01,Antioxidants,Item,166.2,2.15
+2024-08-01,Antioxidants,Item,166.2,1.34
+2024-09-01,Antioxidants,Item,166.5,1.4
+2024-10-01,Antioxidants,Item,166.6,-1.13
+2024-11-01,Antioxidants,Item,166.6,1.09
+2024-12-01,Antioxidants,Item,166.6,2.59
+2025-01-01,Antioxidants,Item,167.2,1.95
+2025-02-01,Antioxidants,Item,167.2,3.4
+2025-03-01,Antioxidants,Item,167.5,2.2
+2025-04-01,Antioxidants,Item,168.2,1.69
+2025-05-01,Antioxidants,Item,168.3,1.81
+2025-06-01,Antioxidants,Item,169.5,2.29
+2025-07-01,Antioxidants,Item,169.6,2.05
+2025-08-01,Antioxidants,Item,169.5,1.99
+2025-09-01,Antioxidants,Item,171.5,3.0
+2025-10-01,Antioxidants,Item,171.4,2.88
+2025-11-01,Antioxidants,Item,171.6,3.0
+2025-12-01,Antioxidants,Item,171.4,2.88
+2026-01-01,Antioxidants,Item,171.2,2.39
+2026-02-01,Antioxidants,Item,170.9,2.21
+2026-03-01,Antioxidants,Item,170.9,2.03
+2026-04-01,Antioxidants,Item,171.2,1.78
+2019-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,140.1,
+2019-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,141.0,
+2019-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,139.1,
+2019-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,136.3,
+2019-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,134.7,
+2019-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,133.4,
+2019-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,130.0,
+2019-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,130.6,
+2019-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,128.4,
+2019-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,123.6,
+2019-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,123.1,
+2019-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,118.6,
+2020-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,119.1,-14.99
+2020-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,119.6,-15.18
+2020-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,120.1,-13.66
+2020-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,131.7,-3.37
+2020-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,131.2,-2.6
+2020-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,133.3,-0.07
+2020-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,132.6,2.0
+2020-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,127.6,-2.3
+2020-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,129.6,0.93
+2020-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,132.4,7.12
+2020-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,137.0,11.29
+2020-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,139.2,17.37
+2021-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,138.2,16.04
+2021-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,140.5,17.47
+2021-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,157.1,30.81
+2021-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,171.2,29.99
+2021-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,184.8,40.85
+2021-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,194.5,45.91
+2021-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,205.6,55.05
+2021-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,196.4,53.92
+2021-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,202.1,55.94
+2021-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,198.8,50.15
+2021-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,226.7,65.47
+2021-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,232.3,66.88
+2022-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,215.7,56.08
+2022-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,236.6,68.4
+2022-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,229.8,46.28
+2022-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,230.1,34.4
+2022-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,236.3,27.87
+2022-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,240.7,23.75
+2022-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,237.5,15.52
+2022-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,240.7,22.56
+2022-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,223.1,10.39
+2022-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,216.9,9.1
+2022-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,212.9,-6.09
+2022-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,207.1,-10.85
+2023-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,207.3,-3.89
+2023-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,205.5,-13.14
+2023-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,204.5,-11.01
+2023-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,205.7,-10.6
+2023-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,198.7,-15.91
+2023-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,197.6,-17.91
+2023-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,193.9,-18.36
+2023-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,190.6,-20.81
+2023-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,185.8,-16.72
+2023-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,178.9,-17.52
+2023-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,181.1,-14.94
+2023-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,173.6,-16.18
+2024-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,172.3,-16.88
+2024-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,172.2,-16.2
+2024-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,171.8,-15.99
+2024-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,171.4,-16.67
+2024-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,170.4,-14.24
+2024-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,168.7,-14.63
+2024-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,173.7,-10.42
+2024-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,172.1,-9.71
+2024-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,165.0,-11.19
+2024-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,169.7,-5.14
+2024-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,166.4,-8.12
+2024-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,169.3,-2.48
+2025-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,161.7,-6.15
+2025-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,160.7,-6.68
+2025-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,165.3,-3.78
+2025-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,160.0,-6.65
+2025-05-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,163.6,-3.99
+2025-06-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,166.0,-1.6
+2025-07-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,155.9,-10.25
+2025-08-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,163.7,-4.88
+2025-09-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,165.1,0.06
+2025-10-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,163.6,-3.59
+2025-11-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,161.1,-3.19
+2025-12-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,160.2,-5.38
+2026-01-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,160.8,-0.56
+2026-02-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,159.9,-0.5
+2026-03-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,160.4,-2.96
+2026-04-01,"Antipyretic, analgesic, anti-inflammatory formulations",Item,159.9,-0.06
+2019-01-01,Antiseptics and disinfectants,Item,105.4,
+2019-02-01,Antiseptics and disinfectants,Item,105.4,
+2019-03-01,Antiseptics and disinfectants,Item,105.4,
+2019-04-01,Antiseptics and disinfectants,Item,106.8,
+2019-05-01,Antiseptics and disinfectants,Item,106.8,
+2019-06-01,Antiseptics and disinfectants,Item,106.8,
+2019-07-01,Antiseptics and disinfectants,Item,106.8,
+2019-08-01,Antiseptics and disinfectants,Item,106.8,
+2019-09-01,Antiseptics and disinfectants,Item,107.7,
+2019-10-01,Antiseptics and disinfectants,Item,107.5,
+2019-11-01,Antiseptics and disinfectants,Item,107.5,
+2019-12-01,Antiseptics and disinfectants,Item,107.5,
+2020-01-01,Antiseptics and disinfectants,Item,107.5,1.99
+2020-02-01,Antiseptics and disinfectants,Item,107.5,1.99
+2020-03-01,Antiseptics and disinfectants,Item,107.5,1.99
+2020-04-01,Antiseptics and disinfectants,Item,107.5,0.66
+2020-05-01,Antiseptics and disinfectants,Item,100.8,-5.62
+2020-06-01,Antiseptics and disinfectants,Item,100.8,-5.62
+2020-07-01,Antiseptics and disinfectants,Item,104.5,-2.15
+2020-08-01,Antiseptics and disinfectants,Item,104.5,-2.15
+2020-09-01,Antiseptics and disinfectants,Item,105.7,-1.86
+2020-10-01,Antiseptics and disinfectants,Item,105.7,-1.67
+2020-11-01,Antiseptics and disinfectants,Item,105.4,-1.95
+2020-12-01,Antiseptics and disinfectants,Item,106.8,-0.65
+2021-01-01,Antiseptics and disinfectants,Item,106.5,-0.93
+2021-02-01,Antiseptics and disinfectants,Item,106.8,-0.65
+2021-03-01,Antiseptics and disinfectants,Item,106.8,-0.65
+2021-04-01,Antiseptics and disinfectants,Item,107.3,-0.19
+2021-05-01,Antiseptics and disinfectants,Item,107.9,7.04
+2021-06-01,Antiseptics and disinfectants,Item,107.3,6.45
+2021-07-01,Antiseptics and disinfectants,Item,106.9,2.3
+2021-08-01,Antiseptics and disinfectants,Item,106.9,2.3
+2021-09-01,Antiseptics and disinfectants,Item,106.9,1.14
+2021-10-01,Antiseptics and disinfectants,Item,106.9,1.14
+2021-11-01,Antiseptics and disinfectants,Item,106.9,1.42
+2021-12-01,Antiseptics and disinfectants,Item,106.9,0.09
+2022-01-01,Antiseptics and disinfectants,Item,108.2,1.6
+2022-02-01,Antiseptics and disinfectants,Item,108.2,1.31
+2022-03-01,Antiseptics and disinfectants,Item,112.1,4.96
+2022-04-01,Antiseptics and disinfectants,Item,112.1,4.47
+2022-05-01,Antiseptics and disinfectants,Item,112.1,3.89
+2022-06-01,Antiseptics and disinfectants,Item,112.1,4.47
+2022-07-01,Antiseptics and disinfectants,Item,112.1,4.86
+2022-08-01,Antiseptics and disinfectants,Item,110.9,3.74
+2022-09-01,Antiseptics and disinfectants,Item,110.9,3.74
+2022-10-01,Antiseptics and disinfectants,Item,110.9,3.74
+2022-11-01,Antiseptics and disinfectants,Item,110.9,3.74
+2022-12-01,Antiseptics and disinfectants,Item,123.7,15.72
+2023-01-01,Antiseptics and disinfectants,Item,123.7,14.33
+2023-02-01,Antiseptics and disinfectants,Item,123.7,14.33
+2023-03-01,Antiseptics and disinfectants,Item,123.7,10.35
+2023-04-01,Antiseptics and disinfectants,Item,124.6,11.15
+2023-05-01,Antiseptics and disinfectants,Item,124.6,11.15
+2023-06-01,Antiseptics and disinfectants,Item,126.8,13.11
+2023-07-01,Antiseptics and disinfectants,Item,131.9,17.66
+2023-08-01,Antiseptics and disinfectants,Item,131.9,18.94
+2023-09-01,Antiseptics and disinfectants,Item,131.9,18.94
+2023-10-01,Antiseptics and disinfectants,Item,131.9,18.94
+2023-11-01,Antiseptics and disinfectants,Item,133.3,20.2
+2023-12-01,Antiseptics and disinfectants,Item,133.1,7.6
+2024-01-01,Antiseptics and disinfectants,Item,133.1,7.6
+2024-02-01,Antiseptics and disinfectants,Item,133.1,7.6
+2024-03-01,Antiseptics and disinfectants,Item,133.1,7.6
+2024-04-01,Antiseptics and disinfectants,Item,133.1,6.82
+2024-05-01,Antiseptics and disinfectants,Item,134.0,7.54
+2024-06-01,Antiseptics and disinfectants,Item,134.9,6.39
+2024-07-01,Antiseptics and disinfectants,Item,134.9,2.27
+2024-08-01,Antiseptics and disinfectants,Item,134.9,2.27
+2024-09-01,Antiseptics and disinfectants,Item,134.9,2.27
+2024-10-01,Antiseptics and disinfectants,Item,134.9,2.27
+2024-11-01,Antiseptics and disinfectants,Item,134.9,1.2
+2024-12-01,Antiseptics and disinfectants,Item,134.9,1.35
+2025-01-01,Antiseptics and disinfectants,Item,134.9,1.35
+2025-02-01,Antiseptics and disinfectants,Item,134.9,1.35
+2025-03-01,Antiseptics and disinfectants,Item,134.9,1.35
+2025-04-01,Antiseptics and disinfectants,Item,136.7,2.7
+2025-05-01,Antiseptics and disinfectants,Item,136.7,2.01
+2025-06-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-07-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-08-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-09-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-10-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-11-01,Antiseptics and disinfectants,Item,136.7,1.33
+2025-12-01,Antiseptics and disinfectants,Item,136.7,1.33
+2026-01-01,Antiseptics and disinfectants,Item,138.0,2.3
+2026-02-01,Antiseptics and disinfectants,Item,138.0,2.3
+2026-03-01,Antiseptics and disinfectants,Item,133.3,-1.19
+2026-04-01,Antiseptics and disinfectants,Item,134.4,-1.68
+2019-01-01,Api & formulations of vitamins,Item,130.7,
+2019-02-01,Api & formulations of vitamins,Item,130.3,
+2019-03-01,Api & formulations of vitamins,Item,132.2,
+2019-04-01,Api & formulations of vitamins,Item,128.2,
+2019-05-01,Api & formulations of vitamins,Item,128.7,
+2019-06-01,Api & formulations of vitamins,Item,128.7,
+2019-07-01,Api & formulations of vitamins,Item,127.8,
+2019-08-01,Api & formulations of vitamins,Item,130.9,
+2019-09-01,Api & formulations of vitamins,Item,129.6,
+2019-10-01,Api & formulations of vitamins,Item,132.5,
+2019-11-01,Api & formulations of vitamins,Item,133.1,
+2019-12-01,Api & formulations of vitamins,Item,133.9,
+2020-01-01,Api & formulations of vitamins,Item,139.5,6.73
+2020-02-01,Api & formulations of vitamins,Item,142.9,9.67
+2020-03-01,Api & formulations of vitamins,Item,138.0,4.39
+2020-04-01,Api & formulations of vitamins,Item,138.1,7.72
+2020-05-01,Api & formulations of vitamins,Item,133.1,3.42
+2020-06-01,Api & formulations of vitamins,Item,134.5,4.51
+2020-07-01,Api & formulations of vitamins,Item,135.2,5.79
+2020-08-01,Api & formulations of vitamins,Item,135.5,3.51
+2020-09-01,Api & formulations of vitamins,Item,131.0,1.08
+2020-10-01,Api & formulations of vitamins,Item,135.8,2.49
+2020-11-01,Api & formulations of vitamins,Item,138.2,3.83
+2020-12-01,Api & formulations of vitamins,Item,137.6,2.76
+2021-01-01,Api & formulations of vitamins,Item,135.7,-2.72
+2021-02-01,Api & formulations of vitamins,Item,139.4,-2.45
+2021-03-01,Api & formulations of vitamins,Item,140.8,2.03
+2021-04-01,Api & formulations of vitamins,Item,140.8,1.96
+2021-05-01,Api & formulations of vitamins,Item,145.0,8.94
+2021-06-01,Api & formulations of vitamins,Item,139.6,3.79
+2021-07-01,Api & formulations of vitamins,Item,136.0,0.59
+2021-08-01,Api & formulations of vitamins,Item,136.0,0.37
+2021-09-01,Api & formulations of vitamins,Item,138.4,5.65
+2021-10-01,Api & formulations of vitamins,Item,140.8,3.68
+2021-11-01,Api & formulations of vitamins,Item,141.0,2.03
+2021-12-01,Api & formulations of vitamins,Item,141.8,3.05
+2022-01-01,Api & formulations of vitamins,Item,140.6,3.61
+2022-02-01,Api & formulations of vitamins,Item,140.3,0.65
+2022-03-01,Api & formulations of vitamins,Item,143.5,1.92
+2022-04-01,Api & formulations of vitamins,Item,145.2,3.12
+2022-05-01,Api & formulations of vitamins,Item,143.8,-0.83
+2022-06-01,Api & formulations of vitamins,Item,144.7,3.65
+2022-07-01,Api & formulations of vitamins,Item,143.1,5.22
+2022-08-01,Api & formulations of vitamins,Item,145.3,6.84
+2022-09-01,Api & formulations of vitamins,Item,144.7,4.55
+2022-10-01,Api & formulations of vitamins,Item,146.3,3.91
+2022-11-01,Api & formulations of vitamins,Item,147.4,4.54
+2022-12-01,Api & formulations of vitamins,Item,148.2,4.51
+2023-01-01,Api & formulations of vitamins,Item,149.2,6.12
+2023-02-01,Api & formulations of vitamins,Item,150.5,7.27
+2023-03-01,Api & formulations of vitamins,Item,148.8,3.69
+2023-04-01,Api & formulations of vitamins,Item,150.9,3.93
+2023-05-01,Api & formulations of vitamins,Item,151.8,5.56
+2023-06-01,Api & formulations of vitamins,Item,152.1,5.11
+2023-07-01,Api & formulations of vitamins,Item,148.8,3.98
+2023-08-01,Api & formulations of vitamins,Item,147.0,1.17
+2023-09-01,Api & formulations of vitamins,Item,148.5,2.63
+2023-10-01,Api & formulations of vitamins,Item,149.4,2.12
+2023-11-01,Api & formulations of vitamins,Item,148.8,0.95
+2023-12-01,Api & formulations of vitamins,Item,150.0,1.21
+2024-01-01,Api & formulations of vitamins,Item,148.8,-0.27
+2024-02-01,Api & formulations of vitamins,Item,150.7,0.13
+2024-03-01,Api & formulations of vitamins,Item,148.3,-0.34
+2024-04-01,Api & formulations of vitamins,Item,149.3,-1.06
+2024-05-01,Api & formulations of vitamins,Item,151.7,-0.07
+2024-06-01,Api & formulations of vitamins,Item,151.7,-0.26
+2024-07-01,Api & formulations of vitamins,Item,153.2,2.96
+2024-08-01,Api & formulations of vitamins,Item,153.2,4.22
+2024-09-01,Api & formulations of vitamins,Item,152.2,2.49
+2024-10-01,Api & formulations of vitamins,Item,150.9,1.0
+2024-11-01,Api & formulations of vitamins,Item,151.2,1.61
+2024-12-01,Api & formulations of vitamins,Item,150.5,0.33
+2025-01-01,Api & formulations of vitamins,Item,152.1,2.22
+2025-02-01,Api & formulations of vitamins,Item,152.1,0.93
+2025-03-01,Api & formulations of vitamins,Item,151.5,2.16
+2025-04-01,Api & formulations of vitamins,Item,151.9,1.74
+2025-05-01,Api & formulations of vitamins,Item,154.4,1.78
+2025-06-01,Api & formulations of vitamins,Item,154.3,1.71
+2025-07-01,Api & formulations of vitamins,Item,155.6,1.57
+2025-08-01,Api & formulations of vitamins,Item,154.5,0.85
+2025-09-01,Api & formulations of vitamins,Item,154.6,1.58
+2025-10-01,Api & formulations of vitamins,Item,154.9,2.65
+2025-11-01,Api & formulations of vitamins,Item,155.1,2.58
+2025-12-01,Api & formulations of vitamins,Item,154.5,2.66
+2026-01-01,Api & formulations of vitamins,Item,153.2,0.72
+2026-02-01,Api & formulations of vitamins,Item,154.5,1.58
+2026-03-01,Api & formulations of vitamins,Item,155.6,2.71
+2026-04-01,Api & formulations of vitamins,Item,156.8,3.23
+2019-01-01,Ayurvedic medicaments,Item,141.7,
+2019-02-01,Ayurvedic medicaments,Item,143.0,
+2019-03-01,Ayurvedic medicaments,Item,143.5,
+2019-04-01,Ayurvedic medicaments,Item,143.5,
+2019-05-01,Ayurvedic medicaments,Item,144.1,
+2019-06-01,Ayurvedic medicaments,Item,146.9,
+2019-07-01,Ayurvedic medicaments,Item,147.4,
+2019-08-01,Ayurvedic medicaments,Item,147.8,
+2019-09-01,Ayurvedic medicaments,Item,148.9,
+2019-10-01,Ayurvedic medicaments,Item,148.5,
+2019-11-01,Ayurvedic medicaments,Item,148.3,
+2019-12-01,Ayurvedic medicaments,Item,147.9,
+2020-01-01,Ayurvedic medicaments,Item,148.7,4.94
+2020-02-01,Ayurvedic medicaments,Item,148.7,3.99
+2020-03-01,Ayurvedic medicaments,Item,148.4,3.41
+2020-04-01,Ayurvedic medicaments,Item,149.2,3.97
+2020-05-01,Ayurvedic medicaments,Item,150.9,4.72
+2020-06-01,Ayurvedic medicaments,Item,151.3,3.0
+2020-07-01,Ayurvedic medicaments,Item,152.4,3.39
+2020-08-01,Ayurvedic medicaments,Item,153.3,3.72
+2020-09-01,Ayurvedic medicaments,Item,153.1,2.82
+2020-10-01,Ayurvedic medicaments,Item,154.8,4.24
+2020-11-01,Ayurvedic medicaments,Item,155.4,4.79
+2020-12-01,Ayurvedic medicaments,Item,156.1,5.54
+2021-01-01,Ayurvedic medicaments,Item,155.3,4.44
+2021-02-01,Ayurvedic medicaments,Item,155.9,4.84
+2021-03-01,Ayurvedic medicaments,Item,155.3,4.65
+2021-04-01,Ayurvedic medicaments,Item,157.1,5.29
+2021-05-01,Ayurvedic medicaments,Item,156.4,3.64
+2021-06-01,Ayurvedic medicaments,Item,157.5,4.1
+2021-07-01,Ayurvedic medicaments,Item,158.6,4.07
+2021-08-01,Ayurvedic medicaments,Item,158.5,3.39
+2021-09-01,Ayurvedic medicaments,Item,159.2,3.98
+2021-10-01,Ayurvedic medicaments,Item,160.9,3.94
+2021-11-01,Ayurvedic medicaments,Item,161.5,3.93
+2021-12-01,Ayurvedic medicaments,Item,160.8,3.01
+2022-01-01,Ayurvedic medicaments,Item,161.9,4.25
+2022-02-01,Ayurvedic medicaments,Item,162.1,3.98
+2022-03-01,Ayurvedic medicaments,Item,162.5,4.64
+2022-04-01,Ayurvedic medicaments,Item,163.7,4.2
+2022-05-01,Ayurvedic medicaments,Item,163.6,4.6
+2022-06-01,Ayurvedic medicaments,Item,163.5,3.81
+2022-07-01,Ayurvedic medicaments,Item,166.4,4.92
+2022-08-01,Ayurvedic medicaments,Item,165.6,4.48
+2022-09-01,Ayurvedic medicaments,Item,165.9,4.21
+2022-10-01,Ayurvedic medicaments,Item,166.4,3.42
+2022-11-01,Ayurvedic medicaments,Item,164.1,1.61
+2022-12-01,Ayurvedic medicaments,Item,164.7,2.43
+2023-01-01,Ayurvedic medicaments,Item,164.4,1.54
+2023-02-01,Ayurvedic medicaments,Item,164.1,1.23
+2023-03-01,Ayurvedic medicaments,Item,165.3,1.72
+2023-04-01,Ayurvedic medicaments,Item,166.1,1.47
+2023-05-01,Ayurvedic medicaments,Item,166.6,1.83
+2023-06-01,Ayurvedic medicaments,Item,166.3,1.71
+2023-07-01,Ayurvedic medicaments,Item,166.9,0.3
+2023-08-01,Ayurvedic medicaments,Item,167.8,1.33
+2023-09-01,Ayurvedic medicaments,Item,168.2,1.39
+2023-10-01,Ayurvedic medicaments,Item,168.7,1.38
+2023-11-01,Ayurvedic medicaments,Item,168.9,2.93
+2023-12-01,Ayurvedic medicaments,Item,169.3,2.79
+2024-01-01,Ayurvedic medicaments,Item,170.1,3.47
+2024-02-01,Ayurvedic medicaments,Item,170.3,3.78
+2024-03-01,Ayurvedic medicaments,Item,170.1,2.9
+2024-04-01,Ayurvedic medicaments,Item,170.6,2.71
+2024-05-01,Ayurvedic medicaments,Item,172.1,3.3
+2024-06-01,Ayurvedic medicaments,Item,173.2,4.15
+2024-07-01,Ayurvedic medicaments,Item,174.1,4.31
+2024-08-01,Ayurvedic medicaments,Item,174.1,3.75
+2024-09-01,Ayurvedic medicaments,Item,173.6,3.21
+2024-10-01,Ayurvedic medicaments,Item,174.7,3.56
+2024-11-01,Ayurvedic medicaments,Item,175.6,3.97
+2024-12-01,Ayurvedic medicaments,Item,174.9,3.31
+2025-01-01,Ayurvedic medicaments,Item,175.4,3.12
+2025-02-01,Ayurvedic medicaments,Item,175.4,2.99
+2025-03-01,Ayurvedic medicaments,Item,175.6,3.23
+2025-04-01,Ayurvedic medicaments,Item,176.4,3.4
+2025-05-01,Ayurvedic medicaments,Item,177.7,3.25
+2025-06-01,Ayurvedic medicaments,Item,178.6,3.12
+2025-07-01,Ayurvedic medicaments,Item,178.7,2.64
+2025-08-01,Ayurvedic medicaments,Item,178.6,2.58
+2025-09-01,Ayurvedic medicaments,Item,179.2,3.23
+2025-10-01,Ayurvedic medicaments,Item,180.0,3.03
+2025-11-01,Ayurvedic medicaments,Item,180.2,2.62
+2025-12-01,Ayurvedic medicaments,Item,179.9,2.86
+2026-01-01,Ayurvedic medicaments,Item,180.8,3.08
+2026-02-01,Ayurvedic medicaments,Item,182.5,4.05
+2026-03-01,Ayurvedic medicaments,Item,182.4,3.87
+2026-04-01,Ayurvedic medicaments,Item,184.1,4.37
+2019-01-01,Cotton wool (medicinal),Item,126.4,
+2019-02-01,Cotton wool (medicinal),Item,125.9,
+2019-03-01,Cotton wool (medicinal),Item,125.4,
+2019-04-01,Cotton wool (medicinal),Item,122.9,
+2019-05-01,Cotton wool (medicinal),Item,122.6,
+2019-06-01,Cotton wool (medicinal),Item,122.9,
+2019-07-01,Cotton wool (medicinal),Item,123.7,
+2019-08-01,Cotton wool (medicinal),Item,125.3,
+2019-09-01,Cotton wool (medicinal),Item,125.8,
+2019-10-01,Cotton wool (medicinal),Item,127.8,
+2019-11-01,Cotton wool (medicinal),Item,128.0,
+2019-12-01,Cotton wool (medicinal),Item,129.0,
+2020-01-01,Cotton wool (medicinal),Item,128.6,1.74
+2020-02-01,Cotton wool (medicinal),Item,128.8,2.3
+2020-03-01,Cotton wool (medicinal),Item,128.8,2.71
+2020-04-01,Cotton wool (medicinal),Item,128.8,4.8
+2020-05-01,Cotton wool (medicinal),Item,130.7,6.61
+2020-06-01,Cotton wool (medicinal),Item,128.4,4.48
+2020-07-01,Cotton wool (medicinal),Item,129.4,4.61
+2020-08-01,Cotton wool (medicinal),Item,129.6,3.43
+2020-09-01,Cotton wool (medicinal),Item,130.0,3.34
+2020-10-01,Cotton wool (medicinal),Item,130.3,1.96
+2020-11-01,Cotton wool (medicinal),Item,131.9,3.05
+2020-12-01,Cotton wool (medicinal),Item,127.3,-1.32
+2021-01-01,Cotton wool (medicinal),Item,127.9,-0.54
+2021-02-01,Cotton wool (medicinal),Item,127.9,-0.7
+2021-03-01,Cotton wool (medicinal),Item,125.3,-2.72
+2021-04-01,Cotton wool (medicinal),Item,126.0,-2.17
+2021-05-01,Cotton wool (medicinal),Item,126.5,-3.21
+2021-06-01,Cotton wool (medicinal),Item,126.9,-1.17
+2021-07-01,Cotton wool (medicinal),Item,125.8,-2.78
+2021-08-01,Cotton wool (medicinal),Item,119.0,-8.18
+2021-09-01,Cotton wool (medicinal),Item,119.0,-8.46
+2021-10-01,Cotton wool (medicinal),Item,120.1,-7.83
+2021-11-01,Cotton wool (medicinal),Item,121.3,-8.04
+2021-12-01,Cotton wool (medicinal),Item,124.7,-2.04
+2022-01-01,Cotton wool (medicinal),Item,125.2,-2.11
+2022-02-01,Cotton wool (medicinal),Item,125.9,-1.56
+2022-03-01,Cotton wool (medicinal),Item,125.2,-0.08
+2022-04-01,Cotton wool (medicinal),Item,132.5,5.16
+2022-05-01,Cotton wool (medicinal),Item,137.1,8.38
+2022-06-01,Cotton wool (medicinal),Item,144.3,13.71
+2022-07-01,Cotton wool (medicinal),Item,142.5,13.28
+2022-08-01,Cotton wool (medicinal),Item,142.1,19.41
+2022-09-01,Cotton wool (medicinal),Item,141.4,18.82
+2022-10-01,Cotton wool (medicinal),Item,142.4,18.57
+2022-11-01,Cotton wool (medicinal),Item,144.8,19.37
+2022-12-01,Cotton wool (medicinal),Item,146.9,17.8
+2023-01-01,Cotton wool (medicinal),Item,149.0,19.01
+2023-02-01,Cotton wool (medicinal),Item,148.5,17.95
+2023-03-01,Cotton wool (medicinal),Item,153.7,22.76
+2023-04-01,Cotton wool (medicinal),Item,153.2,15.62
+2023-05-01,Cotton wool (medicinal),Item,153.8,12.18
+2023-06-01,Cotton wool (medicinal),Item,151.0,4.64
+2023-07-01,Cotton wool (medicinal),Item,150.1,5.33
+2023-08-01,Cotton wool (medicinal),Item,148.8,4.71
+2023-09-01,Cotton wool (medicinal),Item,148.6,5.09
+2023-10-01,Cotton wool (medicinal),Item,149.9,5.27
+2023-11-01,Cotton wool (medicinal),Item,150.5,3.94
+2023-12-01,Cotton wool (medicinal),Item,151.0,2.79
+2024-01-01,Cotton wool (medicinal),Item,150.9,1.28
+2024-02-01,Cotton wool (medicinal),Item,149.2,0.47
+2024-03-01,Cotton wool (medicinal),Item,147.6,-3.97
+2024-04-01,Cotton wool (medicinal),Item,148.9,-2.81
+2024-05-01,Cotton wool (medicinal),Item,149.5,-2.8
+2024-06-01,Cotton wool (medicinal),Item,148.8,-1.46
+2024-07-01,Cotton wool (medicinal),Item,149.7,-0.27
+2024-08-01,Cotton wool (medicinal),Item,150.3,1.01
+2024-09-01,Cotton wool (medicinal),Item,149.2,0.4
+2024-10-01,Cotton wool (medicinal),Item,148.9,-0.67
+2024-11-01,Cotton wool (medicinal),Item,150.8,0.2
+2024-12-01,Cotton wool (medicinal),Item,152.1,0.73
+2025-01-01,Cotton wool (medicinal),Item,151.9,0.66
+2025-02-01,Cotton wool (medicinal),Item,153.0,2.55
+2025-03-01,Cotton wool (medicinal),Item,153.1,3.73
+2025-04-01,Cotton wool (medicinal),Item,152.1,2.15
+2025-05-01,Cotton wool (medicinal),Item,152.9,2.27
+2025-06-01,Cotton wool (medicinal),Item,153.1,2.89
+2025-07-01,Cotton wool (medicinal),Item,154.4,3.14
+2025-08-01,Cotton wool (medicinal),Item,154.3,2.66
+2025-09-01,Cotton wool (medicinal),Item,156.7,5.03
+2025-10-01,Cotton wool (medicinal),Item,151.7,1.88
+2025-11-01,Cotton wool (medicinal),Item,149.9,-0.6
+2025-12-01,Cotton wool (medicinal),Item,149.6,-1.64
+2026-01-01,Cotton wool (medicinal),Item,149.8,-1.38
+2026-02-01,Cotton wool (medicinal),Item,150.0,-1.96
+2026-03-01,Cotton wool (medicinal),Item,148.4,-3.07
+2026-04-01,Cotton wool (medicinal),Item,150.1,-1.31
+2019-01-01,Digestive enzymes and antacids,Item,123.2,
+2019-02-01,Digestive enzymes and antacids,Item,123.2,
+2019-03-01,Digestive enzymes and antacids,Item,123.2,
+2019-04-01,Digestive enzymes and antacids,Item,121.4,
+2019-05-01,Digestive enzymes and antacids,Item,121.4,
+2019-06-01,Digestive enzymes and antacids,Item,122.9,
+2019-07-01,Digestive enzymes and antacids,Item,122.9,
+2019-08-01,Digestive enzymes and antacids,Item,123.0,
+2019-09-01,Digestive enzymes and antacids,Item,123.0,
+2019-10-01,Digestive enzymes and antacids,Item,123.0,
+2019-11-01,Digestive enzymes and antacids,Item,123.0,
+2019-12-01,Digestive enzymes and antacids,Item,124.9,
+2020-01-01,Digestive enzymes and antacids,Item,124.9,1.38
+2020-02-01,Digestive enzymes and antacids,Item,125.1,1.54
+2020-03-01,Digestive enzymes and antacids,Item,125.1,1.54
+2020-04-01,Digestive enzymes and antacids,Item,120.5,-0.74
+2020-05-01,Digestive enzymes and antacids,Item,122.5,0.91
+2020-06-01,Digestive enzymes and antacids,Item,122.5,-0.33
+2020-07-01,Digestive enzymes and antacids,Item,124.1,0.98
+2020-08-01,Digestive enzymes and antacids,Item,125.1,1.71
+2020-09-01,Digestive enzymes and antacids,Item,126.7,3.01
+2020-10-01,Digestive enzymes and antacids,Item,125.6,2.11
+2020-11-01,Digestive enzymes and antacids,Item,125.6,2.11
+2020-12-01,Digestive enzymes and antacids,Item,123.5,-1.12
+2021-01-01,Digestive enzymes and antacids,Item,123.7,-0.96
+2021-02-01,Digestive enzymes and antacids,Item,123.9,-0.96
+2021-03-01,Digestive enzymes and antacids,Item,123.7,-1.12
+2021-04-01,Digestive enzymes and antacids,Item,124.2,3.07
+2021-05-01,Digestive enzymes and antacids,Item,124.2,1.39
+2021-06-01,Digestive enzymes and antacids,Item,124.2,1.39
+2021-07-01,Digestive enzymes and antacids,Item,125.9,1.45
+2021-08-01,Digestive enzymes and antacids,Item,127.1,1.6
+2021-09-01,Digestive enzymes and antacids,Item,126.1,-0.47
+2021-10-01,Digestive enzymes and antacids,Item,126.1,0.4
+2021-11-01,Digestive enzymes and antacids,Item,126.1,0.4
+2021-12-01,Digestive enzymes and antacids,Item,128.0,3.64
+2022-01-01,Digestive enzymes and antacids,Item,127.1,2.75
+2022-02-01,Digestive enzymes and antacids,Item,128.0,3.31
+2022-03-01,Digestive enzymes and antacids,Item,130.6,5.58
+2022-04-01,Digestive enzymes and antacids,Item,134.8,8.53
+2022-05-01,Digestive enzymes and antacids,Item,135.2,8.86
+2022-06-01,Digestive enzymes and antacids,Item,133.4,7.41
+2022-07-01,Digestive enzymes and antacids,Item,135.0,7.23
+2022-08-01,Digestive enzymes and antacids,Item,134.9,6.14
+2022-09-01,Digestive enzymes and antacids,Item,135.1,7.14
+2022-10-01,Digestive enzymes and antacids,Item,136.3,8.09
+2022-11-01,Digestive enzymes and antacids,Item,136.7,8.41
+2022-12-01,Digestive enzymes and antacids,Item,129.2,0.94
+2023-01-01,Digestive enzymes and antacids,Item,135.1,6.29
+2023-02-01,Digestive enzymes and antacids,Item,134.9,5.39
+2023-03-01,Digestive enzymes and antacids,Item,134.7,3.14
+2023-04-01,Digestive enzymes and antacids,Item,134.9,0.07
+2023-05-01,Digestive enzymes and antacids,Item,136.8,1.18
+2023-06-01,Digestive enzymes and antacids,Item,137.0,2.7
+2023-07-01,Digestive enzymes and antacids,Item,137.9,2.15
+2023-08-01,Digestive enzymes and antacids,Item,138.4,2.59
+2023-09-01,Digestive enzymes and antacids,Item,138.7,2.66
+2023-10-01,Digestive enzymes and antacids,Item,138.9,1.91
+2023-11-01,Digestive enzymes and antacids,Item,142.4,4.17
+2023-12-01,Digestive enzymes and antacids,Item,141.9,9.83
+2024-01-01,Digestive enzymes and antacids,Item,141.7,4.89
+2024-02-01,Digestive enzymes and antacids,Item,141.9,5.19
+2024-03-01,Digestive enzymes and antacids,Item,141.6,5.12
+2024-04-01,Digestive enzymes and antacids,Item,142.1,5.34
+2024-05-01,Digestive enzymes and antacids,Item,142.2,3.95
+2024-06-01,Digestive enzymes and antacids,Item,142.2,3.8
+2024-07-01,Digestive enzymes and antacids,Item,142.5,3.34
+2024-08-01,Digestive enzymes and antacids,Item,145.1,4.84
+2024-09-01,Digestive enzymes and antacids,Item,145.8,5.12
+2024-10-01,Digestive enzymes and antacids,Item,146.1,5.18
+2024-11-01,Digestive enzymes and antacids,Item,146.1,2.6
+2024-12-01,Digestive enzymes and antacids,Item,145.9,2.82
+2025-01-01,Digestive enzymes and antacids,Item,146.1,3.11
+2025-02-01,Digestive enzymes and antacids,Item,146.9,3.52
+2025-03-01,Digestive enzymes and antacids,Item,146.9,3.74
+2025-04-01,Digestive enzymes and antacids,Item,146.7,3.24
+2025-05-01,Digestive enzymes and antacids,Item,146.1,2.74
+2025-06-01,Digestive enzymes and antacids,Item,146.4,2.95
+2025-07-01,Digestive enzymes and antacids,Item,149.0,4.56
+2025-08-01,Digestive enzymes and antacids,Item,149.1,2.76
+2025-09-01,Digestive enzymes and antacids,Item,150.0,2.88
+2025-10-01,Digestive enzymes and antacids,Item,150.7,3.15
+2025-11-01,Digestive enzymes and antacids,Item,148.3,1.51
+2025-12-01,Digestive enzymes and antacids,Item,149.2,2.26
+2026-01-01,Digestive enzymes and antacids,Item,148.8,1.85
+2026-02-01,Digestive enzymes and antacids,Item,149.6,1.84
+2026-03-01,Digestive enzymes and antacids,Item,149.6,1.84
+2026-04-01,Digestive enzymes and antacids,Item,149.6,1.98
+2019-01-01,Fluids,Item,107.2,
+2019-02-01,Fluids,Item,107.7,
+2019-03-01,Fluids,Item,107.6,
+2019-04-01,Fluids,Item,107.7,
+2019-05-01,Fluids,Item,107.9,
+2019-06-01,Fluids,Item,107.1,
+2019-07-01,Fluids,Item,109.1,
+2019-08-01,Fluids,Item,109.4,
+2019-09-01,Fluids,Item,109.4,
+2019-10-01,Fluids,Item,109.3,
+2019-11-01,Fluids,Item,108.9,
+2019-12-01,Fluids,Item,109.1,
+2020-01-01,Fluids,Item,110.2,2.8
+2020-02-01,Fluids,Item,109.9,2.04
+2020-03-01,Fluids,Item,110.2,2.42
+2020-04-01,Fluids,Item,107.7,0.0
+2020-05-01,Fluids,Item,106.5,-1.3
+2020-06-01,Fluids,Item,106.1,-0.93
+2020-07-01,Fluids,Item,103.0,-5.59
+2020-08-01,Fluids,Item,103.8,-5.12
+2020-09-01,Fluids,Item,102.9,-5.94
+2020-10-01,Fluids,Item,102.5,-6.22
+2020-11-01,Fluids,Item,102.9,-5.51
+2020-12-01,Fluids,Item,104.2,-4.49
+2021-01-01,Fluids,Item,103.8,-5.81
+2021-02-01,Fluids,Item,103.3,-6.01
+2021-03-01,Fluids,Item,105.7,-4.08
+2021-04-01,Fluids,Item,107.4,-0.28
+2021-05-01,Fluids,Item,107.4,0.85
+2021-06-01,Fluids,Item,106.6,0.47
+2021-07-01,Fluids,Item,108.5,5.34
+2021-08-01,Fluids,Item,109.8,5.78
+2021-09-01,Fluids,Item,110.3,7.19
+2021-10-01,Fluids,Item,110.2,7.51
+2021-11-01,Fluids,Item,110.5,7.39
+2021-12-01,Fluids,Item,110.8,6.33
+2022-01-01,Fluids,Item,115.6,11.37
+2022-02-01,Fluids,Item,116.5,12.78
+2022-03-01,Fluids,Item,117.4,11.07
+2022-04-01,Fluids,Item,124.3,15.74
+2022-05-01,Fluids,Item,124.5,15.92
+2022-06-01,Fluids,Item,123.6,15.95
+2022-07-01,Fluids,Item,124.4,14.65
+2022-08-01,Fluids,Item,124.2,13.11
+2022-09-01,Fluids,Item,124.2,12.6
+2022-10-01,Fluids,Item,124.7,13.16
+2022-11-01,Fluids,Item,124.2,12.4
+2022-12-01,Fluids,Item,124.4,12.27
+2023-01-01,Fluids,Item,125.5,8.56
+2023-02-01,Fluids,Item,125.1,7.38
+2023-03-01,Fluids,Item,124.5,6.05
+2023-04-01,Fluids,Item,125.1,0.64
+2023-05-01,Fluids,Item,124.9,0.32
+2023-06-01,Fluids,Item,124.0,0.32
+2023-07-01,Fluids,Item,124.0,-0.32
+2023-08-01,Fluids,Item,124.2,0.0
+2023-09-01,Fluids,Item,124.3,0.08
+2023-10-01,Fluids,Item,124.7,0.0
+2023-11-01,Fluids,Item,121.5,-2.17
+2023-12-01,Fluids,Item,126.2,1.45
+2024-01-01,Fluids,Item,126.9,1.12
+2024-02-01,Fluids,Item,127.1,1.6
+2024-03-01,Fluids,Item,127.3,2.25
+2024-04-01,Fluids,Item,126.4,1.04
+2024-05-01,Fluids,Item,125.3,0.32
+2024-06-01,Fluids,Item,125.6,1.29
+2024-07-01,Fluids,Item,126.2,1.77
+2024-08-01,Fluids,Item,126.9,2.17
+2024-09-01,Fluids,Item,126.5,1.77
+2024-10-01,Fluids,Item,126.7,1.6
+2024-11-01,Fluids,Item,127.6,5.02
+2024-12-01,Fluids,Item,125.0,-0.95
+2025-01-01,Fluids,Item,128.4,1.18
+2025-02-01,Fluids,Item,128.7,1.26
+2025-03-01,Fluids,Item,127.7,0.31
+2025-04-01,Fluids,Item,127.0,0.47
+2025-05-01,Fluids,Item,126.4,0.88
+2025-06-01,Fluids,Item,126.6,0.8
+2025-07-01,Fluids,Item,126.4,0.16
+2025-08-01,Fluids,Item,127.3,0.32
+2025-09-01,Fluids,Item,127.6,0.87
+2025-10-01,Fluids,Item,126.8,0.08
+2025-11-01,Fluids,Item,126.5,-0.86
+2025-12-01,Fluids,Item,126.2,0.96
+2026-01-01,Fluids,Item,125.5,-2.26
+2026-02-01,Fluids,Item,125.6,-2.41
+2026-03-01,Fluids,Item,126.1,-1.25
+2026-04-01,Fluids,Item,126.5,-0.39
+2019-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,126.1,
+2019-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,126.0,
+2019-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,126.4,
+2019-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,125.1,
+2019-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,125.6,
+2019-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,125.7,
+2019-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,125.3,
+2019-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,126.4,
+2019-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,125.8,
+2019-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,126.8,
+2019-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,127.5,
+2019-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,127.8,
+2020-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.6,3.57
+2020-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,131.7,4.52
+2020-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,129.7,2.61
+2020-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.3,4.16
+2020-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,128.6,2.39
+2020-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,129.3,2.86
+2020-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.0,3.75
+2020-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.7,3.4
+2020-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.0,3.34
+2020-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,130.5,2.92
+2020-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,132.0,3.53
+2020-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,131.9,3.21
+2021-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,131.5,0.69
+2021-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,132.8,0.84
+2021-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,133.4,2.85
+2021-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,134.7,3.38
+2021-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,136.9,6.45
+2021-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,134.7,4.18
+2021-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,134.3,3.31
+2021-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,134.1,2.6
+2021-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,134.5,3.46
+2021-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,136.0,4.21
+2021-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,136.2,3.18
+2021-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,136.6,3.56
+2022-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,137.1,4.26
+2022-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,137.9,3.84
+2022-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,138.0,3.45
+2022-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,139.6,3.64
+2022-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,139.1,1.61
+2022-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,139.8,3.79
+2022-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,140.0,4.24
+2022-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,140.6,4.85
+2022-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,140.3,4.31
+2022-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.2,3.82
+2022-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.5,3.89
+2022-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.8,3.81
+2023-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.2,3.72
+2023-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.4,3.26
+2023-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.7,2.68
+2023-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.8,2.29
+2023-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.9,2.73
+2023-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.4,2.58
+2023-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.8,1.29
+2023-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,141.8,0.85
+2023-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.7,1.71
+2023-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.9,1.2
+2023-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,142.4,0.64
+2023-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.3,1.06
+2024-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.0,0.56
+2024-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.9,1.05
+2024-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.4,1.2
+2024-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.5,0.49
+2024-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.0,0.77
+2024-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.0,0.42
+2024-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.7,2.05
+2024-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.8,2.12
+2024-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.1,0.98
+2024-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,143.5,0.42
+2024-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.1,1.19
+2024-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.0,0.49
+2025-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.0,1.4
+2025-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.1,0.83
+2025-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,144.8,0.98
+2025-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.5,1.39
+2025-05-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.9,1.32
+2025-06-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.7,1.18
+2025-07-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.0,0.9
+2025-08-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.6,0.55
+2025-09-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.9,1.25
+2025-10-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.2,1.88
+2025-11-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.4,1.6
+2025-12-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.1,1.46
+2026-01-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,145.4,0.28
+2026-02-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.0,0.62
+2026-03-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,146.7,1.31
+2026-04-01,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Group,148.1,1.79
+2019-01-01,Medical accessories,Item,131.1,
+2019-02-01,Medical accessories,Item,131.1,
+2019-03-01,Medical accessories,Item,132.0,
+2019-04-01,Medical accessories,Item,132.0,
+2019-05-01,Medical accessories,Item,133.0,
+2019-06-01,Medical accessories,Item,132.6,
+2019-07-01,Medical accessories,Item,132.7,
+2019-08-01,Medical accessories,Item,133.0,
+2019-09-01,Medical accessories,Item,132.6,
+2019-10-01,Medical accessories,Item,133.0,
+2019-11-01,Medical accessories,Item,133.3,
+2019-12-01,Medical accessories,Item,133.3,
+2020-01-01,Medical accessories,Item,133.7,1.98
+2020-02-01,Medical accessories,Item,134.0,2.21
+2020-03-01,Medical accessories,Item,133.7,1.29
+2020-04-01,Medical accessories,Item,134.0,1.52
+2020-05-01,Medical accessories,Item,134.4,1.05
+2020-06-01,Medical accessories,Item,134.9,1.73
+2020-07-01,Medical accessories,Item,137.6,3.69
+2020-08-01,Medical accessories,Item,136.7,2.78
+2020-09-01,Medical accessories,Item,141.5,6.71
+2020-10-01,Medical accessories,Item,135.3,1.73
+2020-11-01,Medical accessories,Item,136.9,2.7
+2020-12-01,Medical accessories,Item,137.4,3.08
+2021-01-01,Medical accessories,Item,137.5,2.84
+2021-02-01,Medical accessories,Item,138.3,3.21
+2021-03-01,Medical accessories,Item,138.6,3.66
+2021-04-01,Medical accessories,Item,137.9,2.91
+2021-05-01,Medical accessories,Item,139.9,4.09
+2021-06-01,Medical accessories,Item,139.9,3.71
+2021-07-01,Medical accessories,Item,143.7,4.43
+2021-08-01,Medical accessories,Item,143.3,4.83
+2021-09-01,Medical accessories,Item,139.7,-1.27
+2021-10-01,Medical accessories,Item,139.5,3.1
+2021-11-01,Medical accessories,Item,138.8,1.39
+2021-12-01,Medical accessories,Item,137.3,-0.07
+2022-01-01,Medical accessories,Item,137.4,-0.07
+2022-02-01,Medical accessories,Item,138.3,0.0
+2022-03-01,Medical accessories,Item,137.7,-0.65
+2022-04-01,Medical accessories,Item,137.8,-0.07
+2022-05-01,Medical accessories,Item,138.5,-1.0
+2022-06-01,Medical accessories,Item,140.7,0.57
+2022-07-01,Medical accessories,Item,141.6,-1.46
+2022-08-01,Medical accessories,Item,141.3,-1.4
+2022-09-01,Medical accessories,Item,143.5,2.72
+2022-10-01,Medical accessories,Item,143.5,2.87
+2022-11-01,Medical accessories,Item,142.8,2.88
+2022-12-01,Medical accessories,Item,142.8,4.01
+2023-01-01,Medical accessories,Item,141.1,2.69
+2023-02-01,Medical accessories,Item,142.1,2.75
+2023-03-01,Medical accessories,Item,140.9,2.32
+2023-04-01,Medical accessories,Item,143.3,3.99
+2023-05-01,Medical accessories,Item,142.6,2.96
+2023-06-01,Medical accessories,Item,143.2,1.78
+2023-07-01,Medical accessories,Item,141.9,0.21
+2023-08-01,Medical accessories,Item,142.3,0.71
+2023-09-01,Medical accessories,Item,142.7,-0.56
+2023-10-01,Medical accessories,Item,143.4,-0.07
+2023-11-01,Medical accessories,Item,143.4,0.42
+2023-12-01,Medical accessories,Item,143.4,0.42
+2024-01-01,Medical accessories,Item,143.3,1.56
+2024-02-01,Medical accessories,Item,145.0,2.04
+2024-03-01,Medical accessories,Item,145.0,2.91
+2024-04-01,Medical accessories,Item,144.7,0.98
+2024-05-01,Medical accessories,Item,143.6,0.7
+2024-06-01,Medical accessories,Item,143.5,0.21
+2024-07-01,Medical accessories,Item,143.4,1.06
+2024-08-01,Medical accessories,Item,144.2,1.34
+2024-09-01,Medical accessories,Item,142.8,0.07
+2024-10-01,Medical accessories,Item,142.8,-0.42
+2024-11-01,Medical accessories,Item,145.1,1.19
+2024-12-01,Medical accessories,Item,145.1,1.19
+2025-01-01,Medical accessories,Item,145.8,1.74
+2025-02-01,Medical accessories,Item,145.7,0.48
+2025-03-01,Medical accessories,Item,146.3,0.9
+2025-04-01,Medical accessories,Item,147.8,2.14
+2025-05-01,Medical accessories,Item,146.9,2.3
+2025-06-01,Medical accessories,Item,145.6,1.46
+2025-07-01,Medical accessories,Item,146.0,1.81
+2025-08-01,Medical accessories,Item,146.0,1.25
+2025-09-01,Medical accessories,Item,146.8,2.8
+2025-10-01,Medical accessories,Item,146.8,2.8
+2025-11-01,Medical accessories,Item,146.8,1.17
+2025-12-01,Medical accessories,Item,147.3,1.52
+2026-01-01,Medical accessories,Item,147.3,1.03
+2026-02-01,Medical accessories,Item,147.3,1.1
+2026-03-01,Medical accessories,Item,148.7,1.64
+2026-04-01,Medical accessories,Item,150.9,2.1
+2019-01-01,Pharmaceutical machinery,Item,121.2,
+2019-02-01,Pharmaceutical machinery,Item,125.5,
+2019-03-01,Pharmaceutical machinery,Item,129.0,
+2019-04-01,Pharmaceutical machinery,Item,127.8,
+2019-05-01,Pharmaceutical machinery,Item,128.1,
+2019-06-01,Pharmaceutical machinery,Item,130.0,
+2019-07-01,Pharmaceutical machinery,Item,126.5,
+2019-08-01,Pharmaceutical machinery,Item,131.7,
+2019-09-01,Pharmaceutical machinery,Item,129.5,
+2019-10-01,Pharmaceutical machinery,Item,127.9,
+2019-11-01,Pharmaceutical machinery,Item,128.6,
+2019-12-01,Pharmaceutical machinery,Item,129.9,
+2020-01-01,Pharmaceutical machinery,Item,128.5,6.02
+2020-02-01,Pharmaceutical machinery,Item,130.7,4.14
+2020-03-01,Pharmaceutical machinery,Item,128.0,-0.78
+2020-04-01,Pharmaceutical machinery,Item,128.0,0.16
+2020-05-01,Pharmaceutical machinery,Item,132.2,3.2
+2020-06-01,Pharmaceutical machinery,Item,129.4,-0.46
+2020-07-01,Pharmaceutical machinery,Item,130.1,2.85
+2020-08-01,Pharmaceutical machinery,Item,131.6,-0.08
+2020-09-01,Pharmaceutical machinery,Item,133.0,2.7
+2020-10-01,Pharmaceutical machinery,Item,135.9,6.25
+2020-11-01,Pharmaceutical machinery,Item,133.3,3.65
+2020-12-01,Pharmaceutical machinery,Item,136.4,5.0
+2021-01-01,Pharmaceutical machinery,Item,134.1,4.36
+2021-02-01,Pharmaceutical machinery,Item,138.0,5.59
+2021-03-01,Pharmaceutical machinery,Item,138.6,8.28
+2021-04-01,Pharmaceutical machinery,Item,137.8,7.66
+2021-05-01,Pharmaceutical machinery,Item,138.7,4.92
+2021-06-01,Pharmaceutical machinery,Item,140.7,8.73
+2021-07-01,Pharmaceutical machinery,Item,139.4,7.15
+2021-08-01,Pharmaceutical machinery,Item,140.5,6.76
+2021-09-01,Pharmaceutical machinery,Item,141.5,6.39
+2021-10-01,Pharmaceutical machinery,Item,138.6,1.99
+2021-11-01,Pharmaceutical machinery,Item,139.8,4.88
+2021-12-01,Pharmaceutical machinery,Item,142.7,4.62
+2022-01-01,Pharmaceutical machinery,Item,142.3,6.11
+2022-02-01,Pharmaceutical machinery,Item,139.8,1.3
+2022-03-01,Pharmaceutical machinery,Item,141.7,2.24
+2022-04-01,Pharmaceutical machinery,Item,141.3,2.54
+2022-05-01,Pharmaceutical machinery,Item,141.5,2.02
+2022-06-01,Pharmaceutical machinery,Item,143.8,2.2
+2022-07-01,Pharmaceutical machinery,Item,143.5,2.94
+2022-08-01,Pharmaceutical machinery,Item,145.6,3.63
+2022-09-01,Pharmaceutical machinery,Item,145.4,2.76
+2022-10-01,Pharmaceutical machinery,Item,146.4,5.63
+2022-11-01,Pharmaceutical machinery,Item,146.6,4.86
+2022-12-01,Pharmaceutical machinery,Item,146.4,2.59
+2023-01-01,Pharmaceutical machinery,Item,146.4,2.88
+2023-02-01,Pharmaceutical machinery,Item,148.9,6.51
+2023-03-01,Pharmaceutical machinery,Item,149.7,5.65
+2023-04-01,Pharmaceutical machinery,Item,146.7,3.82
+2023-05-01,Pharmaceutical machinery,Item,149.5,5.65
+2023-06-01,Pharmaceutical machinery,Item,148.7,3.41
+2023-07-01,Pharmaceutical machinery,Item,149.4,4.11
+2023-08-01,Pharmaceutical machinery,Item,149.6,2.75
+2023-09-01,Pharmaceutical machinery,Item,150.5,3.51
+2023-10-01,Pharmaceutical machinery,Item,149.2,1.91
+2023-11-01,Pharmaceutical machinery,Item,150.6,2.73
+2023-12-01,Pharmaceutical machinery,Item,151.0,3.14
+2024-01-01,Pharmaceutical machinery,Item,152.8,4.37
+2024-02-01,Pharmaceutical machinery,Item,152.8,2.62
+2024-03-01,Pharmaceutical machinery,Item,153.9,2.81
+2024-04-01,Pharmaceutical machinery,Item,153.3,4.5
+2024-05-01,Pharmaceutical machinery,Item,152.9,2.27
+2024-06-01,Pharmaceutical machinery,Item,152.1,2.29
+2024-07-01,Pharmaceutical machinery,Item,150.9,1.0
+2024-08-01,Pharmaceutical machinery,Item,150.4,0.53
+2024-09-01,Pharmaceutical machinery,Item,149.6,-0.6
+2024-10-01,Pharmaceutical machinery,Item,149.8,0.4
+2024-11-01,Pharmaceutical machinery,Item,150.6,0.0
+2024-12-01,Pharmaceutical machinery,Item,149.5,-0.99
+2025-01-01,Pharmaceutical machinery,Item,149.5,-2.16
+2025-02-01,Pharmaceutical machinery,Item,150.0,-1.83
+2025-03-01,Pharmaceutical machinery,Item,149.7,-2.73
+2025-04-01,Pharmaceutical machinery,Item,149.7,-2.35
+2025-05-01,Pharmaceutical machinery,Item,149.8,-2.03
+2025-06-01,Pharmaceutical machinery,Item,150.4,-1.12
+2025-07-01,Pharmaceutical machinery,Item,150.5,-0.27
+2025-08-01,Pharmaceutical machinery,Item,151.1,0.47
+2025-09-01,Pharmaceutical machinery,Item,150.4,0.53
+2025-10-01,Pharmaceutical machinery,Item,150.2,0.27
+2025-11-01,Pharmaceutical machinery,Item,150.1,-0.33
+2025-12-01,Pharmaceutical machinery,Item,149.2,-0.2
+2026-01-01,Pharmaceutical machinery,Item,150.2,0.47
+2026-02-01,Pharmaceutical machinery,Item,149.0,-0.67
+2026-03-01,Pharmaceutical machinery,Item,147.4,-1.54
+2026-04-01,Pharmaceutical machinery,Item,147.5,-1.47
+2019-01-01,Plastic capsules,Item,147.8,
+2019-02-01,Plastic capsules,Item,144.4,
+2019-03-01,Plastic capsules,Item,144.5,
+2019-04-01,Plastic capsules,Item,144.9,
+2019-05-01,Plastic capsules,Item,143.5,
+2019-06-01,Plastic capsules,Item,148.6,
+2019-07-01,Plastic capsules,Item,146.1,
+2019-08-01,Plastic capsules,Item,140.9,
+2019-09-01,Plastic capsules,Item,143.5,
+2019-10-01,Plastic capsules,Item,140.7,
+2019-11-01,Plastic capsules,Item,144.1,
+2019-12-01,Plastic capsules,Item,144.1,
+2020-01-01,Plastic capsules,Item,144.3,-2.37
+2020-02-01,Plastic capsules,Item,143.4,-0.69
+2020-03-01,Plastic capsules,Item,143.8,-0.48
+2020-04-01,Plastic capsules,Item,147.9,2.07
+2020-05-01,Plastic capsules,Item,146.5,2.09
+2020-06-01,Plastic capsules,Item,149.7,0.74
+2020-07-01,Plastic capsules,Item,150.8,3.22
+2020-08-01,Plastic capsules,Item,151.2,7.31
+2020-09-01,Plastic capsules,Item,151.3,5.44
+2020-10-01,Plastic capsules,Item,151.3,7.53
+2020-11-01,Plastic capsules,Item,153.5,6.52
+2020-12-01,Plastic capsules,Item,152.5,5.83
+2021-01-01,Plastic capsules,Item,153.2,6.17
+2021-02-01,Plastic capsules,Item,151.8,5.86
+2021-03-01,Plastic capsules,Item,153.7,6.88
+2021-04-01,Plastic capsules,Item,154.6,4.53
+2021-05-01,Plastic capsules,Item,157.3,7.37
+2021-06-01,Plastic capsules,Item,155.2,3.67
+2021-07-01,Plastic capsules,Item,158.3,4.97
+2021-08-01,Plastic capsules,Item,155.5,2.84
+2021-09-01,Plastic capsules,Item,159.1,5.16
+2021-10-01,Plastic capsules,Item,163.4,8.0
+2021-11-01,Plastic capsules,Item,161.6,5.28
+2021-12-01,Plastic capsules,Item,164.3,7.74
+2022-01-01,Plastic capsules,Item,162.2,5.87
+2022-02-01,Plastic capsules,Item,165.5,9.03
+2022-03-01,Plastic capsules,Item,165.9,7.94
+2022-04-01,Plastic capsules,Item,167.5,8.34
+2022-05-01,Plastic capsules,Item,168.2,6.93
+2022-06-01,Plastic capsules,Item,166.5,7.28
+2022-07-01,Plastic capsules,Item,167.7,5.94
+2022-08-01,Plastic capsules,Item,165.3,6.3
+2022-09-01,Plastic capsules,Item,160.9,1.13
+2022-10-01,Plastic capsules,Item,159.1,-2.63
+2022-11-01,Plastic capsules,Item,163.5,1.18
+2022-12-01,Plastic capsules,Item,165.0,0.43
+2023-01-01,Plastic capsules,Item,167.3,3.14
+2023-02-01,Plastic capsules,Item,162.9,-1.57
+2023-03-01,Plastic capsules,Item,157.7,-4.94
+2023-04-01,Plastic capsules,Item,162.7,-2.87
+2023-05-01,Plastic capsules,Item,161.5,-3.98
+2023-06-01,Plastic capsules,Item,158.6,-4.74
+2023-07-01,Plastic capsules,Item,160.6,-4.23
+2023-08-01,Plastic capsules,Item,158.8,-3.93
+2023-09-01,Plastic capsules,Item,161.8,0.56
+2023-10-01,Plastic capsules,Item,158.6,-0.31
+2023-11-01,Plastic capsules,Item,155.2,-5.08
+2023-12-01,Plastic capsules,Item,157.0,-4.85
+2024-01-01,Plastic capsules,Item,159.6,-4.6
+2024-02-01,Plastic capsules,Item,158.7,-2.58
+2024-03-01,Plastic capsules,Item,160.6,1.84
+2024-04-01,Plastic capsules,Item,160.2,-1.54
+2024-05-01,Plastic capsules,Item,160.0,-0.93
+2024-06-01,Plastic capsules,Item,159.3,0.44
+2024-07-01,Plastic capsules,Item,159.1,-0.93
+2024-08-01,Plastic capsules,Item,156.9,-1.2
+2024-09-01,Plastic capsules,Item,157.7,-2.53
+2024-10-01,Plastic capsules,Item,156.8,-1.13
+2024-11-01,Plastic capsules,Item,159.0,2.45
+2024-12-01,Plastic capsules,Item,159.3,1.46
+2025-01-01,Plastic capsules,Item,158.4,-0.75
+2025-02-01,Plastic capsules,Item,159.0,0.19
+2025-03-01,Plastic capsules,Item,158.6,-1.25
+2025-04-01,Plastic capsules,Item,159.1,-0.69
+2025-05-01,Plastic capsules,Item,157.0,-1.88
+2025-06-01,Plastic capsules,Item,157.3,-1.26
+2025-07-01,Plastic capsules,Item,155.9,-2.01
+2025-08-01,Plastic capsules,Item,155.4,-0.96
+2025-09-01,Plastic capsules,Item,157.0,-0.44
+2025-10-01,Plastic capsules,Item,157.3,0.32
+2025-11-01,Plastic capsules,Item,155.0,-2.52
+2025-12-01,Plastic capsules,Item,156.1,-2.01
+2026-01-01,Plastic capsules,Item,154.2,-2.65
+2026-02-01,Plastic capsules,Item,157.8,-0.75
+2026-03-01,Plastic capsules,Item,157.1,-0.95
+2026-04-01,Plastic capsules,Item,156.9,-1.38
+2019-01-01,Simvastatin,Item,107.5,
+2019-02-01,Simvastatin,Item,108.3,
+2019-03-01,Simvastatin,Item,109.6,
+2019-04-01,Simvastatin,Item,109.4,
+2019-05-01,Simvastatin,Item,109.4,
+2019-06-01,Simvastatin,Item,110.1,
+2019-07-01,Simvastatin,Item,108.1,
+2019-08-01,Simvastatin,Item,106.4,
+2019-09-01,Simvastatin,Item,105.4,
+2019-10-01,Simvastatin,Item,106.8,
+2019-11-01,Simvastatin,Item,104.3,
+2019-12-01,Simvastatin,Item,102.8,
+2020-01-01,Simvastatin,Item,102.5,-4.65
+2020-02-01,Simvastatin,Item,105.3,-2.77
+2020-03-01,Simvastatin,Item,104.6,-4.56
+2020-04-01,Simvastatin,Item,105.8,-3.29
+2020-05-01,Simvastatin,Item,106.2,-2.93
+2020-06-01,Simvastatin,Item,104.7,-4.9
+2020-07-01,Simvastatin,Item,103.4,-4.35
+2020-08-01,Simvastatin,Item,104.7,-1.6
+2020-09-01,Simvastatin,Item,104.5,-0.85
+2020-10-01,Simvastatin,Item,104.5,-2.15
+2020-11-01,Simvastatin,Item,108.8,4.31
+2020-12-01,Simvastatin,Item,108.6,5.64
+2021-01-01,Simvastatin,Item,107.6,4.98
+2021-02-01,Simvastatin,Item,106.5,1.14
+2021-03-01,Simvastatin,Item,112.7,7.74
+2021-04-01,Simvastatin,Item,113.5,7.28
+2021-05-01,Simvastatin,Item,119.9,12.9
+2021-06-01,Simvastatin,Item,118.1,12.8
+2021-07-01,Simvastatin,Item,120.0,16.05
+2021-08-01,Simvastatin,Item,120.0,14.61
+2021-09-01,Simvastatin,Item,120.1,14.93
+2021-10-01,Simvastatin,Item,120.1,14.93
+2021-11-01,Simvastatin,Item,120.1,10.39
+2021-12-01,Simvastatin,Item,122.9,13.17
+2022-01-01,Simvastatin,Item,122.9,14.22
+2022-02-01,Simvastatin,Item,115.7,8.64
+2022-03-01,Simvastatin,Item,116.0,2.93
+2022-04-01,Simvastatin,Item,116.6,2.73
+2022-05-01,Simvastatin,Item,116.5,-2.84
+2022-06-01,Simvastatin,Item,116.9,-1.02
+2022-07-01,Simvastatin,Item,116.9,-2.58
+2022-08-01,Simvastatin,Item,119.8,-0.17
+2022-09-01,Simvastatin,Item,119.3,-0.67
+2022-10-01,Simvastatin,Item,119.4,-0.58
+2022-11-01,Simvastatin,Item,119.3,-0.67
+2022-12-01,Simvastatin,Item,120.3,-2.12
+2023-01-01,Simvastatin,Item,120.3,-2.12
+2023-02-01,Simvastatin,Item,120.5,4.15
+2023-03-01,Simvastatin,Item,120.5,3.88
+2023-04-01,Simvastatin,Item,120.5,3.34
+2023-05-01,Simvastatin,Item,120.5,3.43
+2023-06-01,Simvastatin,Item,123.5,5.65
+2023-07-01,Simvastatin,Item,123.5,5.65
+2023-08-01,Simvastatin,Item,123.5,3.09
+2023-09-01,Simvastatin,Item,126.6,6.12
+2023-10-01,Simvastatin,Item,126.6,6.03
+2023-11-01,Simvastatin,Item,126.4,5.95
+2023-12-01,Simvastatin,Item,126.4,5.07
+2024-01-01,Simvastatin,Item,126.5,5.15
+2024-02-01,Simvastatin,Item,126.5,4.98
+2024-03-01,Simvastatin,Item,126.5,4.98
+2024-04-01,Simvastatin,Item,126.4,4.9
+2024-05-01,Simvastatin,Item,126.4,4.9
+2024-06-01,Simvastatin,Item,126.4,2.35
+2024-07-01,Simvastatin,Item,126.4,2.35
+2024-08-01,Simvastatin,Item,126.4,2.35
+2024-09-01,Simvastatin,Item,126.4,-0.16
+2024-10-01,Simvastatin,Item,126.4,-0.16
+2024-11-01,Simvastatin,Item,129.2,2.22
+2024-12-01,Simvastatin,Item,129.2,2.22
+2025-01-01,Simvastatin,Item,132.3,4.58
+2025-02-01,Simvastatin,Item,132.3,4.58
+2025-03-01,Simvastatin,Item,132.3,4.58
+2025-04-01,Simvastatin,Item,132.7,4.98
+2025-05-01,Simvastatin,Item,132.7,4.98
+2025-06-01,Simvastatin,Item,132.7,4.98
+2025-07-01,Simvastatin,Item,132.7,4.98
+2025-08-01,Simvastatin,Item,133.6,5.7
+2025-09-01,Simvastatin,Item,133.6,5.7
+2025-10-01,Simvastatin,Item,133.6,5.7
+2025-11-01,Simvastatin,Item,133.1,3.02
+2025-12-01,Simvastatin,Item,133.1,3.02
+2026-01-01,Simvastatin,Item,133.1,0.6
+2026-02-01,Simvastatin,Item,133.1,0.6
+2026-03-01,Simvastatin,Item,131.2,-0.83
+2026-04-01,Simvastatin,Item,137.0,3.24
+2019-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,104.0,
+2019-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2019-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2019-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2019-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2019-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2019-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,
+2020-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,-2.6
+2020-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,0.0
+2020-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,0.0
+2020-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,0.0
+2020-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,101.3,0.0
+2020-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,99.5,-1.78
+2020-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,99.5,-1.78
+2021-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,99.5,-1.78
+2021-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,100.6,-0.69
+2021-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,102.1,0.79
+2021-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,102.1,0.79
+2021-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,107.2,5.82
+2021-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,107.2,5.82
+2021-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,107.2,5.82
+2021-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,107.3,5.92
+2021-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,107.3,5.92
+2021-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,108.3,6.91
+2021-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,108.3,8.84
+2021-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,108.3,8.84
+2022-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,109.5,10.05
+2022-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.5,9.84
+2022-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.5,8.23
+2022-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.5,8.23
+2022-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.5,3.08
+2022-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.7,3.26
+2022-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.7,3.26
+2022-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.7,3.17
+2022-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,7.18
+2022-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,6.19
+2022-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,6.19
+2022-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,6.19
+2023-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,5.02
+2023-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,4.07
+2023-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,4.07
+2023-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,4.07
+2023-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,4.07
+2023-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,3.61
+2023-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,3.61
+2023-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,3.61
+2023-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2023-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2023-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2023-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,-0.26
+2024-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,0.0
+2024-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,0.0
+2024-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,0.0
+2024-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.7,0.0
+2024-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.3,0.52
+2024-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.3,0.52
+2024-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.3,0.52
+2025-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.3,0.52
+2025-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.8,0.09
+2025-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.2,-0.44
+2025-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.5,0.7
+2025-05-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.5,0.7
+2025-06-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.9,0.17
+2025-07-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.9,0.17
+2025-08-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,115.0,0.26
+2025-09-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,114.4,-0.26
+2025-10-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.9,-3.82
+2025-11-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,110.9,-3.82
+2025-12-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,111.0,-3.73
+2026-01-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,111.2,-3.56
+2026-02-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,112.3,-2.18
+2026-03-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,112.5,-1.49
+2026-04-01,Steroids and hormonal preparations (including anti-fungal preparations),Item,112.5,-2.6
+2019-01-01,Sulpha drugs,Item,187.4,
+2019-02-01,Sulpha drugs,Item,187.4,
+2019-03-01,Sulpha drugs,Item,187.4,
+2019-04-01,Sulpha drugs,Item,195.9,
+2019-05-01,Sulpha drugs,Item,191.3,
+2019-06-01,Sulpha drugs,Item,191.3,
+2019-07-01,Sulpha drugs,Item,197.7,
+2019-08-01,Sulpha drugs,Item,197.7,
+2019-09-01,Sulpha drugs,Item,197.7,
+2019-10-01,Sulpha drugs,Item,197.7,
+2019-11-01,Sulpha drugs,Item,197.7,
+2019-12-01,Sulpha drugs,Item,197.7,
+2020-01-01,Sulpha drugs,Item,197.7,5.5
+2020-02-01,Sulpha drugs,Item,197.7,5.5
+2020-03-01,Sulpha drugs,Item,197.7,5.5
+2020-04-01,Sulpha drugs,Item,197.7,0.92
+2020-05-01,Sulpha drugs,Item,193.2,0.99
+2020-06-01,Sulpha drugs,Item,193.2,0.99
+2020-07-01,Sulpha drugs,Item,193.2,-2.28
+2020-08-01,Sulpha drugs,Item,193.2,-2.28
+2020-09-01,Sulpha drugs,Item,192.2,-2.78
+2020-10-01,Sulpha drugs,Item,192.2,-2.78
+2020-11-01,Sulpha drugs,Item,193.2,-2.28
+2020-12-01,Sulpha drugs,Item,193.2,-2.28
+2021-01-01,Sulpha drugs,Item,193.2,-2.28
+2021-02-01,Sulpha drugs,Item,193.2,-2.28
+2021-03-01,Sulpha drugs,Item,193.2,-2.28
+2021-04-01,Sulpha drugs,Item,193.0,-2.38
+2021-05-01,Sulpha drugs,Item,193.2,0.0
+2021-06-01,Sulpha drugs,Item,193.2,0.0
+2021-07-01,Sulpha drugs,Item,193.2,0.0
+2021-08-01,Sulpha drugs,Item,193.2,0.0
+2021-09-01,Sulpha drugs,Item,197.7,2.86
+2021-10-01,Sulpha drugs,Item,197.7,2.86
+2021-11-01,Sulpha drugs,Item,202.0,4.55
+2021-12-01,Sulpha drugs,Item,202.0,4.55
+2022-01-01,Sulpha drugs,Item,202.0,4.55
+2022-02-01,Sulpha drugs,Item,210.1,8.75
+2022-03-01,Sulpha drugs,Item,214.9,11.23
+2022-04-01,Sulpha drugs,Item,223.5,15.8
+2022-05-01,Sulpha drugs,Item,223.5,15.68
+2022-06-01,Sulpha drugs,Item,219.9,13.82
+2022-07-01,Sulpha drugs,Item,223.6,15.73
+2022-08-01,Sulpha drugs,Item,219.4,13.56
+2022-09-01,Sulpha drugs,Item,219.4,10.98
+2022-10-01,Sulpha drugs,Item,222.6,12.59
+2022-11-01,Sulpha drugs,Item,220.8,9.31
+2022-12-01,Sulpha drugs,Item,220.8,9.31
+2023-01-01,Sulpha drugs,Item,217.0,7.43
+2023-02-01,Sulpha drugs,Item,218.1,3.81
+2023-03-01,Sulpha drugs,Item,218.1,1.49
+2023-04-01,Sulpha drugs,Item,217.1,-2.86
+2023-05-01,Sulpha drugs,Item,218.1,-2.42
+2023-06-01,Sulpha drugs,Item,220.0,0.05
+2023-07-01,Sulpha drugs,Item,220.8,-1.25
+2023-08-01,Sulpha drugs,Item,221.9,1.14
+2023-09-01,Sulpha drugs,Item,223.7,1.96
+2023-10-01,Sulpha drugs,Item,221.9,-0.31
+2023-11-01,Sulpha drugs,Item,221.9,0.5
+2023-12-01,Sulpha drugs,Item,221.9,0.5
+2024-01-01,Sulpha drugs,Item,221.9,2.26
+2024-02-01,Sulpha drugs,Item,221.9,1.74
+2024-03-01,Sulpha drugs,Item,223.7,2.57
+2024-04-01,Sulpha drugs,Item,225.1,3.68
+2024-05-01,Sulpha drugs,Item,225.1,3.21
+2024-06-01,Sulpha drugs,Item,221.9,0.86
+2024-07-01,Sulpha drugs,Item,223.7,1.31
+2024-08-01,Sulpha drugs,Item,223.7,0.81
+2024-09-01,Sulpha drugs,Item,221.5,-0.98
+2024-10-01,Sulpha drugs,Item,222.2,0.14
+2024-11-01,Sulpha drugs,Item,230.2,3.74
+2024-12-01,Sulpha drugs,Item,229.3,3.33
+2025-01-01,Sulpha drugs,Item,228.3,2.88
+2025-02-01,Sulpha drugs,Item,229.5,3.42
+2025-03-01,Sulpha drugs,Item,229.5,2.59
+2025-04-01,Sulpha drugs,Item,221.9,-1.42
+2025-05-01,Sulpha drugs,Item,221.9,-1.42
+2025-06-01,Sulpha drugs,Item,220.7,-0.54
+2025-07-01,Sulpha drugs,Item,216.7,-3.13
+2025-08-01,Sulpha drugs,Item,216.7,-3.13
+2025-09-01,Sulpha drugs,Item,218.3,-1.44
+2025-10-01,Sulpha drugs,Item,220.5,-0.77
+2025-11-01,Sulpha drugs,Item,224.4,-2.52
+2025-12-01,Sulpha drugs,Item,224.4,-2.14
+2026-01-01,Sulpha drugs,Item,223.1,-2.28
+2026-02-01,Sulpha drugs,Item,223.1,-2.79
+2026-03-01,Sulpha drugs,Item,223.1,-2.79
+2026-04-01,Sulpha drugs,Item,223.1,0.54
+2019-01-01,Vaccine for hepatitis b,Item,170.8,
+2019-02-01,Vaccine for hepatitis b,Item,170.8,
+2019-03-01,Vaccine for hepatitis b,Item,170.8,
+2019-04-01,Vaccine for hepatitis b,Item,172.0,
+2019-05-01,Vaccine for hepatitis b,Item,172.0,
+2019-06-01,Vaccine for hepatitis b,Item,172.0,
+2019-07-01,Vaccine for hepatitis b,Item,172.0,
+2019-08-01,Vaccine for hepatitis b,Item,172.0,
+2019-09-01,Vaccine for hepatitis b,Item,172.0,
+2019-10-01,Vaccine for hepatitis b,Item,172.0,
+2019-11-01,Vaccine for hepatitis b,Item,172.0,
+2019-12-01,Vaccine for hepatitis b,Item,172.0,
+2020-01-01,Vaccine for hepatitis b,Item,172.0,0.7
+2020-02-01,Vaccine for hepatitis b,Item,172.0,0.7
+2020-03-01,Vaccine for hepatitis b,Item,172.0,0.7
+2020-04-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-05-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-06-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-07-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-08-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-09-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-10-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-11-01,Vaccine for hepatitis b,Item,172.6,0.35
+2020-12-01,Vaccine for hepatitis b,Item,172.6,0.35
+2021-01-01,Vaccine for hepatitis b,Item,172.6,0.35
+2021-02-01,Vaccine for hepatitis b,Item,172.6,0.35
+2021-03-01,Vaccine for hepatitis b,Item,172.6,0.35
+2021-04-01,Vaccine for hepatitis b,Item,172.9,0.17
+2021-05-01,Vaccine for hepatitis b,Item,172.9,0.17
+2021-06-01,Vaccine for hepatitis b,Item,172.9,0.17
+2021-07-01,Vaccine for hepatitis b,Item,172.9,0.17
+2021-08-01,Vaccine for hepatitis b,Item,173.2,0.35
+2021-09-01,Vaccine for hepatitis b,Item,173.2,0.35
+2021-10-01,Vaccine for hepatitis b,Item,173.3,0.41
+2021-11-01,Vaccine for hepatitis b,Item,185.3,7.36
+2021-12-01,Vaccine for hepatitis b,Item,188.4,9.15
+2022-01-01,Vaccine for hepatitis b,Item,192.6,11.59
+2022-02-01,Vaccine for hepatitis b,Item,197.5,14.43
+2022-03-01,Vaccine for hepatitis b,Item,201.4,16.69
+2022-04-01,Vaccine for hepatitis b,Item,212.0,22.61
+2022-05-01,Vaccine for hepatitis b,Item,214.6,24.12
+2022-06-01,Vaccine for hepatitis b,Item,216.3,25.1
+2022-07-01,Vaccine for hepatitis b,Item,222.6,28.74
+2022-08-01,Vaccine for hepatitis b,Item,226.9,31.0
+2022-09-01,Vaccine for hepatitis b,Item,224.1,29.39
+2022-10-01,Vaccine for hepatitis b,Item,224.5,29.54
+2022-11-01,Vaccine for hepatitis b,Item,224.9,21.37
+2022-12-01,Vaccine for hepatitis b,Item,226.0,19.96
+2023-01-01,Vaccine for hepatitis b,Item,226.8,17.76
+2023-02-01,Vaccine for hepatitis b,Item,227.1,14.99
+2023-03-01,Vaccine for hepatitis b,Item,227.7,13.06
+2023-04-01,Vaccine for hepatitis b,Item,232.9,9.86
+2023-05-01,Vaccine for hepatitis b,Item,232.9,8.53
+2023-06-01,Vaccine for hepatitis b,Item,232.9,7.67
+2023-07-01,Vaccine for hepatitis b,Item,232.9,4.63
+2023-08-01,Vaccine for hepatitis b,Item,232.9,2.64
+2023-09-01,Vaccine for hepatitis b,Item,232.9,3.93
+2023-10-01,Vaccine for hepatitis b,Item,232.9,3.74
+2023-11-01,Vaccine for hepatitis b,Item,233.0,3.6
+2023-12-01,Vaccine for hepatitis b,Item,233.0,3.1
+2024-01-01,Vaccine for hepatitis b,Item,233.0,2.73
+2024-02-01,Vaccine for hepatitis b,Item,233.0,2.6
+2024-03-01,Vaccine for hepatitis b,Item,233.0,2.33
+2024-04-01,Vaccine for hepatitis b,Item,233.0,0.04
+2024-05-01,Vaccine for hepatitis b,Item,233.0,0.04
+2024-06-01,Vaccine for hepatitis b,Item,233.0,0.04
+2024-07-01,Vaccine for hepatitis b,Item,233.0,0.04
+2024-08-01,Vaccine for hepatitis b,Item,233.0,0.04
+2024-09-01,Vaccine for hepatitis b,Item,233.1,0.09
+2024-10-01,Vaccine for hepatitis b,Item,233.1,0.09
+2024-11-01,Vaccine for hepatitis b,Item,233.1,0.04
+2024-12-01,Vaccine for hepatitis b,Item,233.1,0.04
+2025-01-01,Vaccine for hepatitis b,Item,233.1,0.04
+2025-02-01,Vaccine for hepatitis b,Item,224.2,-3.78
+2025-03-01,Vaccine for hepatitis b,Item,224.2,-3.78
+2025-04-01,Vaccine for hepatitis b,Item,227.1,-2.53
+2025-05-01,Vaccine for hepatitis b,Item,227.1,-2.53
+2025-06-01,Vaccine for hepatitis b,Item,227.1,-2.53
+2025-07-01,Vaccine for hepatitis b,Item,231.6,-0.6
+2025-08-01,Vaccine for hepatitis b,Item,231.6,-0.6
+2025-09-01,Vaccine for hepatitis b,Item,231.6,-0.64
+2025-10-01,Vaccine for hepatitis b,Item,231.6,-0.64
+2025-11-01,Vaccine for hepatitis b,Item,231.6,-0.64
+2025-12-01,Vaccine for hepatitis b,Item,233.7,0.26
+2026-01-01,Vaccine for hepatitis b,Item,233.8,0.3
+2026-02-01,Vaccine for hepatitis b,Item,233.8,4.28
+2026-03-01,Vaccine for hepatitis b,Item,233.8,4.28
+2026-04-01,Vaccine for hepatitis b,Item,233.8,2.95
+2019-01-01,Vaccine for polio,Item,128.5,
+2019-02-01,Vaccine for polio,Item,128.5,
+2019-03-01,Vaccine for polio,Item,128.4,
+2019-04-01,Vaccine for polio,Item,128.4,
+2019-05-01,Vaccine for polio,Item,129.9,
+2019-06-01,Vaccine for polio,Item,129.5,
+2019-07-01,Vaccine for polio,Item,129.5,
+2019-08-01,Vaccine for polio,Item,128.3,
+2019-09-01,Vaccine for polio,Item,128.3,
+2019-10-01,Vaccine for polio,Item,128.3,
+2019-11-01,Vaccine for polio,Item,128.7,
+2019-12-01,Vaccine for polio,Item,128.3,
+2020-01-01,Vaccine for polio,Item,128.3,-0.16
+2020-02-01,Vaccine for polio,Item,128.3,-0.16
+2020-03-01,Vaccine for polio,Item,128.7,0.23
+2020-04-01,Vaccine for polio,Item,132.0,2.8
+2020-05-01,Vaccine for polio,Item,132.6,2.08
+2020-06-01,Vaccine for polio,Item,132.6,2.39
+2020-07-01,Vaccine for polio,Item,132.6,2.39
+2020-08-01,Vaccine for polio,Item,132.6,3.35
+2020-09-01,Vaccine for polio,Item,132.6,3.35
+2020-10-01,Vaccine for polio,Item,132.5,3.27
+2020-11-01,Vaccine for polio,Item,132.5,2.95
+2020-12-01,Vaccine for polio,Item,132.6,3.35
+2021-01-01,Vaccine for polio,Item,132.6,3.35
+2021-02-01,Vaccine for polio,Item,132.6,3.35
+2021-03-01,Vaccine for polio,Item,133.0,3.34
+2021-04-01,Vaccine for polio,Item,133.0,0.76
+2021-05-01,Vaccine for polio,Item,133.9,0.98
+2021-06-01,Vaccine for polio,Item,133.9,0.98
+2021-07-01,Vaccine for polio,Item,133.9,0.98
+2021-08-01,Vaccine for polio,Item,133.9,0.98
+2021-09-01,Vaccine for polio,Item,133.9,0.98
+2021-10-01,Vaccine for polio,Item,135.7,2.42
+2021-11-01,Vaccine for polio,Item,135.6,2.34
+2021-12-01,Vaccine for polio,Item,135.8,2.41
+2022-01-01,Vaccine for polio,Item,138.2,4.22
+2022-02-01,Vaccine for polio,Item,141.7,6.86
+2022-03-01,Vaccine for polio,Item,145.6,9.47
+2022-04-01,Vaccine for polio,Item,147.8,11.13
+2022-05-01,Vaccine for polio,Item,147.8,10.38
+2022-06-01,Vaccine for polio,Item,148.9,11.2
+2022-07-01,Vaccine for polio,Item,138.1,3.14
+2022-08-01,Vaccine for polio,Item,138.9,3.73
+2022-09-01,Vaccine for polio,Item,139.9,4.48
+2022-10-01,Vaccine for polio,Item,140.7,3.68
+2022-11-01,Vaccine for polio,Item,141.6,4.42
+2022-12-01,Vaccine for polio,Item,143.2,5.45
+2023-01-01,Vaccine for polio,Item,144.6,4.63
+2023-02-01,Vaccine for polio,Item,146.4,3.32
+2023-03-01,Vaccine for polio,Item,147.7,1.44
+2023-04-01,Vaccine for polio,Item,148.6,0.54
+2023-05-01,Vaccine for polio,Item,150.3,1.69
+2023-06-01,Vaccine for polio,Item,151.2,1.54
+2023-07-01,Vaccine for polio,Item,151.7,9.85
+2023-08-01,Vaccine for polio,Item,154.2,11.02
+2023-09-01,Vaccine for polio,Item,156.5,11.87
+2023-10-01,Vaccine for polio,Item,175.2,24.52
+2023-11-01,Vaccine for polio,Item,177.6,25.42
+2023-12-01,Vaccine for polio,Item,179.5,25.35
+2024-01-01,Vaccine for polio,Item,181.0,25.17
+2024-02-01,Vaccine for polio,Item,182.1,24.39
+2024-03-01,Vaccine for polio,Item,183.2,24.04
+2024-04-01,Vaccine for polio,Item,184.9,24.43
+2024-05-01,Vaccine for polio,Item,185.3,23.29
+2024-06-01,Vaccine for polio,Item,181.5,20.04
+2024-07-01,Vaccine for polio,Item,186.3,22.81
+2024-08-01,Vaccine for polio,Item,186.3,20.82
+2024-09-01,Vaccine for polio,Item,187.3,19.68
+2024-10-01,Vaccine for polio,Item,187.3,6.91
+2024-11-01,Vaccine for polio,Item,187.3,5.46
+2024-12-01,Vaccine for polio,Item,179.9,0.22
+2025-01-01,Vaccine for polio,Item,184.2,1.77
+2025-02-01,Vaccine for polio,Item,179.9,-1.21
+2025-03-01,Vaccine for polio,Item,179.9,-1.8
+2025-04-01,Vaccine for polio,Item,179.9,-2.7
+2025-05-01,Vaccine for polio,Item,179.9,-2.91
+2025-06-01,Vaccine for polio,Item,179.9,-0.88
+2025-07-01,Vaccine for polio,Item,179.9,-3.44
+2025-08-01,Vaccine for polio,Item,179.9,-3.44
+2025-09-01,Vaccine for polio,Item,179.9,-3.95
+2025-10-01,Vaccine for polio,Item,179.9,-3.95
+2025-11-01,Vaccine for polio,Item,179.9,-3.95
+2025-12-01,Vaccine for polio,Item,179.9,0.0
+2026-01-01,Vaccine for polio,Item,179.9,-2.33
+2026-02-01,Vaccine for polio,Item,179.9,0.0
+2026-03-01,Vaccine for polio,Item,179.9,0.0
+2026-04-01,Vaccine for polio,Item,179.9,0.0
+2019-01-01,"Vials/ampoule, glass, empty or filled",Item,111.1,
+2019-02-01,"Vials/ampoule, glass, empty or filled",Item,114.6,
+2019-03-01,"Vials/ampoule, glass, empty or filled",Item,114.6,
+2019-04-01,"Vials/ampoule, glass, empty or filled",Item,109.9,
+2019-05-01,"Vials/ampoule, glass, empty or filled",Item,113.3,
+2019-06-01,"Vials/ampoule, glass, empty or filled",Item,104.9,
+2019-07-01,"Vials/ampoule, glass, empty or filled",Item,110.7,
+2019-08-01,"Vials/ampoule, glass, empty or filled",Item,111.8,
+2019-09-01,"Vials/ampoule, glass, empty or filled",Item,110.6,
+2019-10-01,"Vials/ampoule, glass, empty or filled",Item,108.3,
+2019-11-01,"Vials/ampoule, glass, empty or filled",Item,107.2,
+2019-12-01,"Vials/ampoule, glass, empty or filled",Item,110.4,
+2020-01-01,"Vials/ampoule, glass, empty or filled",Item,105.1,-5.4
+2020-02-01,"Vials/ampoule, glass, empty or filled",Item,109.9,-4.1
+2020-03-01,"Vials/ampoule, glass, empty or filled",Item,111.1,-3.05
+2020-04-01,"Vials/ampoule, glass, empty or filled",Item,104.9,-4.55
+2020-05-01,"Vials/ampoule, glass, empty or filled",Item,105.5,-6.88
+2020-06-01,"Vials/ampoule, glass, empty or filled",Item,103.4,-1.43
+2020-07-01,"Vials/ampoule, glass, empty or filled",Item,108.0,-2.44
+2020-08-01,"Vials/ampoule, glass, empty or filled",Item,107.7,-3.67
+2020-09-01,"Vials/ampoule, glass, empty or filled",Item,102.5,-7.32
+2020-10-01,"Vials/ampoule, glass, empty or filled",Item,103.9,-4.06
+2020-11-01,"Vials/ampoule, glass, empty or filled",Item,101.7,-5.13
+2020-12-01,"Vials/ampoule, glass, empty or filled",Item,105.0,-4.89
+2021-01-01,"Vials/ampoule, glass, empty or filled",Item,108.9,3.62
+2021-02-01,"Vials/ampoule, glass, empty or filled",Item,102.7,-6.55
+2021-03-01,"Vials/ampoule, glass, empty or filled",Item,104.2,-6.21
+2021-04-01,"Vials/ampoule, glass, empty or filled",Item,114.8,9.44
+2021-05-01,"Vials/ampoule, glass, empty or filled",Item,113.1,7.2
+2021-06-01,"Vials/ampoule, glass, empty or filled",Item,109.9,6.29
+2021-07-01,"Vials/ampoule, glass, empty or filled",Item,113.9,5.46
+2021-08-01,"Vials/ampoule, glass, empty or filled",Item,111.6,3.62
+2021-09-01,"Vials/ampoule, glass, empty or filled",Item,110.7,8.0
+2021-10-01,"Vials/ampoule, glass, empty or filled",Item,114.6,10.3
+2021-11-01,"Vials/ampoule, glass, empty or filled",Item,108.2,6.39
+2021-12-01,"Vials/ampoule, glass, empty or filled",Item,108.9,3.71
+2022-01-01,"Vials/ampoule, glass, empty or filled",Item,119.6,9.83
+2022-02-01,"Vials/ampoule, glass, empty or filled",Item,123.1,19.86
+2022-03-01,"Vials/ampoule, glass, empty or filled",Item,115.1,10.46
+2022-04-01,"Vials/ampoule, glass, empty or filled",Item,121.2,5.57
+2022-05-01,"Vials/ampoule, glass, empty or filled",Item,119.7,5.84
+2022-06-01,"Vials/ampoule, glass, empty or filled",Item,123.2,12.1
+2022-07-01,"Vials/ampoule, glass, empty or filled",Item,119.6,5.0
+2022-08-01,"Vials/ampoule, glass, empty or filled",Item,118.7,6.36
+2022-09-01,"Vials/ampoule, glass, empty or filled",Item,117.1,5.78
+2022-10-01,"Vials/ampoule, glass, empty or filled",Item,113.6,-0.87
+2022-11-01,"Vials/ampoule, glass, empty or filled",Item,117.6,8.69
+2022-12-01,"Vials/ampoule, glass, empty or filled",Item,118.3,8.63
+2023-01-01,"Vials/ampoule, glass, empty or filled",Item,118.5,-0.92
+2023-02-01,"Vials/ampoule, glass, empty or filled",Item,116.6,-5.28
+2023-03-01,"Vials/ampoule, glass, empty or filled",Item,117.4,2.0
+2023-04-01,"Vials/ampoule, glass, empty or filled",Item,119.7,-1.24
+2023-05-01,"Vials/ampoule, glass, empty or filled",Item,118.9,-0.67
+2023-06-01,"Vials/ampoule, glass, empty or filled",Item,116.4,-5.52
+2023-07-01,"Vials/ampoule, glass, empty or filled",Item,118.5,-0.92
+2023-08-01,"Vials/ampoule, glass, empty or filled",Item,120.0,1.1
+2023-09-01,"Vials/ampoule, glass, empty or filled",Item,118.6,1.28
+2023-10-01,"Vials/ampoule, glass, empty or filled",Item,116.8,2.82
+2023-11-01,"Vials/ampoule, glass, empty or filled",Item,118.9,1.11
+2023-12-01,"Vials/ampoule, glass, empty or filled",Item,119.2,0.76
+2024-01-01,"Vials/ampoule, glass, empty or filled",Item,118.9,0.34
+2024-02-01,"Vials/ampoule, glass, empty or filled",Item,119.4,2.4
+2024-03-01,"Vials/ampoule, glass, empty or filled",Item,120.0,2.21
+2024-04-01,"Vials/ampoule, glass, empty or filled",Item,119.4,-0.25
+2024-05-01,"Vials/ampoule, glass, empty or filled",Item,120.3,1.18
+2024-06-01,"Vials/ampoule, glass, empty or filled",Item,119.3,2.49
+2024-07-01,"Vials/ampoule, glass, empty or filled",Item,118.2,-0.25
+2024-08-01,"Vials/ampoule, glass, empty or filled",Item,119.7,-0.25
+2024-09-01,"Vials/ampoule, glass, empty or filled",Item,119.2,0.51
+2024-10-01,"Vials/ampoule, glass, empty or filled",Item,119.3,2.14
+2024-11-01,"Vials/ampoule, glass, empty or filled",Item,118.4,-0.42
+2024-12-01,"Vials/ampoule, glass, empty or filled",Item,118.5,-0.59
+2025-01-01,"Vials/ampoule, glass, empty or filled",Item,118.5,-0.34
+2025-02-01,"Vials/ampoule, glass, empty or filled",Item,118.6,-0.67
+2025-03-01,"Vials/ampoule, glass, empty or filled",Item,119.5,-0.42
+2025-04-01,"Vials/ampoule, glass, empty or filled",Item,118.4,-0.84
+2025-05-01,"Vials/ampoule, glass, empty or filled",Item,118.6,-1.41
+2025-06-01,"Vials/ampoule, glass, empty or filled",Item,119.2,-0.08
+2025-07-01,"Vials/ampoule, glass, empty or filled",Item,118.8,0.51
+2025-08-01,"Vials/ampoule, glass, empty or filled",Item,118.4,-1.09
+2025-09-01,"Vials/ampoule, glass, empty or filled",Item,118.8,-0.34
+2025-10-01,"Vials/ampoule, glass, empty or filled",Item,119.9,0.5
+2025-11-01,"Vials/ampoule, glass, empty or filled",Item,118.8,0.34
+2025-12-01,"Vials/ampoule, glass, empty or filled",Item,117.9,-0.51
+2026-01-01,"Vials/ampoule, glass, empty or filled",Item,117.1,-1.18
+2026-02-01,"Vials/ampoule, glass, empty or filled",Item,118.7,0.08
+2026-03-01,"Vials/ampoule, glass, empty or filled",Item,117.0,-2.09
+2026-04-01,"Vials/ampoule, glass, empty or filled",Item,118.8,0.34
